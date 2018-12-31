@@ -1,0 +1,132 @@
+body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 18px;
+    line-height: 1.9;
+}
+
+.main-container {
+    background-color: #F7F7F7;
+}
+
+header {
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    background-color: white;
+    position: fixed;
+    right: 0;
+    left: 0;
+    transition: all 0.4s ease-in-out; /* Animation fixen */
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    z-index: 1030;
+}
+
+.logo {
+    max-height: 100px;
+    padding: 20px 10px 16px 45px;
+}
+
+.logo-shrink {
+    max-height: 70px;
+    padding: 15px 5px 12px 45px;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.menu {
+    font-weight: 600;
+    margin: 0;
+}
+
+.menu li {
+    display: inline;
+    list-style-type: none;
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+.menu a {
+    color: #323232;
+}
+
+.header-phone {
+    margin-left: 35px;
+    margin-right: 60px;
+    padding: 13px 21px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    letter-spacing: .6px;
+}
+
+.header-phone-shrink {
+    padding: 8px 13px;
+}
+
+.header-phone-link {
+    color: #323232;
+}
+
+.header-phone-icon {
+    font-size: 18px;
+    margin-right: 6px;
+    color: #9B225F;
+}
+
+.main {
+    padding: 70px 0 0 0;
+}
+
+.centered-text {
+    text-align: center;
+    font-size: 17px;
+    color: #0F0F0F;
+    padding: 80px 0;
+}
+
+.purple-line {
+    background-color: #9B225F;
+    width: 58px;
+    height: 2px;
+}
+
+.call-to-action {
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10px 24px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    letter-spacing: .6px;
+    font-weight: 600;
+    font-size: 14px;
+    box-shadow: 2px 2px 28px 1px rgba(0, 0, 0, 0.2);
+}
+
+.call-to-action-wide {
+    font-size: 18px;
+    color: #444;
+    background-color: white;
+    width: 320px;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+    box-shadow: none;
+}
+
+.profile-box {
+    background-color: #9B225F;
+    color: white;
+    padding: 60px 30px 9px 30px;
+    opacity: 0.85;
+    font-size: 14px;
+}
+
+.footer {
+    font-size: 13px;
+}
