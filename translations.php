@@ -14,63 +14,7 @@ Hinweise an Bubulina:
 */
 
 const TRANSLATIONS = [
-    /* TITLE + METADESCRIPTION */
-    "pages.home.title" => [
-        "de" => "Sprachmühle",
-    ],
-    "pages.home.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "pages.interpreting.title" => [
-        "de" => "Sprachmühle",
-    ],
-    "pages.interpreting.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "pages.translating.title" => [
-        "de" => "Sprachmühle",
-    ],
-    "pages.translating.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "pages.profile.title" => [
-        "de" => "Sprachmühle",
-    ],
-    "pages.profile.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "pages.contact.title" => [
-        "de" => "Sprachmühle",
-    ],
-    "pages.contact.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "pages.imprint.title" => [
-        "de" => "Sprachmühle",
-    ],
-    "pages.imprint.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "pages.privacy.title" => [
-        "de" => "Sprachmühle",
-    ],
-    "pages.privacy.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "pages.agb.title" => [
-        "de" => "Sprachmühle",
-    ],
-    "pages.agb.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "pages.404.title" => [
-        "de" => "Sprachmühle",
-    ],
-    "pages.404.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-
-    /* HEADER */
+    /* MENÜ */
     "menu.home" => [
         "de" => "STARTSEITE",
     ],
@@ -92,8 +36,81 @@ const TRANSLATIONS = [
     "logo.alt" => [
         "de" => "Sprachmühle Logo",
     ],
+    "tel.title" => [
+        "de" => "Anrufen",
+    ],
+
+    /* STARTSEITE */
+    "home.title" => [
+        "de" => "Sprachmühle",
+    ],
+    "home.description" => [
+        "de" => "Die Sprachmühle ist...",
+    ],
+
+    /* DOLMETSCHEN */
+    "interpreting.title" => [
+        "de" => "Sprachmühle",
+    ],
+    "interpreting.description" => [
+        "de" => "Die Sprachmühle ist...",
+    ],
+
+    /* ÜBERSETZEN */
+    "translating.title" => [
+        "de" => "Sprachmühle",
+    ],
+    "translating.description" => [
+        "de" => "Die Sprachmühle ist...",
+    ],
+
+    /* PROFIL */
+    "profile.title" => [
+        "de" => "Sprachmühle",
+    ],
+    "profile.description" => [
+        "de" => "Die Sprachmühle ist...",
+    ],
+
+    /* KONTAKT */
+    "contact.title" => [
+        "de" => "Sprachmühle",
+    ],
+    "contact.description" => [
+        "de" => "Die Sprachmühle ist...",
+    ],
+
+    /* IMPRESSUM */
+    "imprint.title" => [
+        "de" => "Sprachmühle",
+    ],
+    "imprint.description" => [
+        "de" => "Die Sprachmühle ist...",
+    ],
+
+    /* DATENSCHUTZERKLÄRUNG */
+    "privacy.title" => [
+        "de" => "Sprachmühle",
+    ],
+    "privacy.description" => [
+        "de" => "Die Sprachmühle ist...",
+    ],
+
+    /* AGB */
+    "agb.title" => [
+        "de" => "Sprachmühle",
+    ],
+    "agb.description" => [
+        "de" => "Die Sprachmühle ist...",
+    ],
 
     /* 404 */
+    "404.title" => [
+        "de" => "Sprachmühle",
+    ],
+    "404.description" => [
+        "de" => "Die Sprachmühle ist...",
+    ],
     "404.header" => [
         "de" => "Seite existiert nicht",
     ],

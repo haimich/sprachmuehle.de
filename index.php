@@ -7,63 +7,63 @@
     // set page variables
     switch ($GLOBALS["page"]) {
         case PAGE_HOME: {
-            $title = t("pages.home.title");
-            $description = t("pages.home.description");
+            $title = t("home.title");
+            $description = t("home.description");
             $content = "pages/home.php";
             break;
         }
         case PAGE_INTERPRETING: {
-            $title = t("pages.interpreting.title");
-            $description = t("pages.interpreting.description");
+            $title = t("interpreting.title");
+            $description = t("interpreting.description");
             $content = "pages/interpreting.php";
             break;
         }
         case PAGE_TRANSLATING: {
-            $title = t("pages.translating.title");
-            $description = t("pages.translating.description");
+            $title = t("translating.title");
+            $description = t("translating.description");
             $content = "pages/translating.php";
             break;
         }
         case PAGE_PROFILE: {
-            $title = t("pages.profile.title");
-            $description = t("pages.profile.description");
+            $title = t("profile.title");
+            $description = t("profile.description");
             $content = "pages/profile.php";
             break;
         }
         case PAGE_CONTACT: {
-            $title = t("pages.contact.title");
-            $description = t("pages.contact.description");
+            $title = t("contact.title");
+            $description = t("contact.description");
             $content = "pages/contact.php";
             break;
         }
         case PAGE_IMPRINT: {
-            $title = t("pages.imprint.title");
-            $description = t("pages.imprint.description");
+            $title = t("imprint.title");
+            $description = t("imprint.description");
             $content = "pages/imprint.php";
             break;
         }
         case PAGE_DATA_PRIVACY: {
-            $title = t("pages.privacy.title");
-            $description = t("pages.privacy.description");
+            $title = t("privacy.title");
+            $description = t("privacy.description");
             $content = "pages/privacy.php";
             break;
         }
         case PAGE_AGB: {
-            $title = t("pages.agb.title");
-            $description = t("pages.agb.description");
+            $title = t("agb.title");
+            $description = t("agb.description");
             $content = "pages/agb.php";
             break;
         }
         case PAGE_404: {
-            $title = t("pages.404.title");
-            $description = t("pages.404.description");
+            $title = t("404.title");
+            $description = t("404.description");
             $content = "pages/404.php";
             break;
         }
 
         default: {
-            $title = t("pages.home.title");
-            $description = t("pages.home.description");
+            $title = t("home.title");
+            $description = t("home.description");
             $content = "pages/home.php";
         }
     }
@@ -88,13 +88,13 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    <link rel="stylesheet" href="static/css/main.css">
+    <link rel="stylesheet" href="/static/css/main.css">
 
     <!-- Icons -->
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="apple-touch-icon" sizes="180x180" href="static/images/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="static/images/icons//favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="static/images/icons//favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/images/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/images/icons//favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/images/icons//favicon-16x16.png">
     <meta name="msapplication-TileColor" content="#da532c">
 </head>
 
@@ -107,7 +107,7 @@
             <!-- Logo -->
             <div class="col-sm-3 col-xs-12">
                 <a href="/" title="<?=t("logo.title")?>">
-                    <img class="logo" src="static/images/logos/sprachmuehle.png" alt='<?=t("logo.alt")?>' />
+                    <img class="logo" src="/static/images/logos/sprachmuehle.png" alt='<?=t("logo.alt")?>' />
                 </a>
             </div>
             
@@ -136,7 +136,7 @@
                 </ul>
         
                 <!-- Telefonnummer-->
-                <a href="tel:‭+4915202312427‬" class="header-phone-link">
+                <a href="tel:‭+4915202312427‬" class="header-phone-link" title="<?=t('tel.title')?>">
                     <div class="header-phone">
                         <i class="header-phone-icon fas fa-phone fa-flip-horizontal"></i>
                         0152 0231 2427‬
@@ -183,7 +183,7 @@
 
                     <!-- Mitgliedschaften -->
                     <div class="col-lg" style="display: flex; justify-content: flex-end;">
-                        <img src="static/images/logos/bdue.png" alt="BDÜ Logo" style="height: 30px;" />
+                        <img src="/static/images/logos/bdue.png" alt="BDÜ Logo" style="height: 30px;" />
                     </div>
                 </div>
             </div>
@@ -195,7 +195,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
-    <script src="static/js/main.js"></script>
+    <script src="/static/js/main.js"></script>
     
 </body>
 </html>
