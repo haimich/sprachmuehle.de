@@ -83,6 +83,22 @@ const TRANSLATIONS = [
     "home.services-cta3" => [
         "de" => "Übersetzen",
     ],
+    "home.aboutme-alt" => [
+        "de" => "Über mich",
+    ],
+    "home.aboutme-text" => [
+        "de" => "Ich bin ausgebildete Konferenzdolmetscherin und Übersetzerin für die Sprachen Deutsch, Rumänisch, Französisch und Italienisch. Obwohl sich meine Sprachmühle am Rhein, in der Nähe von Karlsruhe befindet, bin ich für Sie weltweit im Einsatz. Faszination und Begeisterung für fremde Kulturen und Sprachen haben mich zu meinem Beruf geführt, den ich mit Leidenschaft und einem hohen Anspruch an meine Arbeit ausübe.",
+    ],
+    "home.aboutme-button" => [
+        "de" => "Profil",
+    ],
+    "home.contact-heading" => [
+        "de" => "Rundum professionell",
+    ],
+    "home.contact-text" => [
+        "de" => "Freundlich, zuverlässig und diskret bearbeite ich Ihre Anfragen und Aufträge. Ob persönlich oder virtuell, per Telefon, E-Mail oder WhatsApp – Sie erreichen mich über viele Kanäle. 
+Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratung? Ich bin gerne für Sie da. Sprechen Sie mich einfach an!",
+    ],
 
     /* DOLMETSCHEN */
     "interpreting.title" => [

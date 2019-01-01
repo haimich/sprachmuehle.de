@@ -1,9 +1,9 @@
 <!-- Hero image -->
 <div class="row">
-    <div class="col-12 welcome-image-container">
+    <div class="hero-image-container">
         <img
             src="/static/images/cristina_mueller_welcome.jpg"
-            class="welcome-image img-fluid"
+            class="img-fluid"
             alt="<?=t('home.welcome-alt')?>"
         />
 
@@ -94,42 +94,54 @@
 
 <!-- About me -->
 <div class="row" style="margin-top: 100px;">
-    <div class="col-sm-4 offset-sm-1 profile-box">
-        <h4 style="margin-bottom: 30px">Cristina Müller</h4>
+    <div class="col-12 hero-image-container" style="padding-left: 65px; padding-right: 65px;">
+        <img
+            src="/static/images/cristina_mueller_sitzend.jpg"
+            class="img-fluid"
+            alt="<?=t('home.aboutme-alt')?>"
+        />
 
-        <p style="font-size: 17px">
-            Konferenzdolmetscherin (M. A.) und Übersetzerin für Rumänisch, Französisch, und Italienisch mit Standort in Rheinstetten (Berufswohnsitz Karlsruhe).
-        </p>
+        <div class="aboutme-image-text">
+            <h2>
+                Cristina Müller
+            </h2>
 
-        <div class="call-to-action" style="width: 162px; background-color: white; margin-top: 15px;">
-            <span style="color: #020202">ÜBER MICH</span>
-            <i class="fas fa-angle-right" style="margin-left: 10px; margin-top: 3px; font-size: 18px; font-weight: normal; color: #484848"></i>
+            <h4 class="aboutme-text">
+                <?=t('home.aboutme-text')?>
+            </h4>
+
+            <a href="/profil" class="call-to-action" style="width: 162px; background-color: white; margin-top: 18px; font-size: .87rem;">
+                <div class="col-8" style="padding-left: 0">
+                    <?=t('home.aboutme-button')?>
+                </div>
+
+                <div class="col-4 text-right" style="padding-right: 0">
+                    <i class="fas fa-angle-right call-to-action-icon"></i>
+                </div>
+
+                <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank" style="margin-left: 20px;">
+                    <img src="/static/images/logos/bdue_vkd_logo.svg" title="<?=t('footer.logo.title')?>" style="height: 38px;" />
+                </a>
+            </a>
         </div>
-    </div>
-
-    <div class="col-sm-1 profile-box">
-        &nbsp; <!-- just for the color -->
-    </div>
-
-    <div class="col-sm-6" style="margin-left: -15px;">
-        <img src="./img/Cristina_027.jpg" alt="Kunde" style="max-width: 500px;" />
     </div>
 </div>
 
-<!-- Any questions? -->
+<!-- Contact -->
 <div class="row justify-content-center" style="text-align: center; margin-top: 120px; margin-bottom: 100px">
     <div class="col-sm-9">
-    <h3 style="font-weight: normal">Sie haben noch Fragen?</h3>
+        <h2>
+            <?=t('home.contact-heading')?>
+        </h2>
 
-    <p style="margin-top: 16px">
-        Ganz gleich, welche Art von Veranstaltung Sie planen: Örtlich ungebunden, stehe ich Ihnen beratend zur Seite und übernehme freundlich und zuverlässig die sprachliche Betreuung Ihres Projektes. Ich freue mich darauf, Ihre Botschaft authentisch und wirkungsvoll zu vermitteln.
-    </p>
+        <p style="margin-top: 16px">
+            <?=t('home.contact-text')?>
+        </p>
 
-    <p style="margin-top: 75px; font-size: 16px; display: none">
-        Cristina Müller<br />
-        Mobil: +49 (0) 152 / 02312427<br />
-        <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
-    </p>
-
+        <p style="margin-top: 72px;">
+            Cristina Müller<br />
+            Mobil: +49 (0) 152 / 02312427<br />
+            <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
+        </p>
     </div>
 </div>

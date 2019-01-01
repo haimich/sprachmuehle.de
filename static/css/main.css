@@ -189,7 +189,7 @@ header {
 
 /* HOME */
 
-.welcome-image-container {
+.hero-image-container {
     position: relative;
 }
 
@@ -217,6 +217,19 @@ header {
     padding: 60px 30px 9px 30px;
     opacity: 0.85;
     font-size: 0.65rem;
+}
+
+.aboutme-image-text {
+    position: absolute;
+    left: 10%;
+    top: 16%;
+}
+
+.aboutme-text {
+    margin-top: 20px;
+    font-size: 1.05rem;
+    max-width: 55%;
+    line-height: 1.4rem;
 }
 
 /* FOOTER */

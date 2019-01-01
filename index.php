@@ -180,14 +180,14 @@
             <div class="col-12 col-xl-10 offset-xl-1" style="background-color: white">
             
                 <?php include $content; ?>
-
-                <div class="row justify-content-center">
-                    <!-- Line divider -->
-                    <div class="col-lg-11" style="border-bottom: 1px solid #dadada;"></div>
-                </div>
             </div>
         </div>
 
+        <div class="row justify-content-center">
+            <!-- Line divider -->
+            <div class="col-lg-11" style="border-bottom: 1px solid #dadada;"></div>
+        </div>
+        
         <!-- FOOTER -->
         <footer class="row footer align-items-center">
             <!-- Copyright -->
