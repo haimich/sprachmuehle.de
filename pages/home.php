@@ -1,6 +1,6 @@
 <!-- Hero image -->
 <div class="row">
-    <div class="welcome-image-container">
+    <div class="col-12 welcome-image-container">
         <img
             src="/static/images/cristina_mueller_welcome.jpg"
             class="welcome-image img-fluid"
@@ -26,8 +26,10 @@
     </p>
 </div>
 
-<div class="row justify-content-center">
-    <hr class="purple-line">
+<div class="row ">
+    <div class="col-12" style="display: flex; justify-content: center;">
+        <hr class="purple-line">
+    </div>
 </div>
 
 <!-- About me -->
@@ -45,22 +47,48 @@
 
 <!-- Leistungen -->
 <div class="row services-box">
-    <h2>
+    <h2 class="col-12">
         <?=t('home.services-header')?>
     </h2>
 
-    test
-
-    <div style="margin-top: 20px; margin-bottom: 24px;">
+    <div class="col-12" style="margin-top: 20px; margin-bottom: 24px;">
         <?=t('home.services-text')?>
     </div>
 
-    <!-- <hr class="purple-line"> -->
+    <div class="col-12">
+        <hr class="purple-line">
+    </div>
 
-    <div style="margin-top: 40px; display: flex; justify-content: space-between">
-        <div>test</div>
-        <div>test</div>
-        <div>test</div>
+    <div class="col-12" style="margin-top: 40px; margin-left: 10px; display: flex; justify-content: space-between">
+        <a href="/dolmetschen" class="call-to-action call-to-action-wide row justify-content-between">
+            <div class="col-8" style="padding-left: 0">
+                <?=t('home.services-cta1')?>
+            </div>
+
+            <div class="col-4 text-right" style="padding-right: 0">
+                <i class="fas fa-angle-right call-to-action-icon"></i>
+            </div>
+        </a>
+        
+        <a href="/dolmetschen#konferenzberatung" class="call-to-action call-to-action-wide row justify-content-between">
+            <div class="col-8" style="padding-left: 0">
+                <?=t('home.services-cta2')?>
+            </div>
+
+            <div class="col-4 text-right" style="padding-right: 0">
+                <i class="fas fa-angle-right call-to-action-icon"></i>
+            </div>
+        </a>
+
+        <a href="/uebersetzen" class="call-to-action call-to-action-wide row justify-content-between">
+            <div class="col-8" style="padding-left: 0">
+                <?=t('home.services-cta3')?>
+            </div>
+
+            <div class="col-4 text-right" style="padding-right: 0">
+                <i class="fas fa-angle-right call-to-action-icon"></i>
+            </div>
+        </a>
     </div>
 </div>
 
