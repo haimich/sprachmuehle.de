@@ -117,4 +117,18 @@ const TRANSLATIONS = [
     "404.description" => [
         "de" => "Es tut uns leid, aber die von Ihnen aufgerufene Seite existiert nicht.",
     ],
+
+    /* FOOTER */
+    "footer.imprint" => [
+        "de" => "Impressum",
+    ],
+    "footer.agb" => [
+        "de" => "AGB",
+    ],
+    "footer.privacy" => [
+        "de" => "Datenschutz",
+    ],
+    "footer.logo.title" => [
+        "de" => "BDÜ/VKD Logo",
+    ],
 ];

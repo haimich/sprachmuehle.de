@@ -105,7 +105,7 @@
         <!-- HEADER -->
         <header class="row">
             <!-- Logo -->
-            <div class="col-sm-3 col-xs-12">
+            <div class="col-sm-2">
                 <a href="/" title="<?=t("logo.title")?>">
                     <img class="logo" src="/static/images/logos/sprachmuehle.png" alt='<?=t("logo.alt")?>' />
                 </a>
@@ -115,23 +115,43 @@
             <div class="col-sm menu-container">
                 <ul class="menu">
                     <li>
-                        <a href="/"><?=t("menu.home")?></a>
+                        <? if ($GLOBALS["page"] === PAGE_HOME): ?>
+                            <a href="/" class="menu-active"><?=t("menu.home")?></a>
+                        <? else: ?>
+                            <a href="/"><?=t("menu.home")?></a>
+                        <? endif; ?>
                     </li>
-        
+
                     <li>
-                        <a href="/dolmetschen"><?=t("menu.interpreting")?></a>
+                        <? if ($GLOBALS["page"] === PAGE_INTERPRETING): ?>
+                            <a href="/dolmetschen" class="menu-active"><?=t("menu.interpreting")?></a>
+                        <? else: ?>
+                            <a href="/dolmetschen"><?=t("menu.interpreting")?></a>
+                        <? endif; ?>
                     </li>
-        
+                    
                     <li>
-                        <a href="/uebersetzen"><?=t("menu.translating")?></a>
+                        <? if ($GLOBALS["page"] === PAGE_TRANSLATING): ?>
+                            <a href="/uebersetzen" class="menu-active"><?=t("menu.translating")?></a>
+                        <? else: ?>
+                            <a href="/uebersetzen"><?=t("menu.translating")?></a>
+                        <? endif; ?>
                     </li>
-        
+
                     <li>
-                        <a href="/profil"><?=t("menu.profile")?></a>
+                        <? if ($GLOBALS["page"] === PAGE_PROFILE): ?>
+                            <a href="/profil" class="menu-active"><?=t("menu.profile")?></a>
+                        <? else: ?>
+                            <a href="/profil"><?=t("menu.profile")?></a>
+                        <? endif; ?>
                     </li>
-        
+
                     <li>
-                        <a href="/kontakt"><?=t("menu.contact")?></a>
+                        <? if ($GLOBALS["page"] === PAGE_CONTACT): ?>
+                            <a href="/kontakt" class="menu-active"><?=t("menu.contact")?></a>
+                        <? else: ?>
+                            <a href="/kontakt"><?=t("menu.contact")?></a>
+                        <? endif; ?>
                     </li>
                 </ul>
         
@@ -139,7 +159,7 @@
                 <a href="tel:‭+4915202312427‬" class="header-phone-link" title="<?=t('tel.title')?>">
                     <div class="header-phone">
                         <i class="header-phone-icon fas fa-phone fa-flip-horizontal"></i>
-                        0152 0231 2427‬
+                        01520 231 24 27‬
                     </div>
                 </a>
             </div>
@@ -158,7 +178,8 @@
         <div class="row footer">
             <div class="col-lg-10 offset-lg-1" style="background-color: white;">
                 <div class="row justify-content-center">
-                    <div class="col-lg-10" style="border-top: 1px solid #dadada;"></div>
+                    <!-- Top border -->
+                    <div class="col-lg-11" style="border-top: 1px solid #dadada;"></div>
                 </div>
 
                 <div class="row align-self-center" style="margin-top: 50px;">
@@ -172,18 +193,20 @@
 
                     <!-- Links -->
                     <div class="col-lg-4 offset-lg-1" style="display: flex; justify-content: center; letter-spacing: .9px;">
-                        <a href="/impressum">Impressum</a>
+                        <a href="/impressum" style="color: #000000"><?=t('footer.imprint')?></a>
                         <span style="padding: 0 4px;"> - </span>
 
-                        <a href="/agb">AGB</a>
+                        <a href="/agb" style="color: #000000"><?=t('footer.agb')?></a>
                         <span style="padding: 0 4px;"> - </span>
 
-                        <a href="/datenschutz">Datenschutz</a>
+                        <a href="/datenschutz" style="color: #000000"><?=t('footer.privacy')?></a>
                     </div>
 
                     <!-- Mitgliedschaften -->
                     <div class="col-lg" style="display: flex; justify-content: flex-end;">
-                        <img src="/static/images/logos/bdue.png" alt="BDÜ Logo" style="height: 30px;" />
+                        <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank">
+                            <img src="/static/images/logos/vkd_small.svg" title="<?=t('footer.logo.title')?>" style="height: 30px;" />
+                        </a>
                     </div>
                 </div>
             </div>
