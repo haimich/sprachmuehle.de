@@ -1,29 +1,36 @@
+/*
+ * COLORS:
+ * logo purple: #9B225F
+ * logo blue: #4BBAD4
+ * text 1st: #121212
+ * text 2nd: #333333
+ * text dark blue: #194d60
+ */
+
 body {
     font-family: 'News Cycle', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.9;
 }
 
-.main-container {
-    background-color: #ffffff;
-}
+/* HEADER */
 
 header {
-    font-size: 16px;
+    font-size: .98rem;
     letter-spacing: 0.4px;
     background-color: white;
     position: fixed;
     right: 0;
     left: 0;
-    transition: all 0.4s ease-in-out; /* Animation fixen */
-    -webkit-transition: all 0.4s ease-in-out;
-    -moz-transition: all 0.4s ease-in-out;
     z-index: 1030;
 }
 
 .logo {
     max-height: 95px;
     padding: 20px 10px 16px 45px;
+    transition: all 0.12s ease-in-out;
+    -webkit-transition: all 0.12s ease-in-out;
+    -moz-transition: all 0.12s ease-in-out;
 }
 
 .logo-shrink {
@@ -39,8 +46,14 @@ header {
 
 .menu {
     font-weight: 600;
-    margin: 0;
-    padding-left: 0;
+    margin: 0 35px 0 0;
+    transition: all 0.12s ease-in-out;
+    -webkit-transition: all 0.12s ease-in-out;
+    -moz-transition: all 0.12s ease-in-out;
+}
+
+.menu-shrink {
+    font-size: .9rem;
 }
 
 .menu li {
@@ -55,17 +68,25 @@ header {
     padding-bottom: 2px;
 }
 
-.menu-active {
+.menu a:hover {
+    color: #9B225F;
+    text-decoration: none;
+}
+
+.menu a.menu-active {
+    color: #9B225F;
     border-bottom: 2px solid #9B225F;
 }
 
 .header-phone {
-    margin-left: 35px;
-    margin-right: 60px;
     padding: 11px 21px;
     background-color: #f7f7f7;
     border-radius: 30px;
     letter-spacing: .6px;
+}
+
+.header-phone-link:hover {
+    color: #9B225F;
 }
 
 .header-phone-shrink {
@@ -77,9 +98,18 @@ header {
 }
 
 .header-phone-icon {
-    font-size: 18px;
-    margin-right: 6px;
+    margin-right: 8px;
     color: #9B225F;
+}
+
+.header-gap-right {
+    width: 45px;
+}
+
+/* MAIN */
+
+.main-container {
+    background-color: #ffffff;
 }
 
 .main {
@@ -88,7 +118,7 @@ header {
 
 .centered-text {
     text-align: center;
-    font-size: 17px;
+    font-size: 0.85rem;
     color: #0F0F0F;
     padding: 80px 0;
 }
@@ -109,12 +139,12 @@ header {
     border-radius: 30px;
     letter-spacing: .6px;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 0.7rem;
     box-shadow: 2px 2px 28px 1px rgba(0, 0, 0, 0.2);
 }
 
 .call-to-action-wide {
-    font-size: 18px;
+    font-size: 0.9rem;
     color: #444;
     background-color: white;
     width: 320px;
@@ -125,6 +155,8 @@ header {
     box-shadow: none;
 }
 
+/* FOOTER */
+
 .footer {
-    font-size: 13px;
+    font-size: 0.9rem;
 }

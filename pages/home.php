@@ -121,7 +121,7 @@
     color: white;
     padding: 60px 30px 9px 30px;
     opacity: 0.85;
-    font-size: 14px;
+    font-size: 0.7rem;
 }
 
 </style>
