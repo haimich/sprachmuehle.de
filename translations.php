@@ -47,6 +47,27 @@ const TRANSLATIONS = [
     "home.description" => [
         "de" => "Die Sprachmühle ist...",
     ],
+    "home.keywords" => [
+        "de" => "dolmetschen,übersetzen",
+    ],
+    "home.welcome-alt" => [
+        "de" => "Willkommen",
+    ],
+    "home.welcome-header" => [
+        "de" => "Professionelle<br />Dolmetscherin und Übersetzerin",
+    ],
+    "home.welcome-subtitle" => [
+        "de" => "- damit Sie immer und überall richtig verstanden werden",
+    ],
+    "home.intro" => [
+        "de" => "Als Konferenzdolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation. Mündlich wie schriftlich sorge ich dafür, dass Verständigung gelingt und dass Sie auf dem internationalem Parkett eine gute Figur machen. Für Politik und Wirtschaft bin ich seit zehn Jahren weltweit im Einsatz. Bald auch für Sie?",
+    ],
+    "home.languages-alt" => [
+        "de" => "Dolmetschen",
+    ],
+    "home.languages" => [
+        "de" => "Mit mir können Sie auf Französisch, Rumänisch und Italienisch genauso selbstsicher und kompetent kommunizieren wie auf Deutsch. Wenn Sie für Ihre internationalen Veranstaltungen weitere Sprachen benötigen, stelle ich für Sie aus meinem Kollegennetzwerk ein erstklassiges Team zusammen und organisiere die erforderliche Technik. So können Sie sich auf Ihre eigentlichen Aufgaben konzentrieren und darauf vertrauen, dass Ihre Veranstaltung ein voller Erfolg wird.",
+    ],
 
     /* DOLMETSCHEN */
     "interpreting.title" => [
@@ -54,6 +75,9 @@ const TRANSLATIONS = [
     ],
     "interpreting.description" => [
         "de" => "Die Sprachmühle ist...",
+    ],
+    "interpreting.keywords" => [
+        "de" => "dolmetschen,übersetzen",
     ],
 
     /* ÜBERSETZEN */
@@ -63,6 +87,9 @@ const TRANSLATIONS = [
     "translating.description" => [
         "de" => "Die Sprachmühle ist...",
     ],
+    "translating.keywords" => [
+        "de" => "dolmetschen,übersetzen",
+    ],
 
     /* PROFIL */
     "profile.title" => [
@@ -70,6 +97,9 @@ const TRANSLATIONS = [
     ],
     "profile.description" => [
         "de" => "Die Sprachmühle ist...",
+    ],
+    "profile.keywords" => [
+        "de" => "dolmetschen,übersetzen",
     ],
 
     /* KONTAKT */
@@ -79,6 +109,9 @@ const TRANSLATIONS = [
     "contact.description" => [
         "de" => "Die Sprachmühle ist...",
     ],
+    "contact.keywords" => [
+        "de" => "dolmetschen,übersetzen",
+    ],
 
     /* IMPRESSUM */
     "imprint.title" => [
@@ -86,6 +119,9 @@ const TRANSLATIONS = [
     ],
     "imprint.description" => [
         "de" => "Die Sprachmühle ist...",
+    ],
+    "imprint.keywords" => [
+        "de" => "dolmetschen,übersetzen",
     ],
 
     /* DATENSCHUTZERKLÄRUNG */
@@ -95,6 +131,9 @@ const TRANSLATIONS = [
     "privacy.description" => [
         "de" => "Die Sprachmühle ist...",
     ],
+    "privacy.keywords" => [
+        "de" => "dolmetschen,übersetzen",
+    ],
 
     /* AGB */
     "agb.title" => [
@@ -102,6 +141,9 @@ const TRANSLATIONS = [
     ],
     "agb.description" => [
         "de" => "Die Sprachmühle ist...",
+    ],
+    "agb.keywords" => [
+        "de" => "dolmetschen,übersetzen",
     ],
 
     /* 404 */
@@ -111,11 +153,17 @@ const TRANSLATIONS = [
     "404.description" => [
         "de" => "Die Sprachmühle ist...",
     ],
+    "404.keywords" => [
+        "de" => "dolmetschen,übersetzen",
+    ],
     "404.header" => [
         "de" => "Seite existiert nicht",
     ],
     "404.description" => [
         "de" => "Es tut uns leid, aber die von Ihnen aufgerufene Seite existiert nicht.",
+    ],
+    "404.keywords" => [
+        "de" => "Es tut uns leid, aber die von Ihnen aufgerufene dolmetschen,übersetzen",
     ],
 
     /* FOOTER */

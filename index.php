@@ -9,54 +9,63 @@
         case PAGE_HOME: {
             $title = t("home.title");
             $description = t("home.description");
+            $keywords = t("home.keywords");
             $content = "pages/home.php";
             break;
         }
         case PAGE_INTERPRETING: {
             $title = t("interpreting.title");
             $description = t("interpreting.description");
+            $keywords = t("interpreting.keywords");
             $content = "pages/interpreting.php";
             break;
         }
         case PAGE_TRANSLATING: {
             $title = t("translating.title");
             $description = t("translating.description");
+            $keywords = t("translating.keywords");
             $content = "pages/translating.php";
             break;
         }
         case PAGE_PROFILE: {
             $title = t("profile.title");
             $description = t("profile.description");
+            $keywords = t("profile.keywords");
             $content = "pages/profile.php";
             break;
         }
         case PAGE_CONTACT: {
             $title = t("contact.title");
             $description = t("contact.description");
+            $keywords = t("contact.keywords");
             $content = "pages/contact.php";
             break;
         }
         case PAGE_IMPRINT: {
             $title = t("imprint.title");
             $description = t("imprint.description");
+            $keywords = t("imprint.keywords");
             $content = "pages/imprint.php";
             break;
         }
         case PAGE_DATA_PRIVACY: {
             $title = t("privacy.title");
             $description = t("privacy.description");
+            $keywords = t("privacy.keywords");
             $content = "pages/privacy.php";
             break;
         }
         case PAGE_AGB: {
             $title = t("agb.title");
             $description = t("agb.description");
+            $keywords = t("agb.keywords");
             $content = "pages/agb.php";
             break;
         }
         case PAGE_404: {
             $title = t("404.title");
             $description = t("404.description");
+            $keywords = t("404.keywords");
             $content = "pages/404.php";
             break;
         }
@@ -64,6 +73,7 @@
         default: {
             $title = t("home.title");
             $description = t("home.description");
+            $keywords = t("home.keywords");
             $content = "pages/home.php";
         }
     }
@@ -76,6 +86,7 @@
     <!-- Title & Description -->
     <title><?=$title?></title>
     <meta name="description" content='<?=$description?>'>
+    <meta name="keywords" content='<?=$keywords?>' />
 
     <!-- Meta tags -->
     <meta charset="utf-8">
@@ -107,7 +118,7 @@
             <!-- Logo -->
             <div class="col-sm-2">
                 <a href="/" title="<?=t("logo.title")?>">
-                    <img class="logo" src="/static/images/logos/sprachmuehle.png" alt='<?=t("logo.alt")?>' />
+                    <img class="logo" src="/static/images/logos/sprachmuehle_logo.png" alt='<?=t("logo.alt")?>' />
                 </a>
             </div>
             
@@ -161,62 +172,57 @@
                         <i class="header-phone-icon fas fa-phone fa-flip-horizontal"></i>01520 231 24 27‬
                     </div>
                 </a>
-
-                <div class="header-gap-right">&nbsp;</div>
             </div>
         </header>
 
         <!-- MAIN -->
         <div class="row main">
-            <div class="col-lg-10 offset-lg-1" style="background-color: white">
+            <div class="col-12 col-xl-10 offset-xl-1" style="background-color: white">
             
                 <?php include $content; ?>
 
+                <div class="row justify-content-center">
+                    <!-- Line divider -->
+                    <div class="col-lg-11" style="border-bottom: 1px solid #dadada;"></div>
+                </div>
             </div>
         </div>
 
         <!-- FOOTER -->
-        <div class="row footer">
-            <div class="col-lg-10 offset-lg-1" style="background-color: white;">
-                <div class="row justify-content-center">
-                    <!-- Top border -->
-                    <div class="col-lg-11" style="border-top: 1px solid #dadada;"></div>
-                </div>
+        <div class="row footer align-self-center">
+            <!-- Copyright -->
+            <div class="col-lg-2 footer-copyright">
+                <span style="font-size: 18px;">&copy;</span>
+                <span>
+                    <script>document.write((new Date()).getFullYear());</script> Cristina Müller
+                </span>
+            </div>
 
-                <div class="row align-self-center" style="margin-top: 50px;">
-                    <!-- Copyright -->
-                    <div class="col-lg-2 offset-lg-1" style="padding-left: 0">
-                        <span style="font-size: 18px">&copy;</span>
-                        <span>
-                            <script>document.write((new Date()).getFullYear());</script> Cristina Müller
-                        </span>
-                    </div>
+            <!-- Links -->
+            <div class="col-lg-8 footer-links">
+                <a href="/impressum"><?=t('footer.imprint')?></a>
+                
+                <span class="footer-link-separator"> - </span>
 
-                    <!-- Links -->
-                    <div class="col-lg-4 offset-lg-1" style="display: flex; justify-content: center; letter-spacing: .9px;">
-                        <a href="/impressum" style="color: #000000"><?=t('footer.imprint')?></a>
-                        <span style="padding: 0 4px;"> - </span>
+                <a href="/agb"><?=t('footer.agb')?></a>
 
-                        <a href="/agb" style="color: #000000"><?=t('footer.agb')?></a>
-                        <span style="padding: 0 4px;"> - </span>
+                <span class="footer-link-separator"> - </span>
 
-                        <a href="/datenschutz" style="color: #000000"><?=t('footer.privacy')?></a>
-                    </div>
+                <a href="/datenschutz"><?=t('footer.privacy')?></a>
+            </div>
 
-                    <!-- Mitgliedschaften -->
-                    <div class="col-lg" style="display: flex; justify-content: flex-end;">
-                        <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank">
-                            <img src="/static/images/logos/vkd_small.svg" title="<?=t('footer.logo.title')?>" style="height: 30px;" />
-                        </a>
-                    </div>
-                </div>
+            <!-- Mitgliedschaften -->
+            <div class="col-lg-2 footer-memberships">
+                <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank">
+                    <img src="/static/images/logos/bdue_vkd_logo.svg" title="<?=t('footer.logo.title')?>" style="height: 30px;" />
+                </a>
             </div>
         </div>
 
     </div> <!-- end main-container -->
 
+    <!-- SCRIPTS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
     <script src="/static/js/main.js"></script>

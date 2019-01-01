@@ -1,38 +1,45 @@
 <!-- Hero image -->
 <div class="row">
-    <span class="col-lg-12 col-md-10 offset-md-1 col-sm-10 offset-sm-1">
-    <img src="./img/welcome.jpg" alt="Welcome" style="display: flex; justify-self: center" />
+    <span class="welcome-image-container">
+        <img
+            src="/static/images/cristina_mueller_welcome.jpg"
+            class="welcome-image img-fluid"
+            alt="<?=t('home.welcome-alt')?>"
+        />
+
+        <div class="welcome-image-text">
+            <h1 style="color: #194d60;">
+                <?=t('home.welcome-header')?>
+            </h1>
+
+            <h4 style="margin-top: 20px; font-size: 1.2rem; letter-spacing: .4px;">
+                <?=t('home.welcome-subtitle')?>
+            </h4>
+        </div>
     </span>
 </div>
 
 <!-- Intro text -->
 <div class="row justify-content-center">
-    <p class="centered-text col-sm-8" style="font-size: 21px">
-        Als professionell ausgebildete Konferenzdolmetscherin und Übersetzerin biete ich Ihnen genau das, was Sie von einer Sprachexpertin erwarten: sprachliche Leistungen auf höchstem Niveau, im Mündlichen wie im Schriftlichen, kompetente und persönliche Beratung sowie praktische Erfahrung und ein großes Kollegennetzwerk im In- und Ausland.
+    <p class="home-centered-text col-sm-8">
+        <?=t('home.intro')?>
     </p>
 </div>
 
-<div class="row justify-content-center" style="margin-bottom: 80px;">
+<div class="row justify-content-center">
     <div class="purple-line">&nbsp;</div>
 </div>
 
 <!-- About me -->
-<div class="row justify-content-center" style="margin-bottom: 100px;">
-    <div class="col-sm-5 offset-col-1">
-    <img src="./img/Cristina_170.jpg" style="width: 100%" alt="Dolmetschen" />
+<div class="row justify-content-center" style="padding: 90px 0 100px 0">
+    <div class="col-6">
+        <img src="/static/images/cristina_mueller_dolmetschen1.jpg" style="width: 100%" alt="<?=t('home.languages-alt')?>" />
     </div>
 
-    <div class="col-sm-5 offset-col-1">
-    <p style="font-size: 17px">
-        Meine Arbeitssprachen sind Deutsch, Französisch, Rumänisch und Italienisch, darüber hinaus übernehme ich gerne in Ihrem Auftrag die Organisation mehrsprachiger Dolmetscherteams im Rahmen Ihrer Großveranstaltung mit internationalen Teilnehmern.
-
-        Warum es sich lohnt, einen Profi der mehrsprachigen Kommunikation heranzuziehen? Weil meine Leistung eine echte Bereicherung für Sie darstellt!
-    </p>
-
-    <div class="call-to-action">
-        <span>ALLE GRÜNDE</span>
-        <i class="fas fa-angle-right" style="margin-left: 10px; margin-top: 3px; font-size: 18px; font-weight: normal; color: #484848"></i>
-    </div>
+    <div class="col-5 offset-col-1">
+        <p>
+            <?=t('home.languages')?>
+        </p>
     </div>
 </div>
 
@@ -116,12 +123,30 @@
 
 <style>
 
+.welcome-image-container {
+    position: relative;
+}
+
+.welcome-image-text {
+    position: absolute;
+    left: 4%;
+    bottom: 24%;
+}
+
+.home-centered-text {
+    text-align: center;
+    font-size: 1.12rem;
+    color: #121212;
+    padding: 90px 0 60px 0;
+}
+
 .profile-box {
     background-color: #9B225F;
     color: white;
     padding: 60px 30px 9px 30px;
     opacity: 0.85;
-    font-size: 0.7rem;
+    font-size: 0.65rem;
 }
+
 
 </style>

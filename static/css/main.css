@@ -4,22 +4,37 @@
  * logo blue: #4BBAD4
  * text 1st: #121212
  * text 2nd: #333333
- * text dark blue: #194d60
+ * text blue: #194d60
  */
+
+html {
+    font-size: 17px;
+}
 
 body {
     font-family: 'News Cycle', sans-serif;
-    font-size: 20px;
     line-height: 1.9;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+@media all and (max-width: 960px) {
+    html {
+        font-size: 14px;
+    }
 }
 
 /* HEADER */
 
 header {
-    font-size: .98rem;
+    font-size: .96rem;
     letter-spacing: 0.4px;
     background-color: white;
     position: fixed;
+    padding-left: 45px;
+    padding-right: 45px;
     right: 0;
     left: 0;
     z-index: 1030;
@@ -27,7 +42,7 @@ header {
 
 .logo {
     max-height: 95px;
-    padding: 20px 10px 16px 45px;
+    padding: 20px 0 16px 0;
     transition: all 0.12s ease-in-out;
     -webkit-transition: all 0.12s ease-in-out;
     -moz-transition: all 0.12s ease-in-out;
@@ -35,7 +50,7 @@ header {
 
 .logo-shrink {
     max-height: 70px;
-    padding: 15px 5px 12px 45px;
+    padding: 15px 0 12px 0;
 }
 
 .menu-container {
@@ -45,7 +60,6 @@ header {
 }
 
 .menu {
-    font-weight: 600;
     margin: 0 35px 0 0;
     transition: all 0.12s ease-in-out;
     -webkit-transition: all 0.12s ease-in-out;
@@ -102,10 +116,6 @@ header {
     color: #9B225F;
 }
 
-.header-gap-right {
-    width: 45px;
-}
-
 /* MAIN */
 
 .main-container {
@@ -113,14 +123,7 @@ header {
 }
 
 .main {
-    padding: 70px 0 0 0;
-}
-
-.centered-text {
-    text-align: center;
-    font-size: 0.85rem;
-    color: #0F0F0F;
-    padding: 80px 0;
+    padding: 112px 0 0 0; /* padding-top is needed to appear below absolutely positioned header */
 }
 
 .purple-line {
@@ -158,5 +161,33 @@ header {
 /* FOOTER */
 
 .footer {
-    font-size: 0.9rem;
+    background-color: white;
+    font-size: 0.86rem;
+    margin-top: 50px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    letter-spacing: .9px;
+}
+
+.footer-copyright {
+    padding-left: 0;
+}
+
+.footer-links a {
+    color: #000000;
+}
+
+.footer-link-separator {
+    padding: 0 4px;
+}
+
+.footer-memberships {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 0;
 }
