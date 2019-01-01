@@ -16,19 +16,19 @@ Hinweise an Bubulina:
 const TRANSLATIONS = [
     /* MENÜ */
     "menu.home" => [
-        "de" => "STARTSEITE",
+        "de" => "Startseite",
     ],
     "menu.interpreting" => [
-        "de" => "DOLMETSCHEN",
+        "de" => "Dolmetschen",
     ],
     "menu.translating" => [
-        "de" => "ÜBERSETZEN",
+        "de" => "Übersetzen",
     ],
     "menu.profile" => [
-        "de" => "PROFIL",
+        "de" => "Profil",
     ],
     "menu.contact" => [
-        "de" => "KONTAKT",
+        "de" => "Kontakt",
     ],
     "logo.title" => [
         "de" => "Startseite",
@@ -67,6 +67,21 @@ const TRANSLATIONS = [
     ],
     "home.languages" => [
         "de" => "Mit mir können Sie auf Französisch, Rumänisch und Italienisch genauso selbstsicher und kompetent kommunizieren wie auf Deutsch. Wenn Sie für Ihre internationalen Veranstaltungen weitere Sprachen benötigen, stelle ich für Sie aus meinem Kollegennetzwerk ein erstklassiges Team zusammen und organisiere die erforderliche Technik. So können Sie sich auf Ihre eigentlichen Aufgaben konzentrieren und darauf vertrauen, dass Ihre Veranstaltung ein voller Erfolg wird.",
+    ],
+    "home.services-header" => [
+        "de" => "Leistungen",
+    ],
+    "home.services-text" => [
+        "de" => "Mit Übersetzungen und Verdolmetschungen sorge ich für eine effiziente und zuverlässige Kommunikation über Ländergrenzen hinweg. Alltagstexte, amtliche Dokumente aber auch komplizierte Fachtexte von A wie Automobiltechnik bis Z wie Zivilrecht sind bei mir in guten Händen. Bei bilateralen Gesprächen, in Verhandlungen und auf internationalen Fachtagungen begleite ich Sie als Konferenzdolmetscherin. Im Vorfeld solcher Veranstaltungen unterstütze ich Sie bei der Planung und berate Sie zu Dolmetscharten und Dolmetschtechnik.",
+    ],
+    "home.services-cta1" => [
+        "de" => "Dolmetschen",
+    ],
+    "home.services-cta2" => [
+        "de" => "Konferenzberatung",
+    ],
+    "home.services-cta3" => [
+        "de" => "Übersetzen",
     ],
 
     /* DOLMETSCHEN */

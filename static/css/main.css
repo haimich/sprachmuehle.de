@@ -5,6 +5,7 @@
  * text 1st: #121212
  * text 2nd: #333333
  * text blue: #194d60
+ * boxes bg: #f7f7f7
  */
 
 html {
@@ -18,6 +19,16 @@ body {
 
 h1 {
     font-size: 2rem;
+    color: #194d60;
+}
+
+h2 {
+    font-size: 1.6rem;
+    color: #194d60;
+}
+
+h3 {
+    font-size: 1.3rem;
 }
 
 @media all and (max-width: 960px) {
@@ -129,19 +140,21 @@ header {
 .purple-line {
     background-color: #9B225F;
     width: 58px;
-    height: 2px;
+    height: 1px;
+    margin: 0;
 }
 
 .call-to-action {
+    color: #333333;
     cursor: pointer;
     display: inline-flex;
     justify-content: center;
     align-content: center;
-    padding: 10px 24px;
+    padding: 10px 23px;
     border: 1px solid lightgray;
     border-radius: 30px;
     letter-spacing: .6px;
-    font-weight: 600;
+    font-weight: bold;
     font-size: 0.7rem;
     box-shadow: 2px 2px 28px 1px rgba(0, 0, 0, 0.2);
 }
@@ -150,12 +163,60 @@ header {
     font-size: 0.9rem;
     color: #444;
     background-color: white;
-    width: 320px;
+    width: 285px;
     height: 60px;
     justify-content: space-between;
     align-items: center;
     border: none;
     box-shadow: none;
+}
+
+.call-to-action:hover {
+    color: #9B225F;
+    text-decoration: none;
+}
+
+.call-to-action-icon {
+    margin-left: 10px;
+    margin-top: 3px;
+    font-size: 18px;
+    color: #5d5d5d;
+}
+
+.call-to-action:hover .call-to-action-icon {
+    color: #9B225F;
+}
+
+/* HOME */
+
+.welcome-image-container {
+    position: relative;
+}
+
+.welcome-image-text {
+    position: absolute;
+    left: 4%;
+    bottom: 24%;
+}
+
+.home-centered-text {
+    text-align: center;
+    font-size: 1.12rem;
+    color: #121212;
+    padding: 90px 0 60px 0;
+}
+
+.services-box {
+    background-color: #f7f7f7;
+    padding: 100px 102px 100px 115px;
+}
+
+.profile-box {
+    background-color: #9B225F;
+    color: white;
+    padding: 60px 30px 9px 30px;
+    opacity: 0.85;
+    font-size: 0.65rem;
 }
 
 /* FOOTER */
@@ -164,6 +225,7 @@ header {
     background-color: white;
     font-size: 0.86rem;
     margin-top: 50px;
+    margin-bottom: 25px;
     padding-left: 45px;
     padding-right: 45px;
 }

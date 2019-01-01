@@ -124,7 +124,7 @@
             
             <!-- Menü -->
             <div class="col-sm menu-container">
-                <ul class="menu">
+                <ul class="menu text-uppercase">
                     <li>
                         <? if ($GLOBALS["page"] === PAGE_HOME): ?>
                             <a href="/" class="menu-active"><?=t("menu.home")?></a>
@@ -189,9 +189,9 @@
         </div>
 
         <!-- FOOTER -->
-        <div class="row footer align-self-center">
+        <footer class="row footer align-items-center">
             <!-- Copyright -->
-            <div class="col-lg-2 footer-copyright">
+            <div class="col-3 footer-copyright">
                 <span style="font-size: 18px;">&copy;</span>
                 <span>
                     <script>document.write((new Date()).getFullYear());</script> Cristina Müller
@@ -199,7 +199,7 @@
             </div>
 
             <!-- Links -->
-            <div class="col-lg-8 footer-links">
+            <div class="col-6 footer-links">
                 <a href="/impressum"><?=t('footer.imprint')?></a>
                 
                 <span class="footer-link-separator"> - </span>
@@ -212,19 +212,17 @@
             </div>
 
             <!-- Mitgliedschaften -->
-            <div class="col-lg-2 footer-memberships">
+            <div class="col-3 footer-memberships">
                 <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank">
                     <img src="/static/images/logos/bdue_vkd_logo.svg" title="<?=t('footer.logo.title')?>" style="height: 30px;" />
                 </a>
             </div>
-        </div>
+        </footer>
 
     </div> <!-- end main-container -->
 
     <!-- SCRIPTS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-
     <script src="/static/js/main.js"></script>
     
 </body>

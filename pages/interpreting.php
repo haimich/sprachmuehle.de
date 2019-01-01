@@ -1,3 +1,1 @@
-<div class="row" style="background-color: lightgray">
-    Test
-</div>
+<div id="konferenzberatung">Konferenzberatung</div>
