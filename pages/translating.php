@@ -58,7 +58,96 @@
     </div>
 </div>
 
-<blockquote class="blockquote text-center">
-  <p class="mb-0">„Wenn etwas leicht zu lesen ist, dann war es schwer zu schreiben“</p>
-  <footer class="blockquote-footer"><cite title="Source Title">Enrique Jardiel Poncela</cite></footer>
+<!-- Arten von Dokumenten -->
+<div class="row" style="margin-top: 90px">
+    <div class="col-10 offset-sm-1">
+        <h4 style="color: #194d60; margin-bottom: 20px;">
+            <?=t('translating.types-heading')?>
+        </h4>
+        
+        <p><?=t('translating.types-sub')?>:</p>
+
+        <div class="row highlighted-box">
+            <div class="col-12" style="border-color: #4BBAD4">
+                <?=t('translating.types-list1')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12" style="border-color: #4BBAD4">
+                <?=t('translating.types-list2')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12" style="border-color: #4BBAD4">
+                <?=t('translating.types-list3')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12" style="border-color: #4BBAD4">
+                <?=t('translating.types-list4')?>
+            </div>
+        </div>
+    </div>
+</div>
+
+<blockquote class="blockquote text-center" style="margin-top: 62px; margin-bottom: 90px;">
+    <p class="mb-0">„Wenn etwas leicht zu lesen ist, dann war es schwer zu schreiben“</p>
+    <footer class="blockquote-footer"><cite title="Source Title">Enrique Jardiel Poncela</cite></footer>
 </blockquote>
+
+<!-- Branchenerfahrung -->
+<div class="row" style="margin-top: 45px">
+    <div class="col-10 offset-sm-1">
+        <h4 style="color: #194d60; margin-bottom: 20px;">
+            <?=t('translating.industries-heading')?>
+        </h4>
+        
+        <p><?=t('translating.industries-sub')?></p>
+
+        <div class="row highlighted-box">
+            <div class="col-12" style="border-color: #4BBAD4">
+                <?=t('translating.industries-list1')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12" style="border-color: #4BBAD4">
+                <?=t('translating.industries-list2')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12" style="border-color: #4BBAD4">
+                <?=t('translating.industries-list3')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12" style="border-color: #4BBAD4">
+                <?=t('translating.industries-list4')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12" style="border-color: #4BBAD4">
+                <?=t('translating.industries-list5')?>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Beglaubigungen -->
+<div class="row" style="margin-top: 45px">
+    <div class="col-10 offset-sm-1">
+        <h4 style="color: #194d60; margin-bottom: 20px;">
+            <?=t('translating.documents-heading')?>
+        </h4>
+        
+        <p><?=t('translating.documents-sub1')?></p>
+        <p><?=t('translating.documents-sub2')?></p>
+        <p><?=t('translating.documents-sub3')?></p>
+    </div>
+</div>

@@ -298,6 +298,57 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     "translating.languages-list3" => [
         "de" => "Französisch > Rumänisch",
     ],
+    "translating.types-heading" => [
+        "de" => "Effektiv kommunizieren – wenn die Form der Funktion folgt",
+    ],
+    "translating.types-sub" => [
+        "de" => "Unterschiedliche Textsorten erfüllen unterschiedliche Funktionen. Pressemitteilungen sollen aktuell sein, wichtige Fakten liefern und schnell auf den Punkt kommen. Technische Dokumentationen müssen gesetzlichen Anforderungen entsprechen und mit höchster Präzision und einheitlicher Terminologie Technik und die Bedienung einer Maschine erklären – von der ersten bis zur letzten Seite. Diesen Anforderungen müssen Original wie Übersetzung gerecht werden, damit sie ihren Zweck erfüllen. Bei folgenden Textsorten weiß ich aufgrund meiner Erfahrung, worauf es ankommt",
+    ],
+    "translating.types-list1" => [
+        "de" => "Konferenzunterlagen, Präsentationen, Protokolle, Programmdossiers, Absichtserklärungen, Verträge, Pressemitteilungen, Briefe",
+    ],
+    "translating.types-list2" => [
+        "de" => "Handbücher, Gebrauchsanleitungen, Broschüren, Wartungs- und Serviceberichte, Produktbeschreibungen",
+    ],
+    "translating.types-list3" => [
+        "de" => "Webseiten, Blogbeiträge, Newsletter, Kundenmagazine",
+    ],
+    "translating.types-list4" => [
+        "de" => "Kunden- und Mitarbeiterbefragungen, Markt- und Wettbewerbsanalysen, Marktforschungsberichte",
+    ],
+    "translating.industries-heading" => [
+        "de" => "Auf der sicheren Seite – Übersetzungen mit Sachverstand",
+    ],
+    "translating.industries-sub" => [
+        "de" => "Texte haben immer auch ein Thema und berichten über Sachverhalte. Daher ist es wichtig, sich mit diesen Sachverhalten auszukennen. Sonst kann es zu Verzögerungen oder auch zu Sach- und Personenschäden bei der Inbetriebnahme technischer Anlagen kommen. Und auf politischer Ebene können Missverständnisse zum Abbruch von Verhandlungen oder auch handfesten Konflikten führen. Daher gilt es, das Geschriebene richtig zu verstehen und stilistisch angemessen in einem gepflegten Ton zu übertragen.<p>Fachkenntnisse, Verständnis für komplexe Zusammenhänge und Hintergrundwissen bringe ich in folgenden Bereichen mit:</p>",
+    ],
+    "translating.industries-list1" => [
+        "de" => "Politik und Gremienarbeit",
+    ],
+    "translating.industries-list2" => [
+        "de" => "Automobil- und Nutzfahrzeugtechnik, Landmaschinen und Landtechnik, Lebensmitteltechnik, Stahl- und Metallerzeugung, Öl- und Gasförderung, Wasser- und Abfallwirtschaft",
+    ],
+    "translating.industries-list3" => [
+        "de" => "Arbeitsrecht, Gesellschaftsrecht, Europarecht, Strafrecht, Vertragsrecht",
+    ],
+    "translating.industries-list4" => [
+        "de" => "Corporate Governance, Organisationsentwicklung, Strategieplanung, Compliance, Mahn- und Inkassoprozesse, Arbeitnehmerüberlassung",
+    ],
+    "translating.industries-list5" => [
+        "de" => "Bildungspolitik, duale Berufsausbildung, politische Bildung",
+    ],
+    "translating.documents-heading" => [
+        "de" => "Zeugnisse, Geburtsurkunden, Gerichtsbeschlüsse … wenn es amtlich wird",
+    ],
+    "translating.documents-sub1" => [
+        "de" => "Wenn Sie für Ämter, Behörden oder öffentliche Stellen die Übersetzung eines Dokuments benötigen, muss diese Übersetzung von einem beeidigten Übersetzer vorgenommen werden. Durch Stempel und Unterschrift muss dieser die Richtigkeit und Vollständigkeit der angefertigten Übersetzung bestätigten. Dies trifft zum Beispiel auf die Übersetzung von Dokumenten wie Ausweispapieren, Geburts- und Heiratsurkunden, Melde- und Arbeitsbescheinigungen, Strafregisterauszügen, Beschlüssen und Anklageschriften, Ausbildungsnachweisen und Zeugnissen zu.",
+    ],
+    "translating.documents-sub2" => [
+        "de" => "Als vom Landgericht Karlsruhe allgemein beeidigte Übersetzerin für die rumänische Sprache fertige ich für Sie beglaubigte Übersetzungen aus dem Deutschen ins Rumänische und aus dem Rumänischen ins Deutsche an. Diese Übersetzungen werden von allen Gerichten und Behörden in Deutschland anerkannt. Dazu benötige ich von Ihnen entweder das Originaldokument oder das eingescannte Dokument bzw. eine Kopie davon.",
+    ],
+    "translating.documents-sub3" => [
+        "de" => "Wenn Sie unsicher sind, ob Sie überhaupt eine beglaubigte Übersetzung benötigen oder wissen möchten, was an Kosten auf Sie zukommt, rufen Sie mich gerne an.<br />Gerne unterbreite ich Ihnen ein <a href='/kontakt'>unverbindliches Angebot</a> und erstelle nach Auftragserteilung schnell und zuverlässig Ihre beglaubigte Übersetzung.",
+    ],
 
     /* PROFIL */
     "profile.title" => [
