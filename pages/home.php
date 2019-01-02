@@ -103,7 +103,7 @@
 
         <div class="aboutme-image-text">
             <h2>
-                Cristina Müller
+                Cristina M&uuml;ller
             </h2>
 
             <h4 class="aboutme-text">
@@ -140,7 +140,7 @@
 
         <p style="margin-top: 72px;">
             Cristina Müller<br />
-            Mobil: +49 (0) 152 / 02312427<br />
+            Mobil: +49 (0) 1520 231 24 27‬<br />
             <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
         </p>
     </div>
