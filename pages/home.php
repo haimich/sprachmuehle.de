@@ -1,4 +1,4 @@
-<!-- Hero image -->
+<!-- Willkommensbild -->
 <div class="row">
     <div class="hero-image-container">
         <img
@@ -32,7 +32,7 @@
     </div>
 </div>
 
-<!-- About me -->
+<!-- Arbeitssprachen -->
 <div class="row justify-content-center" style="padding: 90px 0 100px 0">
     <div class="col-6">
         <img src="/static/images/cristina_mueller_dolmetschen1.jpg" style="width: 100%" alt="<?=t('home.languages-alt')?>" />
@@ -45,7 +45,7 @@
     </div>
 </div>
 
-<!-- Services -->
+<!-- Leistungen -->
 <div class="row services-box">
     <h2 class="col-12">
         <?=t('home.services-header')?>
@@ -92,7 +92,7 @@
     </div>
 </div>
 
-<!-- About me -->
+<!-- Über mich -->
 <div class="row" style="margin-top: 100px;">
     <div class="col-12 hero-image-container" style="padding-left: 65px; padding-right: 65px;">
         <img
@@ -127,7 +127,7 @@
     </div>
 </div>
 
-<!-- Contact -->
+<!-- Kontakt -->
 <div class="row justify-content-center" style="text-align: center; margin-top: 120px; margin-bottom: 100px">
     <div class="col-sm-9">
         <h2>

@@ -215,6 +215,48 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     "interpreting.types-showmore" => [
         "de" => "mehr erfahren >",
     ],
+    "interpreting.conferenceconsulting-heading" => [
+        "de" => "Konferenzberatung",
+    ],
+    "interpreting.conferenceconsulting-sub" => [
+        "de" => "Als beratende Konferenzdolmetscherin unterstütze ich Sie nicht nur bei der Planung. Ich kümmere mich auch um die Technik, die Zusammenstellung und Betreuung der Dolmetschteams sowie um die Nachbereitung und Abrechnung. So bleiben Sie von bösen Überraschungen verschont und sparen Zeit und Geld durch routinierte Abläufe.",
+    ],
+    "interpreting.conferenceconsulting-alt" => [
+        "de" => "Konferenzberatung",
+    ],
+    "interpreting.conferenceconsulting-services-heading" => [
+        "de" => "Alles aus einer Hand: professionell und kosteneffizient",
+    ],
+    "interpreting.conferenceconsulting-services-sub" => [
+        "de" => "Folgende Leistungen bekommen Sie von mir aus einer Hand",
+    ],
+    "interpreting.conferenceconsulting-services-list1" => [
+        "de" => "Beratung zur Auswahl der geeigneten Sprachen, der passenden Dolmetschart und der notwendigen Dolmetschtechnik für Ihre Veranstaltungen.",
+    ],
+    "interpreting.conferenceconsulting-services-list2" => [
+        "de" => "Zusammenstellung von Dolmetschteams in den von Ihnen gewünschten Sprachen. Einsatzplanung, Briefing und Betreuung vor Ort.",
+    ],
+    "interpreting.conferenceconsulting-services-list3" => [
+        "de" => "Übersetzung der Veranstaltungsunterlagen sowie der schriftlichen Kommunikation rund um die Veranstaltung (Einladungen, Tagesordnungen, Redemanuskripte, Präsentationen, Hintergrundinformationen, Sitzungsprotokolle).",
+    ],
+    "interpreting.conferenceconsulting-services-list4" => [
+        "de" => "Erfassung und Bearbeitung fachspezifischer und firmeninterner Terminologie. Sicherstellung einer einheitlichen Verwendung in Wort und Schrift.",
+    ],
+    "interpreting.conferenceconsulting-services-list5" => [
+        "de" => "Dolmetschen je nach Anlass konsekutiv bzw. simultan. Ich selbst dolmetsche in den Sprachen Französisch, Rumänisch, Italienisch und Deutsch.",
+    ],
+    "interpreting.conferenceconsulting-services-list6" => [
+        "de" => "Organisation und Beschaffung der erforderlichen Konferenztechnik (Kabinen, Tontechnik, Personenführungsanlagen etc.).",
+    ],
+    "interpreting.conferenceconsulting-services-list7" => [
+        "de" => "Nachbereitung der Veranstaltung und Abrechnung.",
+    ],
+    "interpreting.conferenceconsulting-services-contact1" => [
+        "de" => "Weitere Fragen beantworte ich Ihnen gerne telefonisch unter",
+    ],
+    "interpreting.conferenceconsulting-services-contact2" => [
+        "de" => "Ich berate Sie gerne und erstelle Ihnen ein unverbindliches Angebot.",
+    ],
 
     /* ÜBERSETZEN */
     "translating.title" => [

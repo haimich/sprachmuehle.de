@@ -144,6 +144,85 @@
     </div>
 </div>
 
+<!-- Konferenzberatung -->
+<div class="row conferenceconsulting-box" id="konferenzberatung">
+    <div class="col-6" style="padding: 5% 3% 0 7%;">
+        <h2>
+            <?=t('interpreting.conferenceconsulting-heading')?>
+        </h2>
+
+        <p style="margin-top: 20px; margin-bottom: 24px;">
+            <?=t('interpreting.conferenceconsulting-sub')?>
+        </p>
+    </div>
+
+    <div class="col-6" style="padding-right: 0;">
+        <img
+            src="/static/images/cristina_mueller_laptop.jpg"
+            class="img-fluid"
+            alt="<?=t('interpreting.conferenceconsulting-alt')?>"
+        />
+    </div>
+</div>
+
+<div class="row" style="margin-top: 45px; margin-bottom: 90px;">
+    <div class="col-10 offset-sm-1">
+        <h4 style="color: #194d60; margin-bottom: 20px;">
+            <?=t('interpreting.conferenceconsulting-services-heading')?>
+        </h4>
+        
+        <p><?=t('interpreting.conferenceconsulting-services-sub')?>:</p>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.conferenceconsulting-services-list1')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.conferenceconsulting-services-list2')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.conferenceconsulting-services-list3')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.conferenceconsulting-services-list4')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.conferenceconsulting-services-list5')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.conferenceconsulting-services-list6')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.conferenceconsulting-services-list7')?>
+            </div>
+        </div>
+
+        <p>
+            <?=t('interpreting.conferenceconsulting-services-contact1')?>: 
+            <a href="tel:‭+4915202312427‬" title="<?=t('tel.title')?>">01520 231 24 27‬</a>
+        </p>
+        <p><?=t('interpreting.conferenceconsulting-services-contact2')?></p>
+    </div>
+</div>
+
 <!-- Dolmetscharten Modal -->
 <div class="modal fade" id="interpretingTypesModal" tabindex="-1" role="dialog" aria-labelledby="interpretingTypesModal" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
