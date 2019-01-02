@@ -169,7 +169,7 @@
                 <!-- Telefonnummer-->
                 <a href="tel:‭+4915202312427‬" class="header-phone-link" title="<?=t('tel.title')?>">
                     <div class="header-phone">
-                        <i class="header-phone-icon fas fa-phone fa-flip-horizontal"></i>01520 231 24 27‬
+                        <img src="/static/images/icons/phone.svg" class="header-phone-icon" />01520 231 24 27‬
                     </div>
                 </a>
             </div>

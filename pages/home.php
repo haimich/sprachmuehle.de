@@ -45,7 +45,7 @@
     </div>
 </div>
 
-<!-- Leistungen -->
+<!-- Services -->
 <div class="row services-box">
     <h2 class="col-12">
         <?=t('home.services-header')?>

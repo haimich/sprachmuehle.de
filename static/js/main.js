@@ -4,9 +4,11 @@ $(document).on("scroll", function () {
         $(".menu").addClass("menu-shrink");
         $(".logo").addClass("logo-shrink");
         $(".header-phone").addClass("header-phone-shrink")
+        $(".header-phone-icon").addClass("header-phone-icon-shrink")
     } else {
         $(".menu").removeClass("menu-shrink");
         $(".logo").removeClass("logo-shrink");
         $(".header-phone").removeClass("header-phone-shrink");
+        $(".header-phone-icon").removeClass("header-phone-icon-shrink");
     }
 });

@@ -110,6 +110,21 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     "interpreting.keywords" => [
         "de" => "dolmetschen,übersetzen",
     ],
+    "interpreting.welcome-alt" => [
+        "de" => "Dolmetschen",
+    ],
+    "interpreting.welcome-header1" => [
+        "de" => "Dolmetschen",
+    ],
+    "interpreting.welcome-header2" => [
+        "de" => "International Vertrauen wachsen lassen",
+    ],
+    "interpreting.welcome-header2-sub1" => [
+        "de" => "Ob bilaterale Gespräche, Verhandlungen mit ausländischen Partnern oder Podiumsdiskussionen auf internationalen Konferenzen: Geschickt und taktvoll sorge ich als Konferenzdolmetscherin für eine reibungslose Kommunikation. Damit jeder versteht und verstanden wird, ganz ohne Einschränkung. Denn nur so kann Vertrauen wachsen – die Basis für eine fruchtbare Zusammenarbeit und für erfolgreiche Geschäfte.",
+    ],
+    "interpreting.welcome-header2-sub2" => [
+        "de" => "Als Dolmetscherin übertrage ich das gesprochene Wort mündlich von einer Sprache in eine andere. Dabei tausche ich die Wörter nicht einfach nur gegen ihr fremdsprachliches Pendant aus. Emotionen, Pointen, Wortspiele,  ja selbst ein Lachen, eine Pause oder ein Räuspern werden von mir interpretiert, der Situation angemessen und taktvoll verdolmetscht.",
+    ],
 
     /* ÜBERSETZEN */
     "translating.title" => [

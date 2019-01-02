@@ -133,8 +133,13 @@ header {
 }
 
 .header-phone-icon {
-    margin-right: 8px;
+    margin-right: 4px;
     color: #9B225F;
+    height: 27px;
+}
+
+.header-phone-icon-shrink {
+    height: 24px;
 }
 
 /* MAIN */
@@ -187,10 +192,9 @@ header {
 }
 
 .call-to-action-icon {
-    margin-left: 10px;
-    margin-top: 3px;
     font-size: 18px;
     color: #5d5d5d;
+    font-weight: bold;
 }
 
 .call-to-action:hover .call-to-action-icon {
