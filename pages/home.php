@@ -21,7 +21,7 @@
 
 <!-- Intro text -->
 <div class="row justify-content-center">
-    <p class="home-centered-text col-sm-8">
+    <p class="centered-text-box col-sm-8">
         <?=t('home.intro')?>
     </p>
 </div>
@@ -66,7 +66,7 @@
             </div>
 
             <div class="col-4 text-right" style="padding-right: 0">
-                <i class="fas fa-angle-right call-to-action-icon"></i>
+                >
             </div>
         </a>
         
@@ -76,7 +76,7 @@
             </div>
 
             <div class="col-4 text-right" style="padding-right: 0">
-                <i class="fas fa-angle-right call-to-action-icon"></i>
+                >
             </div>
         </a>
 
@@ -86,7 +86,7 @@
             </div>
 
             <div class="col-4 text-right" style="padding-right: 0">
-                <i class="fas fa-angle-right call-to-action-icon"></i>
+                >
             </div>
         </a>
     </div>
@@ -116,7 +116,7 @@
                 </div>
 
                 <div class="col-4 text-right" style="padding-right: 0">
-                    <i class="fas fa-angle-right call-to-action-icon"></i>
+                    >
                 </div>
 
                 <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank" style="margin-left: 20px;">

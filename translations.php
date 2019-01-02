@@ -125,6 +125,24 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     "interpreting.welcome-header2-sub2" => [
         "de" => "Als Dolmetscherin übertrage ich das gesprochene Wort mündlich von einer Sprache in eine andere. Dabei tausche ich die Wörter nicht einfach nur gegen ihr fremdsprachliches Pendant aus. Emotionen, Pointen, Wortspiele,  ja selbst ein Lachen, eine Pause oder ein Räuspern werden von mir interpretiert, der Situation angemessen und taktvoll verdolmetscht.",
     ],
+    "interpreting.intro" => [
+        "de" => "Während Sie sich ganz auf die Inhalte konzentrieren und diese mit gewohnter Präzision und Leidenschaft in Ihrer Muttersprache zum Ausdruck bringen, stelle ich als Dolmetscherin sicher, dass Ihre Aussagen vollständig, korrekt und unverfälscht beim ausländischen Publikum ankommen. Dabei geht keine Nuance verloren. Auch der feine Humor und die Prise Ironie in Ihren Aussagen bleiben lebendig. Sie werden auf allen Ebenen gehört und verstanden und erzielen die beabsichtigte Wirkung.",
+    ],
+    "interpreting.languages-alt" => [
+        "de" => "Dolmetschen",
+    ],
+    "interpreting.languages-heading" => [
+        "de" => "Meine Sprachkombinationen",
+    ],
+    "interpreting.languages-list1" => [
+        "de" => "Rumänisch <> Deutsch",
+    ],
+    "interpreting.languages-list2" => [
+        "de" => "Französisch <> Deutsch",
+    ],
+    "interpreting.languages-list3" => [
+        "de" => "Italienisch > Deutsch",
+    ],
 
     /* ÜBERSETZEN */
     "translating.title" => [
