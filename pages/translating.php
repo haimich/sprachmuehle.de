@@ -1,6 +1,6 @@
 <!-- Hero image -->
 <div class="row justify-content-around" style="position: relative">
-    <div class="welcome-gray-bg" style="height: 65%;">&nbsp;</div>
+    <div class="welcome-gray-bg" style="height: 59%;">&nbsp;</div>
 
     <div class="col-6 align-self-end">
         <h1 style="margin-bottom: 83px; padding-left: 32px;">
@@ -142,7 +142,7 @@
 </div>
 
 <!-- Beglaubigungen -->
-<div class="row" style="margin-top: 45px">
+<div class="row" style="margin-top: 45px; margin-bottom: 90px;">
     <div class="col-10 offset-sm-1">
         <h4 style="color: #194d60; margin-bottom: 20px;">
             <?=t('translating.documents-heading')?>

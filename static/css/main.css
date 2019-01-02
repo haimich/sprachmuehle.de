@@ -321,6 +321,23 @@ header {
     background-color: #f7f7f7;
 }
 
+/* PROFIL */
+
+.cv-box {
+    background-color: #f7f7f7;
+    padding: 70px 12.5% 70px 12.5%;
+}
+
+.cv-entry {
+    border-bottom: 1px solid #dadada;
+    padding-bottom: 6px;
+}
+
+.cv-year {
+    padding-left: 0;
+    color: #194d60;
+}
+
 /* FOOTER */
 
 .footer {

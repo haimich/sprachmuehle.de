@@ -347,7 +347,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Als vom Landgericht Karlsruhe allgemein beeidigte Übersetzerin für die rumänische Sprache fertige ich für Sie beglaubigte Übersetzungen aus dem Deutschen ins Rumänische und aus dem Rumänischen ins Deutsche an. Diese Übersetzungen werden von allen Gerichten und Behörden in Deutschland anerkannt. Dazu benötige ich von Ihnen entweder das Originaldokument oder das eingescannte Dokument bzw. eine Kopie davon.",
     ],
     "translating.documents-sub3" => [
-        "de" => "Wenn Sie unsicher sind, ob Sie überhaupt eine beglaubigte Übersetzung benötigen oder wissen möchten, was an Kosten auf Sie zukommt, rufen Sie mich gerne an.<br />Gerne unterbreite ich Ihnen ein <a href='/kontakt'>unverbindliches Angebot</a> und erstelle nach Auftragserteilung schnell und zuverlässig Ihre beglaubigte Übersetzung.",
+        "de" => "Wenn Sie unsicher sind, ob Sie überhaupt eine beglaubigte Übersetzung benötigen oder wissen möchten, was an Kosten auf Sie zukommt, rufen Sie mich gerne an.<br />Gerne unterbreite ich Ihnen ein unverbindliches Angebot und erstelle nach Auftragserteilung schnell und zuverlässig Ihre beglaubigte Übersetzung.",
     ],
 
     /* PROFIL */
@@ -359,6 +359,96 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     ],
     "profile.keywords" => [
         "de" => "dolmetschen,übersetzen",
+    ],
+    "profile.welcome-alt" => [
+        "de" => "Profil",
+    ],
+    "profile.welcome-header" => [
+        "de" => "Profil",
+    ],
+    "profile.welcome-sub" => [
+        "de" => "Die Sprachmühle ist ein Dolmetsch- und Übersetzungsbüro für die Sprachen Rumänisch, Deutsch, Französisch und Italienisch. Sie steht am Rhein, unweit von Karlsruhe, und nutzt mein Wissen und meine Leidenschaft, um Gesagtes und Geschriebenes aus einer Sprache in eine andere zu übertragen. Als „Müllerin“ sorge ich dafür, dass Verständigung über kulturelle Barrieren und Ländergrenzen hinweg gelingt und die Kommunikation nicht abreißt. Dabei sind Handwerk und Tradition genau wie Technik und Know-how gefragt, um fachgerecht die passenden Worte zu produzieren und die gewünschte Resonanz zu erzeugen.",
+    ],
+    "profile.intro1" => [
+        "de" => "Die Müllerin bin ich, Cristina Müller, geboren und aufgewachsen im rumänischen Brașov. Als Kind war ich ungeheuer neugierig und entwickelte eine Faszination für alles Fremde und Exotische. Auf Entdeckungsreise machte ich mich, nachdem die Grenzen in Europa gefallen waren. Deutschland wurde für mich zur zweiten Heimat. Hier konnte ich mir meinen Traum erfüllen: Romanistik in Frankfurt studieren und in Germersheim Konferenzdolmetscherin werden. Von hier aus konnte ich mir die sprachliche und kulturelle Vielfalt Europas erschließen, indem ich Auslandssemester in Frankreich, Italien und Belgien absolvierte.",
+    ],
+    "profile.intro2" => [
+        "de" => "Heute gehören Deutsch, Französisch und Italienisch genau wie Rumänisch zu den Sprachen, mit denen ich als Dolmetscherin arbeite. Sie sind meine Leidenschaft, mein Handwerk und eine unendliche Quelle der Bereicherung. Mit Rumänien bin ich nach wie vor eng verbunden. Auch wenn ich geografisch weit entfernt wohne, ist das emotionale Band nie gerissen.",
+    ],
+    "profile.cv-header" => [
+        "de" => "Beruflicher Werdegang",
+    ],
+    "profile.cv-sub" => [
+        "de" => "Seit 2012 bin ich als freiberufliche Konferenzdolmetscherin und seit 2009 als freiberufliche Übersetzerin tätig.",
+    ],
+    "profile.cv-year1" => [
+        "de" => "2015",
+    ],
+    "profile.cv-text1" => [
+        "de" => "Staatliche Prüfung zur Übersetzerin und Dolmetscherin für die rumänische Sprache. Allgemein beeidigt als Verhandlungsdolmetscherin und öffentlich bestellt als Urkundenübersetzerin für die rumänische Sprache durch das Landgericht Karlsruhe.",
+    ],
+    "profile.cv-year2" => [
+        "de" => "2012 – 2014",
+    ],
+    "profile.cv-text2" => [
+        "de" => "Kundenbetreuerin und Lektorin. Festanstellung in Teilzeit bei John Deere GmbH & Co. KG, Mannheim. Lektorat der rumänischen Ausgabe des Agrar-Magazins „Flur und Furche“. Verdolmetschung von Werksführungen, Produkteinführungen und -vorstellungen. Kundenbetreuung in den Sprachen Deutsch, Französisch, Italienisch und Rumänisch.",
+    ],
+    "profile.cv-year3" => [
+        "de" => "2013",
+    ],
+    "profile.cv-text3" => [
+        "de" => "Allgemein beeidigt als Verhandlungsdolmetscherin der französischen Sprache durch das Landgericht Karlsruhe.",
+    ],
+    "profile.cv-year4" => [
+        "de" => "2010 - 2012",
+    ],
+    "profile.cv-text4" => [
+        "de" => "Masterstudium Konferenzdolmetschen, Johannes-Gutenberg-Universität Mainz, FTSK Germersheim, Abschluss als M. A. Konferenzdolmetschen mit Deutsch, Französisch und Italienisch.",
+    ],
+    "profile.cv-year5" => [
+        "de" => "2004 – 2009",
+    ],
+    "profile.cv-text5" => [
+        "de" => "Studium der Romanistik und der Theater-, Film- und Medienwissenschaft, Johann-Wolfgang-Goethe-Universität, Frankfurt am Main, Abschluss als Magistra Artium in Romanistik und Theater-, Film- und Medienwissenschaft.",
+    ],
+    "profile.cv-interns-heading" => [
+        "de" => "Auslandssemster und Praxiserfahrung während des Studiums"
+    ],
+    "profile.cv-year6" => [
+        "de" => "2011",
+    ],
+    "profile.cv-text6" => [
+        "de" => "Studium an der Université de Mons, Faculté de Traduction et d’Interprétation, Belgien.",
+    ],
+    "profile.cv-year7" => [
+        "de" => "2010 – 2011",
+    ],
+    "profile.cv-text7" => [
+        "de" => "Praktikantin (6 Monate) und Werksstudentin (13 Monate) bei Nestlé Deutschland AG, Frankfurt am Main. Tätigkeit im Language and Translation Center of Competence (Globe Center Europe): Koordination von Übersetzungsprojekten. Übersetzung und Lektorat in den Sprachen Französisch, Deutsch und Italienisch. Erstellung von Terminologielisten. Arbeit mit dem Übersetzungsmanagementsystem SDL World Server.",
+    ],
+    "profile.cv-year8" => [
+        "de" => "2008",
+    ],
+    "profile.cv-text8" => [
+        "de" => "Erasmus-Stipendiatin an der Université Aix-Marseille, Arts, lettres, langues et sciences humaines, Frankreich.",
+    ],
+    "profile.cv-year9" => [
+        "de" => "2007 – 2008",
+    ],
+    "profile.cv-text9" => [
+        "de" => "Studium an der Università di Torino, Dipartimento di Lingue e Letterature straniere e Culture moderne, Italien.",
+    ],
+    "profile.cv-memberships-heading" => [
+        "de" => "Mitgliedschaften"
+    ],
+    "profile.cv-memberships-list1" => [
+        "de" => "Verband der Konferenzdolmetscher (VKD) im BDÜ e.V."
+    ],
+    "profile.cv-memberships-list2" => [
+        "de" => "Bundesverband der Dolmetscher und Übersetzer (BDÜ) e.V."
+    ],
+    "profile.cv-memberships-list3" => [
+        "de" => "Im BDÜ engagiere ich mich seit 2015 für ein vielfältiges berufsspezifisches Weiterbildungsangebot und bin als Koordinatorin für den Weiterbildungsverbund Südwest tätig."
     ],
 
     /* KONTAKT */
@@ -691,10 +781,10 @@ Adlerstraße 4a<br />
         "de" => "Seite existiert nicht",
     ],
     "404.description" => [
-        "de" => "Es tut uns leid, aber die von Ihnen aufgerufene Seite existiert nicht.",
+        "de" => "Es tut uns leid, aber die von Ihnen aufgerufene Seite wurde nicht gefunden.",
     ],
     "404.keywords" => [
-        "de" => "Es tut uns leid, aber die von Ihnen aufgerufene dolmetschen,übersetzen",
+        "de" => "dolmetschen,übersetzen",
     ],
 
     /* FOOTER */
