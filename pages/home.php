@@ -2,7 +2,7 @@
 <div class="row">
     <div class="hero-image-container">
         <img
-            src="/static/images/cristina_mueller_welcome.jpg"
+            src="/static/images/cristina_mueller_willkommen.jpg"
             class="img-fluid"
             alt="<?=t('home.welcome-alt')?>"
         />

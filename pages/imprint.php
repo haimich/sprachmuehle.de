@@ -1,8 +1,7 @@
-<h2 style="margin-bottom: 18px;">
+<h2>
     <?=t('imprint.heading')?>
-
-    <hr class="purple-line" style="margin-top: 10px">
 </h2>
+<hr class="purple-line" style="margin-top: 5px; margin-bottom: 15px;">
 
 <h4><?=t('imprint.heading-sub')?></h4>
 <p>
@@ -11,8 +10,10 @@
 </p>
 
 <h4><?=t('imprint.contact-heading')?></h4>
-<p><?=t('imprint.contact-tel')?>: +49 (0) 1520 231 24 27‬<br />
-<?=t('imprint.contact-mail')?>: <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a></p>
+<p>
+    <?=t('imprint.contact-tel')?>: +49 (0) 1520 231 24 27‬<br />
+    <?=t('imprint.contact-mail')?>: <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
+</p>
 
 <h4><?=t('imprint.ustid-heading')?></h4>
 <p><?=t('imprint.ustid-heading-sub')?>:<br />

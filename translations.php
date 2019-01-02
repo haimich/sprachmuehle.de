@@ -87,7 +87,7 @@ const TRANSLATIONS = [
         "de" => "Über mich",
     ],
     "home.aboutme-text" => [
-        "de" => "Ich bin ausgebildete Konferenzdolmetscherin und Übersetzerin für die Sprachen Deutsch, Rumänisch, Französisch und Italienisch. Obwohl sich meine Sprachmühle am Rhein, in der Nähe von Karlsruhe befindet, bin ich für Sie weltweit im Einsatz. Faszination und Begeisterung für fremde Kulturen und Sprachen haben mich zu meinem Beruf geführt, den ich mit Leidenschaft und einem hohen Anspruch an meine Arbeit ausübe.",
+        "de" => "Ich bin ausgebildete Konferenzdolmetscherin und Übersetzerin für die Sprachen Deutsch, Rumänisch, Französisch und Italienisch. <br />Obwohl sich meine Sprachmühle am Rhein, in der Nähe von Karlsruhe befindet, bin ich für Sie weltweit im Einsatz. Faszination und Begeisterung für fremde Kulturen und Sprachen haben mich zu meinem Beruf geführt, den ich mit Leidenschaft und einem hohen Anspruch an meine Arbeit ausübe.",
     ],
     "home.aboutme-button" => [
         "de" => "Profil",
@@ -232,6 +232,210 @@ Adlerstra&szlig;e 4a<br />
     ],
     "privacy.keywords" => [
         "de" => "dolmetschen,übersetzen",
+    ],
+    "privacy.heading" => [
+        "de" => "Datenschutzerklärung",
+    ],
+    "privacy.onelook-heading" => [
+        "de" => "1. Datenschutz auf einen Blick",
+    ],
+    "privacy.general-heading" => [
+        "de" => "Allgemeine Hinweise",
+    ],
+    "privacy.general-sub" => [
+        "de" => "Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.",
+    ],
+    "privacy.ourwebsite-heading" => [
+        "de" => "Datenerfassung auf unserer Website",
+    ],
+    "privacy.ourwebsite-subheading1" => [
+        "de" => "Wer ist verantwortlich für die Datenerfassung auf dieser Website?",
+    ],
+    "privacy.ourwebsite-subheading1-sub" => [
+        "de" => "Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem <a href='/impressum'>Impressum</a> dieser Website entnehmen.",
+    ],
+    "privacy.ourwebsite-subheading2" => [
+        "de" => "Wie erfassen wir Ihre Daten?",
+    ],
+    "privacy.ourwebsite-subheading2-sub1" => [
+        "de" => "Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.",
+    ],
+    "privacy.ourwebsite-subheading2-sub2" => [
+        "de" => "Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website betreten.",
+    ],
+    "privacy.ourwebsite-subheading3" => [
+        "de" => "Wofür nutzen wir Ihre Daten?",
+    ],
+    "privacy.ourwebsite-subheading3-sub" => [
+        "de" => "Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.",
+    ],
+    "privacy.ourwebsite-subheading4" => [
+        "de" => "Welche Rechte haben Sie bezüglich Ihrer Daten?",
+    ],
+    "privacy.ourwebsite-subheading4-sub" => [
+        "de" => "Sie haben jederzeit das Recht unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung, Sperrung oder Löschung dieser Daten zu verlangen. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.",
+    ],
+    "privacy.analysis-heading" => [
+        "de" => "Analyse-Tools und Tools von Drittanbietern",
+    ],
+    "privacy.analysis-sub1" => [
+        "de" => "Beim Besuch unserer Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit Cookies und mit sogenannten Analyseprogrammen. Die Analyse Ihres Surf-Verhaltens erfolgt in der Regel anonym; das Surf-Verhalten kann nicht zu Ihnen zurückverfolgt werden. Sie können dieser Analyse widersprechen oder sie durch die Nichtbenutzung bestimmter Tools verhindern. Detaillierte Informationen dazu finden Sie in der folgenden Datenschutzerklärung.",
+    ],
+    "privacy.analysis-sub2" => [
+        "de" => "Sie können dieser Analyse widersprechen. Über die Widerspruchsmöglichkeiten werden wir Sie in dieser Datenschutzerklärung informieren.",
+    ],
+    "privacy.duties-heading" => [
+        "de" => "2. Allgemeine Hinweise und Pflichtinformationen",
+    ],
+    "privacy.protection-heading" => [
+        "de" => "Datenschutz",
+    ],
+    "privacy.protection-sub1" => [
+        "de" => "Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.",
+    ],
+    "privacy.protection-sub2" => [
+        "de" => "Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.",
+    ],
+    "privacy.protection-sub3" => [
+        "de" => "Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.",
+    ],
+    "privacy.responsible-heading" => [
+        "de" => "Hinweis zur verantwortlichen Stelle",
+    ],
+    "privacy.responsible-sub1" => [
+        "de" => "Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist",
+    ],
+    "privacy.contact-tel" => [
+        "de" => "Telefon",
+    ],
+    "privacy.contact-mail" => [
+        "de" => "E-Mail",
+    ],
+    "privacy.responsible-sub2" => [
+        "de" => "Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.",
+    ],
+    "privacy.disclaimer-heading" => [
+        "de" => "Widerruf Ihrer Einwilligung zur Datenverarbeitung",
+    ],
+    "privacy.disclaimer-sub" => [
+        "de" => "Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.",
+    ],
+    "privacy.complaint-heading" => [
+        "de" => "Beschwerderecht bei der zuständigen Aufsichtsbehörde",
+    ],
+    "privacy.complaint-sub" => [
+        "de" => "Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem unser Unternehmen seinen Sitz hat. Eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten können folgendem Link entnommen werden",
+    ],
+    "privacy.transfer-heading" => [
+        "de" => "Recht auf Datenübertragbarkeit",
+    ],
+    "privacy.transfer-sub" => [
+        "de" => "Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.",
+    ],
+    "privacy.info-heading" => [
+        "de" => "Auskunft, Sperrung, Löschung",
+    ],
+    "privacy.info-sub" => [
+        "de" => "Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.",
+    ],
+    "privacy.spam-heading" => [
+        "de" => "Widerspruch gegen Werbe-Mails",
+    ],
+    "privacy.spam-sub" => [
+        "de" => "Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.",
+    ],
+    "privacy.datacollection-heading" => [
+        "de" => "3. Datenerfassung auf unserer Website",
+    ],
+    "privacy.cookies-heading" => [
+        "de" => "Cookies",
+    ],
+    "privacy.cookies-sub1" => [
+        "de" => "Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert.",
+    ],
+    "privacy.cookies-sub2" => [
+        "de" => "Die meisten der von uns verwendeten Cookies sind so genannte “Session-Cookies”. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.",
+    ],
+    "privacy.cookies-sub3" => [
+        "de" => "Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.",
+    ],
+    "privacy.cookies-sub4" => [
+        "de" => "Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (z. B. Warenkorbfunktion) erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. Soweit andere Cookies (z. B. Cookies zur Analyse Ihres Surfverhaltens) gespeichert werden, werden diese in dieser Datenschutzerklärung gesondert behandelt.",
+    ],
+    "privacy.logs-heading" => [
+        "de" => "Server-Log-Dateien",
+    ],
+    "privacy.logs-sub1" => [
+        "de" => "Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind",
+    ],
+    "privacy.logs-list1" => [
+        "de" => "Browsertyp und Browserversion",
+    ],
+    "privacy.logs-list2" => [
+        "de" => "verwendetes Betriebssystem",
+    ],
+    "privacy.logs-list3" => [
+        "de" => "Referrer URL",
+    ],
+    "privacy.logs-list4" => [
+        "de" => "Hostname des zugreifenden Rechners",
+    ],
+    "privacy.logs-list5" => [
+        "de" => "Uhrzeit der Serveranfrage",
+    ],
+    "privacy.logs-list6" => [
+        "de" => "IP-Adresse",
+    ],
+    "privacy.logs-sub2" => [
+        "de" => "Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.",
+    ],
+    "privacy.logs-sub3" => [
+        "de" => "Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.",
+    ],
+    "privacy.ads-heading" => [
+        "de" => "4. Analyse Tools und Werbung",
+    ],
+    "privacy.ga-heading" => [
+        "de" => "Google Analytics",
+    ],
+    "privacy.ga-sub1" => [
+        "de" => "Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.",
+    ],
+    "privacy.ga-sub2" => [
+        "de" => "Google Analytics verwendet so genannte \"Cookies\". Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.",
+    ],
+    "privacy.ga-sub3" => [
+        "de" => "Die Speicherung von Google-Analytics-Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch seine Werbung zu optimieren.",
+    ],
+    "privacy.ip-heading" => [
+        "de" => "IP Anonymisierung",
+    ],
+    "privacy.ip-sub" => [
+        "de" => "Wir haben auf dieser Website die Funktion IPAnonymisierung aktiviert. Dadurch wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung in die USA gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.",
+    ],
+    "privacy.plugin-heading" => [
+        "de" => "Browser Plugin",
+    ],
+    "privacy.plugin-sub" => [
+        "de" => "Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch den Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren",
+    ],
+    "privacy.optout-heading" => [
+        "de" => "Widerspruch gegen Datenerfassung",
+    ],
+    "privacy.optout-sub1" => [
+        "de" => "Sie können die Erfassung Ihrer Daten durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, der die Erfassung Ihrer Daten bei zukünftigen Besuchen dieser Website verhindert",
+    ],
+    "privacy.optout-deactivate" => [
+        "de" => "Google Analytics deaktivieren",
+    ],
+    "privacy.optout-sub2" => [
+        "de" => "Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der Datenschutzerklärung von Google",
+    ],
+    "privacy.processing-heading" => [
+        "de" => "Auftragsdatenverarbeitung",
+    ],
+    "privacy.processing-sub" => [
+        "de" => "Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um.",
     ],
 
     /* AGB */
