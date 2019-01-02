@@ -1,7 +1,7 @@
-<h2>
+<h2 style="margin-top: 90px;">
     <?=t('privacy.heading')?>
 </h2>
-<hr class="purple-line" style="margin-top: 5px; margin-bottom: 15px;">
+<hr class="purple-line" style="margin-top: 11px; margin-bottom: 35px;">
 
 <h3><?=t('privacy.onelook-heading')?></h3>
 
