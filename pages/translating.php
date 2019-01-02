@@ -40,18 +40,20 @@
             alt="<?=t('translating.languages-alt')?>"
         />
 
-        <div class="languages-image-text" style="right: 12%; top: 20%;">
-            <h4 class="languages-text" style="color: #161616">
-                <?=t('translating.languages-heading')?>
-            </h4>
-
-            <hr class="purple-line" style="background-color: #161616; margin-top: 26px;">
-            
-            <ul class="languages-list languages-text text-uppercase" style="color: #161616">
-                <li><?=t('translating.languages-list1')?></li>
-                <li><?=t('translating.languages-list2')?></li>
-                <li><?=t('translating.languages-list3')?></li>
-            </ul>
+        <div class="languages-image-text" style="display: flex; justify-content: flex-end; padding-right: 5%;">
+            <div>
+              <h4 class="languages-text" style="color: #161616">
+                  <?=t('translating.languages-heading')?>
+              </h4>
+  
+              <hr class="purple-line" style="background-color: #161616; margin-top: 26px;">
+              
+              <ul class="languages-list languages-text text-uppercase" style="color: #161616;">
+                  <li><?=t('translating.languages-list1')?></li>
+                  <li><?=t('translating.languages-list2')?></li>
+                  <li><?=t('translating.languages-list3')?></li>
+              </ul>
+            </div>
         </div>
     </div>
 </div>
