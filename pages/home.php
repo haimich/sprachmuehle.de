@@ -21,7 +21,7 @@
 
 <!-- Intro text -->
 <div class="row justify-content-center">
-    <p class="centered-text-box col-sm-8">
+    <p class="centered-text-box col-8">
         <?=t('home.intro')?>
     </p>
 </div>

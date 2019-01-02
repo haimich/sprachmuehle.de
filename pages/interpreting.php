@@ -27,7 +27,7 @@
 
 <!-- Intro text -->
 <div class="row justify-content-center">
-    <p class="centered-text-box col-sm-8">
+    <p class="centered-text-box col-8">
         <?=t('interpreting.intro')?>
     </p>
 </div>
@@ -53,6 +53,47 @@
                 <li><?=t('interpreting.languages-list2')?></li>
                 <li><?=t('interpreting.languages-list3')?></li>
             </ul>
+        </div>
+    </div>
+</div>
+
+<!-- Veranstaltungen -->
+<div class="row" style="margin-top: 90px">
+    <div class="col-10 offset-sm-1">
+        <h4 style="color: #194d60; margin-bottom: 20px;">
+            <?=t('interpreting.events-heading1')?>
+        </h4>
+        
+        <p><?=t('interpreting.events-heading1-sub')?></p>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.events-heading1-list1')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.events-heading1-list2')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.events-heading1-list3')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.events-heading1-list4')?>
+            </div>
+        </div>
+
+        <div class="row highlighted-box">
+            <div class="col-12">
+                <?=t('interpreting.events-heading1-list5')?>
+            </div>
         </div>
     </div>
 </div>

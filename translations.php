@@ -143,6 +143,27 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     "interpreting.languages-list3" => [
         "de" => "Italienisch > Deutsch",
     ],
+    "interpreting.events-heading1" => [
+        "de" => "Veranstaltungen mit internationaler Ausprägung",
+    ],
+    "interpreting.events-heading1-sub" => [
+        "de" => "Seit 2012 arbeite ich als freiberufliche Konferenzdolmetscherin für Unternehmen, Institutionen und Behörden in Politik und Wirtschaft – im Inland wie im Ausland. Zu folgenden Anlässen konnte ich meine Sprachkompetenz und Dolmetschexpertise bereits unter Beweis stellen.",
+    ],
+    "interpreting.events-heading1-list1" => [
+        "de" => "Offizielle Anlässe, Ministertreffen, Staatsbesuche, Feierlichkeiten, Städtepartnerschaften, Begleitung von Delegationen, internationale Gästeprogramme, Informationsreisen, bilaterale Abkommen, Austausch auf politischer und kultureller Ebene, Ausstellungs- und Museumsführungen",
+    ],
+    "interpreting.events-heading1-list2" => [
+        "de" => "Aufsichtsratssitzungen, Vorstandssitzungen, Gewerkschaftssitzungen, Sitzungen europäischer Betriebsräte, Firmengründungen (Gründung europäischer Aktiengesellschaften, SE), Gesellschafterversammlungen, Projekt- und Teamsitzungen, Vertragsverhandlungen, Assessment Center",
+    ],
+    "interpreting.events-heading1-list3" => [
+        "de" => "Tagungen und Konferenzen, Podiumsdiskussionen, Geschäftsverhandlungen, Inbetriebnahmen (mit Instandsetzung und Wartung) von Maschinen und Anlagen, technische Schulungen, Produktpräsentationen, Werksführungen, Fachausstellungen und Messen, Geschäftsreisen, Betriebsausflüge",
+    ],
+    "interpreting.events-heading1-list4" => [
+        "de" => "Ausbilderkonferenzen und Jugendseminare im Rahmen der politischen Bildung",
+    ],
+    "interpreting.events-heading1-list5" => [
+        "de" => "Gerichtsverhandlungen, Einsätze bei Justiz- und Polizeibehörden sowie Zollämtern, Bewährungs- und Gerichtshilfen",
+    ],
 
     /* ÜBERSETZEN */
     "translating.title" => [

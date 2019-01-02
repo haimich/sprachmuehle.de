@@ -142,6 +142,18 @@ header {
     height: 24px;
 }
 
+.highlighted-box {
+    margin-left: 0;
+    background-color: #F5F5F5;
+    margin-bottom: 30px;
+}
+
+.highlighted-box div {
+    border-left: 10px solid #9B225F;
+    padding: 15px 42px;
+    color: #121212;
+}
+
 /* MAIN */
 
 .main-container {
