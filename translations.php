@@ -164,6 +164,57 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     "interpreting.events-heading1-list5" => [
         "de" => "Gerichtsverhandlungen, Einsätze bei Justiz- und Polizeibehörden sowie Zollämtern, Bewährungs- und Gerichtshilfen",
     ],
+    "interpreting.events-heading2" => [
+        "de" => "Damit Ihre Veranstaltung ein Erfolg wird",
+    ],
+    "interpreting.events-heading2-sub1" => [
+        "de" => "Jede Veranstaltung folgt eigenen Gesetzen und erfordert eine gründliche Vorbereitung, wenn sie erfolgreich sein will. Damit in Ihren Veranstaltungen Kommunikation über Sprachgrenzen hinweg funktioniert, stehe ich Ihnen bereits in der Planungsphase mit Rat und Tat zur Seite.",
+    ],
+    "interpreting.events-heading2-sub2" => [
+        "de" => "Ort und Charakter Ihrer Veranstaltung sowie Anzahl und Zusammensetzung der Teilnehmer entscheiden darüber, welche Art des Dolmetschens zum Einsatz kommt, welche Technik benötigt wird und wie viele Dolmetscher vor Ort sein müssen. Daher stelle ich Ihnen Fragen, kläre Anforderungen und Wünsche und berate Sie umfassend. So können Sie sicher sein, dass alles reibungslos funktioniert, dass sich Ihre internationalen Gäste wohlfühlen und dass auch Höflichkeit und Spontaneität nicht auf der Strecke bleiben werden.",
+    ],
+    "interpreting.types-heading3" => [
+        "de" => "Dolmetscharten: für jede Situation die passende Lösung",
+    ],
+    "interpreting.types-heading3-simultan" => [
+        "de" => "Simultandolmetschen",
+    ],
+    "interpreting.types-heading3-simultan-sub" => [
+        "de" => "für großformatige internationale Veranstaltungen, bei denen nahezu zeitgleich in mehrere Sprachen gedolmetscht wird.",
+    ],
+    "interpreting.types-heading3-simultan-long" => [
+        "de" => "<p>Diese Art des Dolmetschens empfiehlt sich insbesondere für größere mehrsprachige Veranstaltungen wie Konferenzen, Tagungen und Kongresse. Dadurch entstehen keinerlei Verzögerungen im Tagungsablauf und alle Teilnehmer können in der Sprache kommunizieren, in der sie sich am wohlsten fühlen. Redner müssen aus Unsicherheit nicht am Blatt kleben oder sich übermäßig vereinfacht ausdrücken. Zuhörer können Redebeiträgen ohne Zeitverlust folgen und sich in ihrer Muttersprache in Diskussionen einbringen.</p><p>Für das Simultandolmetschen werden schallisolierte Kabinen und Tontechnik sowie ein Team aus mehreren Dolmetschern benötigt, um die gewünschten Sprachkombinationen abzudecken und die Qualität der Verdolmetschung über einen längeren Zeitraum sicherzustellen. Ein Tontechniker sorgt während der Veranstaltung für optimale akustische Verhältnisse. Die Dolmetscher in den Kabinen hören über Kopfhörer den Original-Redebeitrag und sprechen die verdolmetschte Rede in ein Mikrofon. Die Zuhörer im Veranstaltungsraum wählen den Kanal mit der gewünschten Sprache und hören sich die Verdolmetschung über Kopfhörer an.</p>",
+    ],
+    "interpreting.types-heading3-whisper" => [
+        "de" => "Flüsterdolmetschen",
+    ],
+    "interpreting.types-heading3-whisper-sub" => [
+        "de" => "für die internationale Verständigung in kleinen Gruppen rund um den Tisch als auch bei ständigem Ortswechsel.",
+    ],
+    "interpreting.types-heading3-whisper-long" => [
+        "de" => "<p>Unterhält man sich mit ausländischen Partnern am Tisch im kleinen Kreis wie bei einem Vertriebsmeeting, kommt das Flüsterdolmetschen zum Einsatz. Hierbei sitzt der Dolmetscher in unmittelbarer Nähe der Zuhörer und flüstert ihnen den verdolmetschten Redebeitrag ins Ohr. Dabei kann er ohne Technik für ein bis zwei Zuhörer tätig werden.</p><p>Bei Gruppen von 10 bis 15 Personen und Gruppen, die wie bei einer Werksführung oder praktischen Präsentation in Bewegung sind, kommt eine Personenführungsanlage (PFA) zum Einsatz. Dabei spricht der Dolmetscher leise in ein Mikrofon, während die Zuhörer der Verdolmetschung über Kopfhörer folgen. So kann auch bei einem hohen Lärmpegel, bei ständigem Ortswechsel oder an Orten der Stille Verständigung über Sprach- und Kulturgrenzen hinweg gelingen.</p>",
+    ],
+    "interpreting.types-heading3-kon" => [
+        "de" => "Konsekutivdolmetschen",
+    ],
+    "interpreting.types-heading3-kon-sub" => [
+        "de" => "für offizielle und feierliche Anlässe, bei denen zeitversetzt in ein bis zwei Fremdsprachen für unterschiedliche Publikumsgrößen gedolmetscht wird.",
+    ],
+    "interpreting.types-heading3-kon-long" => [
+        "de" => "<p>Eingesetzt wird diese Form des Dolmetschens bei feierlichen Anlässen wie Tisch- und Eröffnungsreden, Empfängen, Preisverleihungen und Pressekonferenzen. Dabei überträgt der Dolmetscher die Botschaft des Redners zeitversetzt. Erst notiert er das Gehörte mit einer speziellen Notizentechnik und gibt es dann anschließend – während der Redner pausiert – in einer anderen Sprache wieder. Daher muss für die Veranstaltung doppelt so viel Zeit eingeplant werden. Zudem kann es in Abhängigkeit von der Zuhörerzahl sinnvoll sein, ein Stehpult mit Mikrofon einzusetzen.</p>",
+    ],
+    "interpreting.types-heading3-negotiate" => [
+        "de" => "Verhandlungsdolmetschen",
+    ],
+    "interpreting.types-heading3-negotiate-sub" => [
+        "de" => "für vertrauensvolle Gespräche im kleinen Teilnehmerkreis mit hoher Gesprächsdynamik, bei denen zwischen den verschiedenen Sprachen schnell hin- und hergewechselt werden muss.",
+    ],
+    "interpreting.types-heading3-negotiate-long" => [
+        "de" => "<p>Bilaterale Gespräche, Verhandlungen, Rechtsanwalts- und Notartermine sowie Gespräche mit Zoll- und Justizbehörden zeichnen sich durch eine hohe Gesprächsdynamik aus, sodass beim Dolmetschen die Sprachrichtung häufig gewechselt werden muss. In solchen Situationen wird zeitversetzt (konsekutiv) gedolmetscht.</p><p>Dabei sitzt der Dolmetscher gemeinsam mit den Gesprächsteilnehmern an einem Tisch und überträgt die Redebeiträge direkt im Anschluss in die gewünschte Sprache. In der Regel werden kurze Sinneinheiten gedolmetscht, damit keine Informationen verloren gehen und der natürliche Gesprächsfluss erhalten bleibt.</p>",
+    ],
+    "interpreting.types-showmore" => [
+        "de" => "mehr erfahren >",
+    ],
 
     /* ÜBERSETZEN */
     "translating.title" => [
