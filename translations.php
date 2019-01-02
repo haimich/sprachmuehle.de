@@ -268,6 +268,36 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     "translating.keywords" => [
         "de" => "dolmetschen,übersetzen",
     ],
+    "translating.welcome-alt" => [
+        "de" => "Übersetzen",
+    ],
+    "translating.welcome-header1" => [
+        "de" => "Übersetzen",
+    ],
+    "translating.welcome-header2" => [
+        "de" => "Zielgenau und wirkungsvoll –<br />Original und Übersetzung im Gleichklang",
+    ],
+    "translating.welcome-header2-sub1" => [
+        "de" => "Beim Übersetzen werden Texte von einer Sprache in eine andere übertragen. Dabei verändern sich die Texte unter der Feder des Übersetzers, um die Intention des Autors unverfälscht in die Zielkultur zu transportieren und dort beim Leser dieselbe Wirkung zu erzielen wie in der Originalsprache. Eine Übersetzung ist dann gut, wenn der Leser sie nicht als solche erkennt, sondern sie einfach als einen gut geschriebenen Text wahrnimmt.",
+    ],
+    "translating.intro" => [
+        "de" => "Eine gute Übersetzung? Die bekommen Sie von mir! Von Alltagstexten bis hin zu komplexen Fachpublikationen übersetze ich für Sie in den folgenden Sprachkombinationen",
+    ],
+    "translating.languages-alt" => [
+        "de" => "Übersetzen",
+    ],
+    "translating.languages-heading" => [
+        "de" => "Meine Sprachkombinationen",
+    ],
+    "translating.languages-list1" => [
+        "de" => "Deutsch > Rumänisch",
+    ],
+    "translating.languages-list2" => [
+        "de" => "Rumänisch > Deutsch",
+    ],
+    "translating.languages-list3" => [
+        "de" => "Französisch > Rumänisch",
+    ],
 
     /* PROFIL */
     "profile.title" => [
@@ -305,11 +335,11 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Impressum",
     ],
     "imprint.heading-sub" => [
-        "de" => "Angaben gem&auml;&szlig; &sect; 5 TMG",
+        "de" => "Angaben gemäß &sect; 5 TMG",
     ],
     "imprint.address" => [
-        "de" => "Dolmetscherin und &Uuml;bersetzerin<br />
-Adlerstra&szlig;e 4a<br />
+        "de" => "Dolmetscherin und Übersetzerin<br />
+Adlerstraße 4a<br />
 76287 Rheinstetten",
     ],
     "imprint.contact-heading" => [
@@ -325,13 +355,13 @@ Adlerstra&szlig;e 4a<br />
         "de" => "Umsatzsteuer-ID",
     ],
     "imprint.ustid-heading-sub" => [
-        "de" => "Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect;27 a Umsatzsteuergesetz",
+        "de" => "Umsatzsteuer-Identifikationsnummer gemäß &sect;27 a Umsatzsteuergesetz",
     ],
     "imprint.mediation-heading" => [
         "de" => "Streitschlichtung",
     ],
     "imprint.mediation-heading-sub" => [
-        "de" => "Die Europ&auml;ische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit",
+        "de" => "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit",
     ],
     "imprint.mediation-heading-sub2" => [
         "de" => "Unsere E-Mail-Adresse finden Sie oben im Impressum",
@@ -340,19 +370,19 @@ Adlerstra&szlig;e 4a<br />
         "de" => "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen",
     ],
     "imprint.liabilitycontent-heading" => [
-        "de" => "Haftung f&uuml;r Inhalte",
+        "de" => "Haftung für Inhalte",
     ],
     "imprint.liabilitycontent-heading-sub1" => [
-        "de" => "Als Diensteanbieter sind wir gem&auml;&szlig; &sect; 7 Abs.1 TMG f&uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &sect;&sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &uuml;bermittelte oder gespeicherte fremde Informationen zu &uuml;berwachen oder nach Umst&auml;nden zu forschen, die auf eine rechtswidrige T&auml;tigkeit hinweisen.",
+        "de" => "Als Diensteanbieter sind wir gemäß &sect; 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &sect;&sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.",
     ],
     "imprint.liabilitycontent-heading-sub2" => [
-        "de" => "Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unber&uuml;hrt. Eine diesbez&uuml;gliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung m&ouml;glich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.",
+        "de" => "Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.",
     ],
     "imprint.liabilitylinks-heading" => [
-        "de" => "Haftung f&uuml;r Links",
+        "de" => "Haftung für Links",
     ],
     "imprint.liabilitylinks-heading-sub1" => [
-        "de" => "Unser Angebot enth&auml;lt Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb k&ouml;nnen wir f&uuml;r diese fremden Inhalte auch keine Gew&auml;hr &uuml;bernehmen. F&uuml;r die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf m&ouml;gliche Rechtsverst&ouml;&szlig;e &uuml;berpr&uuml;ft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.",
+        "de" => "Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.",
     ],
     "imprint.liabilitylinks-heading-sub2" => [
         "de" => "Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.",
@@ -361,7 +391,7 @@ Adlerstra&szlig;e 4a<br />
         "de" => "Urheberrecht",
     ],
     "imprint.copyright-heading-sub1" => [
-        "de" => "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung au&szlig;erhalb der Grenzen des Urheberrechtes bed&uuml;rfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur f&uuml;r den privaten, nicht kommerziellen Gebrauch gestattet.",
+        "de" => "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.",
     ],
     "imprint.copyright-heading-sub2" => [
         "de" => "Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.",

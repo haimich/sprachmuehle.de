@@ -1,6 +1,6 @@
 <!-- Hero image -->
 <div class="row justify-content-around" style="position: relative">
-    <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 75%; background-color: #F7F7F7">&nbsp;</div>
+    <div class="welcome-gray-bg">&nbsp;</div>
 
     <div class="col-6 align-self-end">
         <h1 style="margin-bottom: 68px; padding-left: 32px;">
