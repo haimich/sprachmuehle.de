@@ -171,7 +171,7 @@ nav.menu {
     letter-spacing: .6px;
     font-weight: bold;
     font-size: 0.7rem;
-    box-shadow: 2px 2px 28px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 2px 2px 28px 1px rgba(0, 0, 0, 0.14);
 }
 
 .call-to-action-wide {
@@ -251,7 +251,7 @@ nav.menu {
 .aboutme-text {
     margin-top: 20px;
     font-size: 1.05rem;
-    max-width: 55%;
+    max-width: 47%;
     line-height: 1.4rem;
 }
 
@@ -331,11 +331,6 @@ nav.menu {
     margin-top: 85px;
     padding: 0;
     background-color: #f7f7f7;
-}
-
-/* AGB */
-#headingInterpreting {
-
 }
 
 /* FOOTER */

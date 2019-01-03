@@ -42,8 +42,8 @@
         </p>
 
         <p>
-            <?=t('contact-tel-heading')?>: +49 (0) 721 47 00 64 87<br />
-            <?=t('contact-mobile-heading')?>: +49 (0) 1520 231 24 27‬<br />
+            <?=t('contact-tel-heading')?>: <a href="tel:‭+4972147006487">+49 (0) 721 47 00 64 87</a><br />
+            <?=t('contact-mobile-heading')?>: <a href="tel:‭+4915202312427‬">+49 (0) 1520 231 24 27‬</a><br />
             <?=t('contact-email-heading')?>: <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
         </p>
     </div>

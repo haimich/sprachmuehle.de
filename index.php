@@ -230,7 +230,7 @@
             <!-- Mitgliedschaften -->
             <div class="col-3 footer-memberships d-print-none">
                 <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank">
-                    <img src="/static/images/logos/bdue_vkd_logo.svg" title="<?=t('footer.logo.title')?>" style="height: 30px;" />
+                    <img src="/static/images/logos/bdue_vkd_logo.svg" alt="<?=t('footer.logo.title')?>" style="height: 30px;" />
                 </a>
             </div>
         </footer>
