@@ -30,6 +30,9 @@ const TRANSLATIONS = [
     "menu.contact" => [
         "de" => "Kontakt",
     ],
+    "menu.toggle-title" => [
+        "de" => "Menü",
+    ],
     "logo.title" => [
         "de" => "Startseite",
     ],

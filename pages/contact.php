@@ -53,7 +53,7 @@
     </div>
 </div>
 
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyAAeIbdV0NH4vwSyZl57mEohSAuA6R2vCQ"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAeIbdV0NH4vwSyZl57mEohSAuA6R2vCQ"></script>
 
 <script>
     let gmegMap, gmegMarker, gmegInfoWindow, latLng;
