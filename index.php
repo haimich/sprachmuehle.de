@@ -59,7 +59,7 @@
             $title = t("agb.title");
             $description = t("agb.description");
             $keywords = t("agb.keywords");
-            $content = "pages/agb.php";
+            $content = "pages/agb-interpreting.php";
             break;
         }
         case PAGE_404: {
@@ -98,6 +98,7 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
     <link rel="stylesheet" href="/static/css/main.css">
 
     <!-- Icons -->
@@ -113,7 +114,7 @@
     <div class="container-fluid main-container">
 
         <!-- HEADER -->
-        <header class="row">
+        <header class="row d-print-none">
             <!-- Logo -->
             <div class="col-sm-2">
                 <a href="/" title="<?=t("logo.title")?>">
@@ -174,6 +175,15 @@
             </div>
         </header>
 
+        <!-- LOGO for PRINT -->
+        <div class="row d-none d-print-block">
+            <div class="col-2">
+                <a href="/" title="<?=t("logo.title")?>">
+                    <img class="logo" src="/static/images/logos/sprachmuehle_logo.png" alt='<?=t("logo.alt")?>' />
+                </a>
+            </div>
+        </div>
+
         <!-- MAIN -->
         <div class="row main">
             <div class="col-12 col-xl-10 offset-xl-1" style="background-color: white">
@@ -198,7 +208,7 @@
             </div>
 
             <!-- Links -->
-            <div class="col-6 footer-links">
+            <div class="col-6 footer-links d-print-none">
                 <a href="/impressum"><?=t('footer.imprint')?></a>
                 
                 <span class="footer-link-separator"> - </span>
@@ -211,7 +221,7 @@
             </div>
 
             <!-- Mitgliedschaften -->
-            <div class="col-3 footer-memberships">
+            <div class="col-3 footer-memberships d-print-none">
                 <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank">
                     <img src="/static/images/logos/bdue_vkd_logo.svg" title="<?=t('footer.logo.title')?>" style="height: 30px;" />
                 </a>
@@ -223,8 +233,32 @@
     <!-- SCRIPTS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 
     <script src="/static/js/main.js"></script>
+    
+    <!-- COOKIE CONSENT -->
+    <script>
+        window.addEventListener("load", function() {
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#1d8a8a",
+                    },
+                    "button": {
+                        "background": "#194d60",
+                    }
+                },
+                "theme": "classic",
+                "content": {
+                    "message": "<?=t('cookies.text')?>",
+                    "dismiss": "<?=t('cookies.accept')?>",
+                    "link": "<?=t('cookies.moreInfo')?>",
+                    "href": "/datenschutz"
+                },
+            });
+        });
+    </script>
     
 </body>
 </html>

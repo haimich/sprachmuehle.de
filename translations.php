@@ -793,6 +793,337 @@ Adlerstraße 4a<br />
     "agb.keywords" => [
         "de" => "dolmetschen,übersetzen",
     ],
+    "agb.interpreting.heading" => [
+        "de" => "AGB Dolmetschen",
+    ],
+    "agb.interpreting.heading2" => [
+        "de" => "Allgemeine Geschäftsbedingungen zum Auftrag/Vertrag",
+    ],
+    "agb.interpreting.§1-heading" => [
+        "de" => "§ 1&nbsp;&nbsp;Allgemeines und Geltungsbereich",
+    ],
+    "agb.interpreting.§1-1" => [
+        "de" => "Die nachfolgenden Allgemeinen Geschäftsbedingungen gelten für alle Verträge zwischen <strong>Cristina Müller nachfolgend „Dolmetscherin“ genannt</strong> und ihren Auftraggebern, soweit es sich um Unternehmer oder eine juristische Person des öffentlichen Rechts handelt.",
+    ],
+    "agb.interpreting.§1-2" => [
+        "de" => "Abweichende oder ergänzende allgemeine Geschäftsbedingungen des Auftraggebers werden nur dann Vertragsbestandteil, wenn die Dolmetscherin dies schriftlich oder per E-Mail anerkannt hat.",
+    ],
+    "agb.interpreting.§1-3" => [
+        "de" => "Die Vertragssprache ist Deutsch. Es gilt ausschließlich deutsches Recht.",
+    ],
+    "agb.interpreting.§2-heading" => [
+        "de" => "§ 2&nbsp;&nbsp;Leistungen der Dolmetscherin und Verschwiegenheitspflicht",
+    ],
+    "agb.interpreting.§2-1" => [
+        "de" => "Die Dolmetscherin erbringt die Leistungen gemäß Ziffer 1 bis 12 des Auftrages/Vertrages.",
+    ],
+    "agb.interpreting.§2-2" => [
+        "de" => "Leistungen, die nicht ausdrücklich in den Ziffern 1 bis 12 geregelt sind, sind grundsätzlich gesondert zu vergüten.",
+    ],
+    "agb.interpreting.§2-3" => [
+        "de" => "Die Dolmetscherin ist verpflichtet, sämtliche ihr bei der Ausführung dieses Vertrags bekanntwerdenden Informationen streng vertraulich zu behandeln und insbesondere keinen rechtswidrigen Nutzen daraus zu ziehen.",
+    ],
+    "agb.interpreting.§2-4" => [
+        "de" => "Die Verschwiegenheitspflicht erstreckt sich nicht auf Informationen und Unterlagen, die allgemein bekannt sind und/oder von Dritten öffentlich bekannt gegeben wurden.",
+    ],
+    "agb.interpreting.§3-heading" => [
+        "de" => "§ 3&nbsp;&nbsp;Mitwirkungspflichten des Auftraggebers",
+    ],
+    "agb.interpreting.§3-1" => [
+        "de" => "Dem Auftraggeber ist bekannt, dass sich die Dolmetscherin mit Hilfe der vom Auftraggeber zur Verfügung zu stellenden einschlägigen Unterlagen (z.B. Arbeitsprogramm, Tagesordnung, Berichte, Referate, Anträge etc.)  auf die Veranstaltung vorbereiten muss, um eine fehlerfreie Leistung gewährleisten zu können.<br /><br />Der Auftraggeber ist daher verpflichtet, der Dolmetscherin so bald wie möglich, spätestens jedoch 8 Arbeitstage vor Veranstaltungsbeginn, einen vollständigen Satz aller einschlägigen Unterlagen in den Sprachen, in die und aus denen die Dolmetscherin laut Ziffer 9 des Auftrages/Vertrages dolmetschen soll, in einem gängigen Dateiformat auszuhändigen.",
+    ],
+    "agb.interpreting.§3-2" => [
+        "de" => "Von sämtlichen Schriftstücken und Manuskripten, die während der Veranstaltung verlesen werden, erhält die Dolmetscherin spätestens 8 Arbeitstage vor Veranstaltungsbeginn eine Kopie, die – soweit nicht ausdrücklich etwas anderes vereinbart worden ist -  auch nach Veranstaltungsende bei ihr verbleiben oder vernichtet werden kann.",
+    ],
+    "agb.interpreting.§3-3" => [
+        "de" => "Der Dolmetscherin sind auch Filmeinspielungen 8 Arbeitstage vor Veranstaltungsbeginn in einem gängigen Dateiformat zur Verfügung zu stellen.",
+    ],
+    "agb.interpreting.§4-heading" => [
+        "de" => "§ 4&nbsp;&nbsp;Arbeitsbedingungen und Leistungsverweigerungsrecht der Dolmetscherin",
+    ],
+    "agb.interpreting.§4-sub" => [
+        "de" => "Dem Auftraggeber ist bekannt, dass eine einwandfreie Leistung der Dolmetscherin nur im Rahmen der nachfolgenden Arbeitsbedingungen gewährleistet werden kann",
+    ],
+    "agb.interpreting.§4-1" => [
+        "de" => "Soweit die Parteien nicht ausdrücklich etwas anderes vereinbart haben, benötigt die Dolmetscherin eine Dolmetschkabine. Ortsfeste Simultandolmetschkabinen und -anlagen müssen den Anforderungen der DIN EN ISO 2603 für ortsfeste bzw. DIN EN ISO 4043 für mobile Kabinen entsprechen. Es gelten des Weiteren ISO 20108 (Simultandolmetschen - Qualität und Übertragung von Ton- und Bildeingang – Anforderungen) und ISO 20109 (Simultandolmetschen - Ausstattung – Anforderungen). Die Dolmetscherin muss aus der Kabine direkte Sicht auf den jeweiligen Redner, in den Sitzungssaal und auf evtl. genützte Projektionswände haben. Die Verwendung von Fernsehmonitoren ersetzt die direkte Sicht nicht. Der Auftraggeber ist zudem verpflichtet zu gewährleisten, dass die Dolmetscherin die zu dolmetschenden Texte mit bestmöglicher Qualität hören kann.",
+    ],
+    "agb.interpreting.§4-2" => [
+        "de" => "Videokonferenzen: Der Auftraggeber ist verpflichtet, die Dolmetscherin/den beratenden Dolmetscher von Anfang an in die Planung einer Videokonferenz einzubinden und mit ihr/ihm die Bedingungen für die Durchführbarkeit einer solchen Konferenz zu klären. Die Arbeitsbedingungen müssen den ISO-Normen 2603 und 4043 sowie CEI 914 entsprechen. Die Tonqualität muss im 125-150 Hertz-Bereich liegen. Hochauflösende Monitore sind unerlässlich.",
+    ],
+    "agb.interpreting.§4-3" => [
+        "de" => "Bei Simultandolmetscheinsätzen sind mindestens 2 Dolmetscher erforderlich.",
+    ],
+    "agb.interpreting.§4-4" => [
+        "de" => "Höchstarbeitszeit pro Dolmetscher: Je nach Themenbereich 5-7 Stunden täglich, soweit die Parteien nicht etwas anderes vereinbart haben.",
+    ],
+    "agb.interpreting.§4-5" => [
+        "de" => "Bei einem Tageseinsatz, der 5 bis 7 Stunden dauert sind der Dolmetscherin je nach Themenbereich vormittags 30 Minuten, mittags mindestens 60 Minuten und nachmittags weitere 30 Minuten Pausenzeiten zu gewähren, soweit die Parteien nicht etwas anderes vereinbart haben.",
+    ],
+    "agb.interpreting.§4-6" => [
+        "de" => "Die Dolmetscherin ist berechtigt, die vereinbarte Leistung zu verweigern, wenn sie nicht die oben angegebenen Arbeitsbedingungen vorfindet. Ihr Anspruch auf Honorar bleibt hiervon unberührt.",
+    ],
+    "agb.interpreting.§5-heading" => [
+        "de" => "§ 5&nbsp;&nbsp;Gewährleistung und Haftung",
+    ],
+    "agb.interpreting.§5-1" => [
+        "de" => "Die Dolmetscherin ist verpflichtet, nach bestem Wissen und Gewissen zu arbeiten.",
+    ],
+    "agb.interpreting.§5-2" => [
+        "de" => "Erbringt die Dolmetscherin ihre Leistungen, obwohl sie bei Leistungsbeginn nicht die in § 4 geregelten Arbeitsbedingungen vorfindet, kann der Auftraggeber in diesem Fall keine Rechte aus einer auf die unzureichenden Arbeitsbedingungen zurückzuführende Schlechtleistung geltend machen. Insbesondere ist eine Minderung des Honorars in diesem Fall ausgeschlossen.",
+    ],
+    "agb.interpreting.§5-3" => [
+        "de" => "Die Haftung der Dolmetscherin richtet sich in Fällen des Vorsatzes oder der groben Fahrlässigkeit nach den gesetzlichen Bestimmungen. Die Haftung für Garantien erfolgt verschuldensunabhängig.",
+    ],
+    "agb.interpreting.§5-4" => [
+        "de" => "Für leichte Fahrlässigkeit haftet die Dolmetscherin ausschließlich nach den Vorschriften des Produkthaftungsgesetzes, wegen der Verletzung des Lebens, des Körpers oder der Gesundheit oder wegen der Verletzung wesentlicher Vertragspflichten. Unter einer wesentlichen Vertragspflicht ist eine Pflicht zu verstehen, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf.<br /><br />Die Schadenersatzansprüche für die leicht fahrlässige Verletzung wesentlicher Vertragspflichten sind jedoch auf die vertragstypischen, vorhersehbaren Schäden begrenzt, soweit nicht wegen der Verletzung des Lebens, des Körpers oder der Gesundheit gehaftet wird. Vertragstypische, vorhersehbare Schäden sind solche, die dem Schutzzweck der jeweils verletzten vertraglichen oder gesetzlichen Norm unterfallen. Für das Verschulden von Erfüllungsgehilfen und Vertretern haftet die Dolmetscherin im selben Umfang.",
+    ],
+    "agb.interpreting.§5-5" => [
+        "de" => "Die Regelungen des vorstehenden Absatzes erstrecken sich auf Schadenersatz neben der Leistung, den Schadenersatz statt der Leistung und dem Erstattungsanspruch wegen vergeblicher Aufwendungen, gleich aus welchem Rechtsgrund, einschließlich der Haftung wegen Mängel, Verzug oder Unmöglichkeit.",
+    ],
+    "agb.interpreting.§5-6" => [
+        "de" => "Eine Änderung der Beweislast zum Nachteil des Auftraggebers ist mit den vorstehenden Regelungen nicht verbunden.",
+    ],
+    "agb.interpreting.§6-heading" => [
+        "de" => "§ 6&nbsp;&nbsp;Vertragsänderungen",
+    ],
+    "agb.interpreting.§6-sub" => [
+        "de" => "Sollte die Dolmetscherin aus wichtigem Grund an der Erfüllung des Vertrages verhindert sein, ist sie bereit, nach besten Kräften und soweit ihr das billigerweise zuzumuten ist, dafür zu sorgen, dass an ihrer Stelle ein Fachkollege die Pflichten aus diesem Vertrag übernimmt. Dies ist mit dem Auftraggeber abzustimmen.",
+    ],
+    "agb.interpreting.§7-heading" => [
+        "de" => "§ 7&nbsp;&nbsp;Nutzungs- und Urheberrechte",
+    ],
+    "agb.interpreting.§7-1" => [
+        "de" => "Das Produkt der Dolmetschleistung ist – soweit nicht ausdrücklich im Vertrag etwas anderes vereinbart worden ist - ausschließlich zur sofortigen Anhörung bestimmt.",
+    ],
+    "agb.interpreting.§7-2" => [
+        "de" => "Eine Aufzeichnung der Dolmetschleistung ist nur nach vorheriger schriftlicher Vereinbarung zulässig. In dieser Vereinbarung ist insbesondere auch zu regeln, welche Nutzungsrechte dem Auftraggeber zur Verwendung der Aufzeichnung übertragen werden. Falls es die Parteien verabsäumen, eine hinreichend deutliche Regelung zu den Nutzungs- und Urheberrechten an der Aufzeichnung zu treffen, ist eine Verwertung der Aufzeichnung zu welchem Zweck auch immer nur mit schriftlicher Zustimmung der Dolmetscherin gestattet.",
+    ],
+    "agb.interpreting.§7-3" => [
+        "de" => "Jede weitere Verwendung (z.B. die Direktübertragung; Übertragung mit Hilfe des Internets, Web-Streaming etc.) bedarf einer gesonderten vertraglichen Vereinbarung. Auch insoweit gilt § 7 Abs. 2 dieser Bedingungen.",
+    ],
+    "agb.interpreting.§8-heading" => [
+        "de" => "§ 8&nbsp;&nbsp;Vergütung und Zahlungsbedingungen",
+    ],
+    "agb.interpreting.§8-1" => [
+        "de" => "Soweit die Parteien nicht ausdrücklich etwas anderes vereinbart haben, stellt die <strong>Dolmetscherin</strong> dem Auftraggeber die vereinbarte Leistung unmittelbar nach der Veranstaltung in Rechnung. Die Rechnung ist ohne Abzug innerhalb von 14 Tagen nach Zugang der Rechnung zur Zahlung fällig.",
+    ],
+    "agb.interpreting.§8-2" => [
+        "de" => "Bei einem Auftragsvolumen über 6.000,00 € werden mit der Auftragserteilung 30 % des vereinbarten Honorars fällig. Hinsichtlich des verbleibenden Restbetrages gilt § 8 Abs. 1 dieser AGB.",
+    ],
+    "agb.interpreting.§9-heading" => [
+        "de" => "§ 9&nbsp;&nbsp;Datenschutzbestimmungen",
+    ],
+    "agb.interpreting.§9-1" => [
+        "de" => "Diese Datenschutzhinweise gelten für die Datenverarbeitung durch die Dolmetscherin. Verantwortliche: Frau Cristina Müller, Adlerstraße 4a, 76287 Rheinstetten, Deutschland, E-Mail: mail@sprachmuehle.de, Telefonnummer:",
+    ],
+    "agb.interpreting.§9-2-1" => [
+        "de" => "Der Auftraggeber der Dolmetscherin kann eine reibungslose Abwicklung des Auftrages erwarten. Dabei lässt es sich nicht vermeiden, dass bestimmte Daten des Auftraggebers unter Verwendung technischer Hilfsmittel gespeichert werden. Bei Auftragsannahme erhebt die Dolmetscherin eine Reihe personenbezogener Daten als sogenannte Basisdaten, die benötigt werden, um den erteilten Auftrag reibungslos ausführen zu können. Dabei werden nur solche Daten gespeichert, die für die Vertragserfüllung zwingend notwendig sind. Die Dolmetscherin erhebt und verwendet personenbezogenen Daten des Auftraggebers ausschließlich im Rahmen der Bestimmungen des geltenden Datenschutzrechts der BRD. Die Dolmetscherin erhebt, verarbeitet und nutzt folgende Informationen",
+    ],
+    "agb.interpreting.§9-2-2" => [
+        "de" => "Anrede, Vorname, Nachname, eine gültige E-Mailadresse, Anschrift, Telefonnummer (Festnetz und /oder Mobilfunk), sowie weitere Informationen, die für die zur Abwicklung von evtl. vorliegenden Erfüllungs-oder Gewährleistungsansprüchen sowie der Geltendmachung etwaiger Ansprüche gegen den Auftraggeber erforderlich sind.",
+    ],
+    "agb.interpreting.§9-2-3" => [
+        "de" => "Die Erhebung der Daten erfolgt, um den Auftraggeber als Kunden identifizieren zu können, die beauftragte Leistung sachgerecht und zeitnah erbringen zu können, zur Rechnungsstellung und zur Abwicklung und Geltendmachung von wechselseitigen Ansprüchen. Die Datenverarbeitung erfolgt auf Anfrage des Auftraggebers und ist zu den genannten Zwecken erforderlich im Sinne des Art. 6 Abs. 1 S. 1 lit. b DSGVO.",
+    ],
+    "agb.interpreting.§9-3" => [
+        "de" => "Die für die Auftragsabwicklung von der Dolmetscherin erhobenen personenbezogenen Daten werden bis zum Ablauf der gesetzlichen Aufbewahrungspflicht gespeichert und danach routinemäßig gelöscht, sofern sie nicht mehr zur Vertragserfüllung oder Vertragsanbahnung erforderlich sind und/oder ein berechtigtes Interesse der Dolmetscherin an der Weiterspeicherung fortbesteht. Sollte die Ausübung von Interventionsrechten die Löschung gebieten, werden die betroffenen Daten unverzüglich gelöscht.",
+    ],
+    "agb.interpreting.§9-4" => [
+        "de" => "Soweit dies nach Art. 6 Abs. 1 S. 1 lit. b DSGVO für die Abwicklung des Auftrages erforderlich ist, werden personenbezogene Daten des Auftraggebers an Dritte weitergegeben. Hierzu gehört insbesondere die Weitergabe an einen Subunternehmer der Dolmetscherin oder an das zur Lieferung der Übersetzung beauftragte Transportunternehmen. Die weitergegebenen Daten dürfen von dem Dritten ausschließlich zu den genannten Zwecken verwendet werden. Im Übrigen erfolgt eine Weitergabe an Dritte nur mit Einwilligung des Auftraggebers.",
+    ],
+    "agb.interpreting.§9-5" => [
+        "de" => "Der Auftraggeber hat das Recht, 
+        <br />gemäß Art. 7 Abs. 3 DSGVO seine einmal erteilte Einwilligung jederzeit gegenüber der Dolmetscherin zu widerrufen. Dies hat zur Folge, dass die Dolmetscherin die Datenverarbeitung, die auf dieser Einwilligung beruhte, für die Zukunft nicht mehr fortführen darf;	
+        <br />gemäß Art. 15 DSGVO Auskunft über die von der Dolmetscherin verarbeiteten personenbezogenen Daten zu verlangen. Insbesondere kann der Auftraggeber Auskunft über die Verarbeitungszwecke, die Kategorie der personenbezogenen Daten, die verarbeitet werden, die Empfänger oder die Kategorien von Empfängern, gegenüber denen Ihre Daten offengelegt worden sind oder werden, falls möglich die geplante Speicherdauer oder falls dies nicht möglich ist, die Kriterien für die Festlegung der Dauer, das Bestehen eines Rechts auf Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch, das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde, die verfügbaren Informationen der Herkunft seiner Daten, sofern diese nicht bei der Dolmetscherin erhoben wurden, sowie über das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling und ggf. aussagekräftigen Informationen zu deren Einzelheiten verlangen;	
+        <br />gemäß Art. 16 DSGVO unverzüglich die Berichtigung unrichtiger oder Vervollständigung seiner bei der Dolmetscherin gespeicherten personenbezogenen Daten zu verlangen;	
+        <br />gemäß Art. 17 DSGVO die unverzügliche Löschung seiner bei der Dolmetscherin gespeicherten personenbezogenen Daten zu verlangen, sofern nicht die Verarbeitung zur Ausübung des Rechts auf freie Meinungsäußerung und Information, zur Erfüllung einer rechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist;	
+        <br />gemäß Art. 18 DSGVO die Einschränkung der Verarbeitung seiner personenbezogenen Daten zu verlangen, falls die Richtigkeit der Daten von ihm bestritten wird, die Verarbeitung unrechtmäßig ist, er aber deren Löschung ablehnt, die Dolmetscherin die Daten nicht mehr benötigt, der Auftraggeber diese jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigt oder er gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung eingelegt hat;	
+        <br />gemäß Art. 20 DSGVO die  personenbezogenen Daten, die er der Dolmetscherin bereitgestellt hat, in einem strukturierten, gängigen und maschinenlesebaren Format zu erhalten oder die Übermittlung an einen anderen Verantwortlichen zu verlangen;	
+        <br />gemäß Art. 77 DSGVO sich bei einer Aufsichtsbehörde zu beschweren. In der Regel kann der Auftraggeber sich hierfür an die Aufsichtsbehörde seines üblichen Aufenthaltsortes, Arbeitsplatzes oder den Unternehmenssitz der Dolmetscherin wenden.
+        ",
+    ],
+    "agb.interpreting.§9-6" => [
+        "de" => "Sofern die personenbezogenen Daten des Auftraggebers auf Grundlage von berechtigten Interessen gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO verarbeitet werden, hat er das Recht, gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung seiner personenbezogenen Daten einzulegen, soweit dafür Gründe vorliegen, die sich aus seiner besonderen Situation ergeben.",
+    ],
+    "agb.interpreting.§9-7" => [
+        "de" => "Möchte der Auftraggeber von seinem Widerspruchsrecht Gebrauch machen, genügt eine E-Mail an:",
+    ],
+    "agb.interpreting.§9-8" => [
+        "de" => "Die Dolmetscherin hat technische und organisatorische Sicherheitsvorkehrungen eingerichtet, um Daten zu schützen, insbesondere gegen Verlust, Manipulation oder unberechtigten Zugriff. Die Dolmetscherin passt die Sicherheitsvorkehrungen regelmäßig der fortlaufenden technischen Entwicklung an.",
+    ],
+    "agb.translating.heading" => [
+        "de" => "AGB Übersetzen",
+    ],
+    "agb.translating.heading2" => [
+        "de" => "Allgemeine Übersetzungs- und Geschäftsbedingungen",
+    ],
+    "agb.translating.§1-heading" => [
+        "de" => "§ 1&nbsp;&nbsp;Allgemeines und Geltungsbereich",
+    ],
+    "agb.translating.§1-1" => [
+        "de" => "Die nachfolgenden Übersetzungs- und Geschäftsbedingungen gelten für alle Verträge zwischen <strong>Cristina Müller (nachfolgend „Übersetzerin“)</strong> und ihren Auftraggebern, soweit es sich um Unternehmer oder eine juristische Person des öffentlichen Rechts handelt.",
+    ],
+    "agb.translating.§1-2" => [
+        "de" => "Abweichende oder ergänzende allgemeine Geschäftsbedingungen des Auftraggebers werden nur dann Vertragsbestandteil, wenn die Übersetzerin dies ausdrücklich anerkannt hat.",
+    ],
+    "agb.translating.§1-3" => [
+        "de" => "Die Vertragssprache ist Deutsch. Es gilt ausschließlich deutsches Recht.",
+    ],
+    "agb.translating.§2-heading" => [
+        "de" => "§ 2&nbsp;&nbsp;Vertragsschluss",
+    ],
+    "agb.translating.§2-1" => [
+        "de" => "Die Übersetzerin unterbreitet dem Auftraggeber auf mündliche Aufforderung, schriftliche Anfrage oder Anfrage per E-Mail ein Angebot für die von ihm gewünschte Übersetzung bzw. Leistung. Der verbindliche Vertragsschluss setzt zunächst die Übermittlung des Auftrages per E-Mail oder durch Zusendung eines unterschriebenen Auftrages durch den Auftraggeber voraus. Der Vertrag kommt zustande, wenn die Übersetzerin dem Auftraggeber den Inhalt des Auftrages schriftlich, in Textform oder durch Erbringung der Leistung bestätigt hat.",
+    ],
+    "agb.translating.§2-2" => [
+        "de" => "Die Angebote der Übersetzerin sind freibleibend und unverbindlich. Gültig sind jeweils die im individuellen Angebot aufgeführten Preise. Zu den in den Angeboten aufgeführten Netto-Preisen ist die jeweils gültige Mehrwertsteuer zusätzlich zu zahlen.",
+    ],
+    "agb.translating.§3-heading" => [
+        "de" => "§ 3&nbsp;&nbsp;Leistungen, Terminologie und Subunternehmer ",
+    ],
+    "agb.translating.§3-1" => [
+        "de" => "Die Übersetzerin verpflichtet sich, den vom Auftraggeber übermittelten Text so in die vereinbarte Zielsprache zu übersetzen, dass er keine Mängel aufweist. Die Übersetzerin sorgt dafür, dass die Übersetzung grundsätzlich ohne Kürzung, Zusatz oder sonstige inhaltliche Veränderungen vorgenommen wird.  Sollten inhaltliche Änderungen (z.B. Werbetexte) erforderlich sein, wird dies mit dem Auftraggeber abgestimmt. Dabei behält sich die Übersetzerin vor, Kommentare, Fußnoten etc. zum Verständnis des Textes in der Zielsprache einzufügen und/oder Korrekturen offensichtlicher Fehler vorzunehmen; auf derartige Korrekturen wird die Übersetzerin den Kunden hinweisen.",
+    ],
+    "agb.translating.§3-2" => [
+        "de" => "Soweit nicht etwas anderes vereinbart worden ist, umfasst die Leistung der Übersetzerin ausschließlich der Übersetzung eines vom Auftraggeber zur Verfügung gestellten Textes in die Zielsprache. Korrekturlesen, die nachträgliche Textgestaltung, Lektorat, Übernahme von Grafiken und Bildern sowie Textmontage, Überprüfung einer Druckfahne oder Web-Texte, die Herstellung von Druckvorlagen oder HTML- / XML-Dokumenten etc. werden nach Zeitaufwand berechnet, sofern die Parteien nicht etwas anderes vereinbart haben. Übersetzungen werden hinsichtlich des Sprachgebrauchs, der Rechtschreibung und der Grammatik gemäß den allgemeinen anerkannten Regeln der vereinbarten Zielsprache ausgeführt. Fachbegriffe und spezielles Vokabular werden mit der gebräuchlichen bzw. üblichen Bedeutung übersetzt. Hat der Auftraggeber für die Übersetzung einen bestimmten bzw. von allgemein anerkannten Regeln abweichenden Terminologie- oder Formwunsch, so ist dieser nur dann zu verwenden, wenn dies ausdrücklich vertraglich vereinbart worden ist. In diesem Fall stellt der Auftraggeber Anleitungen (Mustertexte, Paralleltexte, Glossare und Ähnliches) in digitaler editierbarer Form zur Verfügung. Auf Wunsch der Übersetzerin gewährt der Auftraggeber fachliche Konsultation.",
+    ],
+    "agb.translating.§3-3" => [
+        "de" => "Die Übersetzerin ist berechtigt, fachkundige Übersetzer als Subunternehmer einzusetzen. Die Übersetzerin trägt die Gewähr für die ordnungsgemäße Auswahl des jeweiligen Subunternehmers und die fachgerechte Erfüllung des Auftrages. Insbesondere wird die Übersetzerin auch einen Subunternehmer zur Verschwiegenheit verpflichten, wie es die Regelungen in § 9 dieser AGB vorsehen.",
+    ],
+    "agb.translating.§4-heading" => [
+        "de" => "§ 4&nbsp;&nbsp;Mitwirkungspflichten des Auftraggebers",
+    ],
+    "agb.translating.§4-1" => [
+        "de" => "Der Auftraggeber informiert die Übersetzerin bei Aufforderung zur Abgabe eines Angebotes über die gewünschten Ausführungsformen der Übersetzung (Verwendungszweck, Lieferung auf Datenträgern, Dateiformat, ggf. Anzahl der Ausfertigungen, Druckreife, äußere Form der Übersetzung etc.). Ist die Übersetzung für den Druck bestimmt, erhält die Übersetzerin vor dem Druck eine Druckfahne zur Überprüfung. Die Vorlage der zu übersetzenden Texte bei der Übersetzerin erfolgt durch den Auftraggeber in der Regel in digitaler editierbarer Form. Das Quellmaterial muss lesbar sein und zu dem von der Übersetzerin angegebenen Zeitpunkt und in angegebenem Format an die Übersetzerin übermittelt werden. Änderungen und Ergänzungen des Quellmaterials werden grundsätzlich nach Absprache mit der Übersetzerin unter Kennzeichnung der Änderungen im Vergleich zur ursprünglichen Version der Übersetzerin übermittelt.",
+    ],
+    "agb.translating.§4-2" => [
+        "de" => "Der Auftraggeber stellt der Übersetzerin Informationen und Unterlagen, die zur Herstellung der Übersetzung erforderlich sind, bei Erteilung des Auftrages zur Verfügung (Fachterminologie des Auftraggebers, Abbildungen, Zeichnungen, Tabellen, Abkürzungen, interne Begriffe, Betalinks, Designlayouts etc.).",
+    ],
+    "agb.translating.§4-3" => [
+        "de" => "Der Auftraggeber versichert, dass die Übersetzung des Ausgangstextes sowie die Veröffentlichung, der Vertrieb, der Verkauf und jede andere Verwendung der zu liefernden Übersetzung keine Verletzung von Rechten Dritter darstellt und er uneingeschränkt befugt ist, den Text übersetzen zu lassen. Der Auftraggeber stellt die Übersetzerin von allen dahin gehenden Ansprüchen Dritter frei.",
+    ],
+    "agb.translating.§5-heading" => [
+        "de" => "§ 5&nbsp;&nbsp;Abnahme, Rügepflicht, Nachbesserung, Gewährleistungsfrist",
+    ],
+    "agb.translating.§5-1" => [
+        "de" => "Nach der Fertigstellung der Leistung wird der Text bzw. die vereinbarte Leistung dem Auftraggeber im gewünschten Format schriftlich oder in Textform zur Verfügung gestellt. Erhebt der Auftraggeber innerhalb von 14 Tagen nach Zugang der Übersetzung bzw. vereinbarten Leistung keine Einwendungen, so gilt die Übersetzung bzw. die vereinbarte Leistung als vertragsgemäß abgenommen.",
+    ],
+    "agb.translating.§5-2" => [
+        "de" => "Offensichtliche Mängel sind unverzüglich, spätestens jedoch innerhalb von 14 Tagen zu rügen.",
+    ],
+    "agb.translating.§5-3" => [
+        "de" => "Der Auftraggeber hat einen offensichtlichen Mangel schriftlich oder in Textform innerhalb der Frist von 14 Tagen gegenüber der Übersetzerin anzuzeigen und die Übersetzerin aufzufordern, den bezeichneten Mangel innerhalb einer angemessenen Frist zu beseitigen. Schlägt die Nachbesserung fehl, gewährt der Auftraggeber der Übersetzerin eine zweite Nachbesserungsmöglichkeit. Schlägt auch diese fehl, ist der Auftraggeber berechtigt, die Rückgängigmachung des Vertrages oder die Herabsetzung des vereinbarten Honorars zu verlangen.",
+    ],
+    "agb.translating.§5-4" => [
+        "de" => "Versteckte Mängel sind der Übersetzerin innerhalb einer Frist von 14 Tagen nach der Entdeckung anzuzeigen. Im Übrigen gilt § 5 Abs. 3 dieser AGB.",
+    ],
+    "agb.translating.§5-5" => [
+        "de" => "Die Gewährleistungsfrist beträgt 12 Monate nach der Abnahme. Dies gilt nicht, soweit die Übersetzerin gemäß § 6 nach den gesetzlichen Vorschriften zwingend haftet. In diesem Fall gelten die gesetzlichen Regelungen.",
+    ],
+    "agb.translating.§6-heading" => [
+        "de" => "§ 6&nbsp;&nbsp;Haftung",
+    ],
+    "agb.translating.§6-1" => [
+        "de" => "Die Haftung der Übersetzerin richtet sich in Fällen des Vorsatzes oder der groben Fahrlässigkeit nach den gesetzlichen Bestimmungen. Die Haftung für Garantien erfolgt verschuldensunabhängig.",
+    ],
+    "agb.translating.§6-2" => [
+        "de" => "Für leichte Fahrlässigkeit haftet die Übersetzerin ausschließlich nach den Vorschriften des Produkthaftungsgesetzes, wegen der Verletzung des Lebens, des Körpers oder der Gesundheit oder wegen der Verletzung wesentlicher Vertragspflichten. Unter einer wesentlichen Vertragspflicht ist eine Pflicht zu verstehen, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf.<br />Die Schadenersatzansprüche für die leicht fahrlässige Verletzung wesentlicher Vertragspflichten sind jedoch auf die vertragstypischen, vorhersehbaren Schäden begrenzt, soweit nicht wegen der Verletzung des Lebens, des Körpers oder der Gesundheit gehaftet wird. Vertragstypische, vorhersehbare Schäden sind solche, die dem Schutzzweck der jeweils verletzten vertraglichen oder gesetzlichen Norm unterfallen. Für das Verschulden von Erfüllungsgehilfen und Vertretern haftet die Übersetzerin im selben Umfang.",
+    ],
+    "agb.translating.§6-3" => [
+        "de" => "Die Regelungen des vorstehenden Absatzes erstrecken sich auf Schadenersatz neben der Leistung, den Schadenersatz statt der Leistung und dem Erstattungsanspruch wegen vergeblicher Aufwendungen, gleich aus welchem Rechtsgrund, einschließlich der Haftung wegen Mängel, Verzug oder Unmöglichkeit.",
+    ],
+    "agb.translating.§6-4" => [
+        "de" => "Eine Änderung der Beweislast zum Nachteil des Auftraggebers ist mit den vorstehenden Regelungen nicht verbunden.",
+    ],
+    "agb.translating.§7-heading" => [
+        "de" => "§ 7&nbsp;&nbsp;Liefertermine und Verzug",
+    ],
+    "agb.translating.§7-1" => [
+        "de" => "Soweit die Übersetzerin einen Liefertermin nicht ausdrücklich als verbindlichen Termin bezeichnet hat, stellt er keinen verbindlichen oder garantierten Liefertermin dar.",
+    ],
+    "agb.translating.§7-2" => [
+        "de" => "Kommt die Übersetzerin mit der vereinbarten Leistung fahrlässig in Verzug und macht der Auftraggeber glaubhaft, dass ihm infolge des Verzuges ein Schaden entstanden ist, kann der Auftraggeber einen pauschalierten Schadenersatz beanspruchen. Der pauschalierte Schadenersatz beträgt 1 % des vereinbarten Honorars für jeden vollendeten Tag der Verspätung, insgesamt jedoch höchstens 50 % des vereinbarten Honorars. Das Recht des Auftraggebers zum Rücktritt vom Vertrag bleibt hiervon unberührt.",
+    ],
+    "agb.translating.§7-3" => [
+        "de" => "Eine Änderung der Beweislast zum Nachteil des Auftraggebers ist mit den vorstehenden Regelungen nicht verbunden.",
+    ],
+    "agb.translating.§8-heading" => [
+        "de" => "§ 8&nbsp;&nbsp;Nutzungs- und Urheberrechte ",
+    ],
+    "agb.translating.§8-1" => [
+        "de" => "Soweit durch die Leistung der Übersetzerin insgesamt oder in Teilen Werke im Sinne des Urheberrechtes geschaffen werden, kann der Auftraggeber die Werke in Ansehung der ihm zur Verfügung gestellten Leistung räumlich, inhaltlich und zeitlich unbeschränkt für den vertraglich vorgesehenen Zweck nutzen und verwerten. Der Auftraggeber ist im Rahmen des vertraglich vorgesehenen Zwecks berechtigt, die Leistung zu bearbeiten, zu verändern und an Dritte zu übertragen. In diesem Fall ist der Auftraggeber nur in Abstimmung mit der Übersetzerin berechtigt, diese als Urheberin des Textes zu benennen. Eine Verwendung der Leistung der Übersetzerin über den vertraglich vorgesehenen Zweck hinaus bedarf der ausdrücklichen Zustimmung der Übersetzerin.",
+    ],
+    "agb.translating.§8-2" => [
+        "de" => "§ 8 Abs. 1 Satz 1 und 2 der AGB gilt nicht für die Fertigung einer bestätigten/beglaubigten Übersetzung. Eine bestätigte/beglaubigte Übersetzung ist eine Übersetzung, deren vollständige Übereinstimmung mit dem Original durch den dazu gerichtlich ermächtigten Übersetzer bestätigt/ beglaubigt wird. Übersetzungen von offiziellen Dokumenten (z.B. Handelsregisterauszüge, Urkunden oder Zeugnisse) sind in der Regel immer zu bestätigen/beglaubigten. Der Auftraggeber ist nicht berechtigt, eine bestätigte Übersetzung zu bearbeiten oder zu verändern.",
+    ],
+    "agb.translating.§8-3" => [
+        "de" => "Entwickelt die Übersetzerin  während der Tätigkeit für einen Auftraggeber eine spezifische Terminologiedatenbank oder einen Übersetzungsspeicher („Translation Memory“, TM) oder entwickelt die Übersetzerin bestehende Datenbanken des Auftraggebers fort, stehen die Urheber- und Nutzungsrechte an den Datenbanken bzw. dem fortentwickelten Teil der Datenbanken abweichend von § 8 Abs. 1 ausschließlich die Übersetzerin zu. Dies gilt nicht, soweit die Parteien ausdrücklich etwas anderes vereinbart haben.",
+    ],
+    "agb.translating.§9-heading" => [
+        "de" => "§ 9&nbsp;&nbsp;Verschwiegenheit",
+    ],
+    "agb.translating.§9-1" => [
+        "de" => "Die Übersetzerin behandelt die Aufträge und die mit den Aufträgen erhaltenen Informationen auch nach Beendigung des jeweiligen Auftrages streng vertraulich.",
+    ],
+    "agb.translating.§9-2" => [
+        "de" => "Die Übersetzerin bietet den Auftraggebern an, gesonderte Geheimhaltungs- bzw. Verschwiegenheitsvereinbarungen zu schließen.",
+    ],
+    "agb.translating.§10-heading" => [
+        "de" => "§ 10&nbsp;&nbsp;Vergütung und Zahlungsbedingungen",
+    ],
+    "agb.translating.§10-1" => [
+        "de" => "Soweit die Parteien nicht ausdrücklich etwas anderes vereinbart haben, stellt die Übersetzerin dem Auftraggeber die vereinbarte Leistung unmittelbar nach Übermittlung der Übersetzung oder der gemäß § 3 vereinbarten Leistungen in Rechnung. Die Rechnung ist ohne Abzug 14 Tage nach Erhalt der Rechnung zur Zahlung fällig.",
+    ],
+    "agb.translating.§10-2" => [
+        "de" => "Bei einem Auftragsvolumen über 1.500,00 € werden mit der Auftragserteilung 30 % des vereinbarten Honorars fällig, soweit die Parteien nicht etwas anderes vereinbart haben. Hinsichtlich des verbleibenden Restbetrages gilt § 10 Abs. 1 dieser AGB.",
+    ],
+    "agb.translating.§10-3" => [
+        "de" => "Die mit der Übersetzung oder mit der Leistung verbundenen Rechte stehen bis zur vollständigen Zahlung der Vergütung ausschließlich der Übersetzerin zu.",
+    ],
+    "agb.translating.§11-heading" => [
+        "de" => "§ 11&nbsp;&nbsp;Datenschutzbestimmung",
+    ],
+    "agb.translating.§11-1" => [
+        "de" => "Diese Datenschutzhinweise gelten für die Datenverarbeitung durch die Übersetzerin. Verantwortliche: <strong>Frau Cristina Müller</strong>, Adlerstr. 4a, 76287 Rheinstetten,  Deutschland, E-Mail: <a href='mailto:mail@sprachmuehle.de'>mail@sprachmuehle.de</a>, Tel.",
+    ],
+    "agb.translating.§11-2-1" => [
+        "de" => "Der Auftraggeber der Übersetzerin kann eine reibungslose Abwicklung des Auftrages erwarten. Dabei lässt es sich nicht vermeiden, dass bestimmte Daten des Auftraggebers unter Verwendung technischer Hilfsmittel gespeichert werden. Bei Auftragsannahme erhebt die Übersetzerin eine Reihe personenbezogener Daten als sogenannte Basisdaten, die benötigt werden, um den erteilten Auftrag reibungslos ausführen zu können. Dabei werden nur solche Daten gespeichert, die für die Vertragserfüllung zwingend notwendig sind. Die Übersetzerin erhebt und verwendet personenbezogene Daten des Auftraggebers ausschließlich im Rahmen der Bestimmungen des geltenden Datenschutzrechts der BRD. Die Übersetzerin erhebt, verarbeitet und nutzt folgende Informationen",
+    ],
+    "agb.translating.§11-2-2" => [
+        "de" => "Anrede, Vorname, Nachname, eine gültige E-Mailadresse, Anschrift, Telefonnummer (Festnetz und /oder Mobilfunk), weitere Informationen, die für die zur Abwicklung von evtl. vorliegenden Erfüllungs- oder Gewährleistungsansprüchen sowie der Geltendmachung etwaiger Ansprüche gegen den Auftraggeber erforderlich sind.",
+    ],
+    "agb.translating.§11-2-3" => [
+        "de" => "Die Erhebung der Daten erfolgt, um den Auftraggeber als Kunden identifizieren zu können, die beauftragte Leistung sachgerecht und zeitnah erbringen zu können, zur Rechnungsstellung und zur Abwicklung und Geltendmachung von wechselseitigen Ansprüchen. Die Datenverarbeitung erfolgt auf Anfrage des Auftraggebers und ist zu den genannten Zwecken erforderlich im Sinne des Art 6 Abs. 1 S. 1 lit. b DSGVO.",
+    ],
+    "agb.translating.§11-3" => [
+        "de" => "Die für die Auftragsabwicklung von der Übersetzerin erhobenen personenbezogenen Daten werden bis zum Ablauf der gesetzlichen Aufbewahrungspflicht gespeichert und danach routinemäßig gelöscht, sofern sie nicht mehr zur Vertragserfüllung oder Vertragsanbahnung erforderlich sind und/oder ein berechtigtes Interesse der Übersetzerin an der Weiterspeicherung fortbesteht. Sollte die Ausübung von Interventionsrechten die Löschung gebieten, werden die betroffenen Daten unverzüglich gelöscht.",
+    ],
+    "agb.translating.§11-4" => [
+        "de" => "Soweit dies nach Art. 6 Abs. 1 S. 1 lit. b DSGVO für die Abwicklung des Auftrages erforderlich ist, werden personenbezogene Daten des Auftraggebers an Dritte weitergegeben. Hierzu gehört insbesondere die Weitergabe an einen Subunternehmer der Übersetzerin oder an das zur Lieferung der Übersetzung beauftragte Transportunternehmen. Die weitergegebenen Daten dürfen von dem Dritten ausschließlich zu den genannten Zwecken verwendet werden. Im Übrigen erfolgt eine Weitergabe an Dritte nur mit Einwilligung des Auftraggebers.",
+    ],
+    "agb.translating.§11-5" => [
+        "de" => "Der Auftraggeber hat das Recht, 	
+        <br />gemäß Art. 7 Abs. 3 DSGVO seine einmal erteilte Einwilligung jederzeit gegenüber der Übersetzerin zu widerrufen. Dies hat zur Folge, dass die Übersetzerin die Datenverarbeitung, die auf dieser Einwilligung beruhte, für die Zukunft nicht mehr fortführen darf;	
+        <br />gemäß Art. 15 DSGVO Auskunft über die von der Übersetzerin verarbeiteten personenbezogenen Daten zu verlangen. Insbesondere können der Auftraggeber Auskunft über die Verarbeitungszwecke, die Kategorie der personenbezogenen Daten, die verarbeitet werden, die Empfänger oder die Kategorien von Empfängern, gegenüber denen Ihre Daten offengelegt worden sind oder werden, falls möglich die geplante Speicherdauer oder falls dies nicht möglich ist, die Kriterien für die Festlegung der Dauer, das Bestehen eines Rechts auf Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch, das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde, die verfügbaren Informationen der Herkunft seiner Daten, sofern diese nicht bei der Übersetzerin erhoben wurden, sowie über das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling und ggf. aussagekräftigen Informationen zu deren Einzelheiten verlangen;
+        <br />gemäß Art. 16 DSGVO unverzüglich die Berichtigung unrichtiger oder Vervollständigung seiner bei der  Übersetzerin gespeicherten personenbezogenen Daten zu verlangen;	
+        <br />gemäß Art. 17 DSGVO die unverzügliche Löschung seiner bei der Übersetzerin gespeicherten personenbezogenen Daten zu verlangen, sofern nicht die Verarbeitung zur Ausübung des Rechts auf freie Meinungsäußerung und Information, zur Erfüllung einer rechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist;	
+        <br />gemäß Art. 18 DSGVO die Einschränkung der Verarbeitung seiner personenbezogenen Daten zu verlangen, falls die Richtigkeit der Daten von ihm bestritten wird, die Verarbeitung unrechtmäßig ist, er aber deren Löschung ablehnt, die Übersetzerin die Daten nicht mehr benötigt, der Auftraggeber diese jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigt oder er gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung eingelegt hat;	
+        <br />gemäß Art. 20 DSGVO die  personenbezogenen Daten, die er der Übersetzerin bereitgestellt hat, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder die Übermittlung an einen anderen Verantwortlichen zu verlangen;
+        <br />gemäß Art. 77 DSGVO sich bei einer Aufsichtsbehörde zu beschweren. In der Regel kann der Auftraggeber sich hierfür an die Aufsichtsbehörde seines üblichen Aufenthaltsortes, Arbeitsplatzes oder den Unternehmenssitz der Übersetzerin wenden.
+        ",
+    ],
+    "agb.translating.§11-6" => [
+        "de" => "Sofern die personenbezogenen Daten des Auftraggebers auf Grundlage von berechtigten Interessen gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO verarbeitet werden, hat er das Recht, gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung seiner personenbezogenen Daten einzulegen, soweit dafür Gründe vorliegen, die sich aus seiner besonderen Situation ergeben.",
+    ],
+    "agb.translating.§11-7" => [
+        "de" => "Möchte der Auftraggeber von seinem Widerspruchsrecht Gebrauch machen, genügt eine E-Mail an",
+    ],
+    "agb.translating.§11-8" => [
+        "de" => "Die Übersetzerin hat technische und organisatorische Sicherheitsvorkehrungen eingerichtet, um Daten zu schützen, insbesondere gegen Verlust, Manipulation oder unberechtigten Zugriff. Die Übersetzerin passt die Sicherheitsvorkehrungen regelmäßig der fortlaufenden technischen Entwicklung an.",
+    ],
+    "agb.translating.credits" => [
+        "de" => "Der Text der vorstehenden Allgemeinen Geschäftsbedingungen ist von Herrn Rechtsanwalt Hermann J. Bauch, Paul-Finger-Str. 12, 50858 Köln, gefertigt worden, soweit er nicht gesetzliche Anforderungen wörtlich oder sinngemäß wiedergibt. Die Inhalte unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung der Rechtsanwaltskanzlei Hermann J. Bauch.",
+    ],
 
     /* 404 */
     "404.title" => [
@@ -812,6 +1143,17 @@ Adlerstraße 4a<br />
     ],
     "404.keywords" => [
         "de" => "dolmetschen,übersetzen",
+    ],
+
+    /* COOKIE CONSENT */
+    "cookies.text" => [
+        "de" => "Wir verwenden Cookies, um unsere Webseite möglichst benutzerfreundlich zu gestalten. Wenn Sie fortfahren, stimmen Sie der Verwendung von Cookies zu.",
+    ],
+    "cookies.accept" => [
+        "de" => "Akzeptieren",
+    ],
+    "cookies.moreInfo" => [
+        "de" => "Weitere Informationen",
     ],
 
     /* FOOTER */
