@@ -54,16 +54,8 @@ ol li {
 
 /* HEADER */
 
-header {
-    font-size: .96rem;
-    letter-spacing: 0.4px;
+nav.menu {
     background-color: white;
-    position: fixed;
-    padding-left: 45px;
-    padding-right: 45px;
-    right: 0;
-    left: 0;
-    z-index: 1030;
 }
 
 .logo {
@@ -79,29 +71,18 @@ header {
     padding: 15px 0 12px 0;
 }
 
-.menu-container {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-}
-
 .menu {
-    margin: 0 35px 0 0;
+    font-size: 1.04rem;
+    letter-spacing: 0.4px;
     transition: all 0.12s ease-in-out;
     -webkit-transition: all 0.12s ease-in-out;
     -moz-transition: all 0.12s ease-in-out;
 }
 
 .menu-shrink {
-    font-size: .9rem;
+    font-size: .9.6rem;
 }
-
-.menu li {
-    display: inline;
-    list-style-type: none;
-    padding: 0 12px;
-    text-decoration: none;
-}
+/*
 
 .menu a {
     color: #323232;
@@ -111,9 +92,9 @@ header {
 .menu a:hover {
     color: #9B225F;
     text-decoration: none;
-}
+} */
 
-.menu a.menu-active {
+.menu .nav-item.active .nav-link {
     color: #9B225F;
     border-bottom: 2px solid #9B225F;
 }
