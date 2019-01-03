@@ -302,6 +302,7 @@ header {
 
 .interpreting-types a {
     color: #4BBAD4;
+    white-space: nowrap;
 }
 
 #interpretingTypesModalCarousel .carousel-control-prev-icon, #interpretingTypesModalCarousel .carousel-control-next-icon {

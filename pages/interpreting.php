@@ -103,7 +103,7 @@
         <p><?=t('interpreting.events-heading2-sub1')?></p>
         <p><?=t('interpreting.events-heading2-sub2')?></p>
 
-        <h4 style="color: #194d60; margin-top: 90px; margin-bottom: 20px;">
+        <h4 style="color: #194d60; margin-top: 45px; margin-bottom: 20px;">
             <?=t('interpreting.types-heading3')?>
         </h4>
         

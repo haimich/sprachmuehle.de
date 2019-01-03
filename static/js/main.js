@@ -13,30 +13,34 @@ $(document).on("scroll", function () {
     }
 });
 
+/* DOLMETSCHEN SLIDER */
+
+let currentType = 0;
+let numItems = 4;
+
+// register handler for interpreting slider
+$("#interpretingTypesModalCarousel").on("slide.bs.carousel", (event) => {
+    if (event.direction === "right") {
+        if (currentType === 0) {
+            currentType = numItems - 1;
+        } else {
+            currentType--;
+        }
+    } else if (event.direction === "left") {
+        if (currentType === numItems - 1) {
+            currentType = 0;
+        } else {
+            currentType++;
+        }
+    }
+
+    updateModalTitle(currentType);
+});
+
 function openInterpretingTypesModal(event, type) {
-    let currentType = type;
-    let numItems = 4;
+    currentType = type;
 
     event.preventDefault();
-
-    // register handler for slide
-    $("#interpretingTypesModalCarousel").on("slide.bs.carousel", (event) => {
-        if (event.direction === "left") {
-            if (currentType === 0) {
-                currentType = numItems - 1;
-            } else {
-                currentType--;
-            }
-        } else if (event.direction === "right") {
-            if (currentType === numItems - 1) {
-                currentType = 0;
-            } else {
-                currentType++;
-            }
-        }
-
-        updateModalTitle(currentType);
-    });
 
     updateModalTitle(currentType);
 
