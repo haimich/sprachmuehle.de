@@ -1,5 +1,5 @@
 <!-- Willkommensbild -->
-<div class="row">
+<div class="row justify-content-center">
     <div class="hero-image-container">
         <img
             src="/static/images/cristina_mueller_willkommen.jpg"

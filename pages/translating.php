@@ -32,7 +32,7 @@
 </div>
 
 <!-- Sprachkombinationen -->
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-12 hero-image-container" style="padding-left: 65px; padding-right: 65px;">
         <img
             src="/static/images/cristina_mueller_uebersetzen2.jpg"

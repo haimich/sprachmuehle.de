@@ -39,6 +39,9 @@ const TRANSLATIONS = [
     "tel.title" => [
         "de" => "Anrufen",
     ],
+    "phone.alt" => [
+        "de" => "Telefonhörer",
+    ],
 
     /* STARTSEITE */
     "home.title" => [
@@ -460,6 +463,30 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     ],
     "contact.keywords" => [
         "de" => "dolmetschen,übersetzen",
+    ],
+    "contact.welcome-alt" => [
+        "de" => "Kontakt",
+    ],
+    "contact.welcome-header" => [
+        "de" => "Kontakt",
+    ],
+    "contact.welcome-sub" => [
+        "de" => "Gerne berate ich Sie auch persönlich.",
+    ],
+    "contact.intro" => [
+        "de" => "Haben Sie Fragen, Wünsche oder Anregungen? Bitte nehmen Sie Kontakt mit mir auf, ich helfen Ihnen gerne weiter!",
+    ],
+    "contact-street" => [
+        "de" => "Adlerstraße 4a, 76287 Rheinstetten",
+    ],
+    "contact-tel-heading" => [
+        "de" => "Tel",
+    ],
+    "contact-mobile-heading" => [
+        "de" => "Mobil",
+    ],
+    "contact-email-heading" => [
+        "de" => "E-Mail",
     ],
 
     /* IMPRESSUM */

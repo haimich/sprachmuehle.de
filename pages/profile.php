@@ -22,7 +22,7 @@
 
 <!-- Intro text -->
 <div class="row" style="margin-top: 90px;">
-    <div class="col-8 offset-sm-2">
+    <div class="col-10 offset-sm-1">
         <p><?=t('profile.intro1')?></p>
         <p><?=t('profile.intro2')?></p>
     </div>
@@ -30,7 +30,7 @@
 
 <!-- Werdegang -->
 <div class="row" style="margin-top: 90px;">
-    <div class="col-8 offset-sm-2 cv-box">
+    <div class="col-10 offset-sm-1 cv-box">
         <h2>
             <?=t('profile.cv-header')?>
         </h2>
@@ -40,7 +40,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-8 offset-sm-2 cv-entry">
+    <div class="col-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year1')?></p>
@@ -53,7 +53,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-8 offset-sm-2 cv-entry">
+    <div class="col-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year2')?></p>
@@ -66,7 +66,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-8 offset-sm-2 cv-entry">
+    <div class="col-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year3')?></p>
@@ -79,7 +79,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-8 offset-sm-2 cv-entry">
+    <div class="col-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year4')?></p>
@@ -92,7 +92,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-8 offset-sm-2 cv-entry" style="border: none;">
+    <div class="col-10 offset-sm-1 cv-entry" style="border: none;">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year5')?></p>
@@ -105,7 +105,7 @@
 </div>
 
 <div class="row" style="margin-top: 34px;">
-    <div class="col-8 offset-sm-2 cv-entry">
+    <div class="col-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-10 offset-sm-2">
                 <!-- New Heading -->
@@ -118,7 +118,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-8 offset-sm-2 cv-entry"">
+    <div class="col-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year6')?></p>
@@ -131,7 +131,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-8 offset-sm-2 cv-entry"">
+    <div class="col-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year7')?></p>
@@ -144,7 +144,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-8 offset-sm-2 cv-entry"">
+    <div class="col-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year8')?></p>
@@ -157,7 +157,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-8 offset-sm-2 cv-entry" style="border: none;">
+    <div class="col-10 offset-sm-1 cv-entry" style="border: none;">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year9')?></p>
@@ -170,7 +170,7 @@
 </div>
 
 <div class="row" style="margin-top: 34px; margin-bottom: 90px;">
-    <div class="col-8 offset-sm-2 cv-entry" style="border: none;">
+    <div class="col-10 offset-sm-1 cv-entry" style="border: none;">
         <div class="row">
             <div class="col-10 offset-sm-2">
                 <!-- New Heading -->
@@ -181,8 +181,9 @@
                 <ul>
                     <li><?=t('profile.cv-memberships-list1')?></li>
                     <li><?=t('profile.cv-memberships-list2')?></li>
-                    <li><?=t('profile.cv-memberships-list3')?></li>
                 </ul>
+                
+                <?=t('profile.cv-memberships-list3')?>
             </div>
         </div>
     </div>

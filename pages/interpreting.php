@@ -33,7 +33,7 @@
 </div>
 
 <!-- Sprachkombinationen -->
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-12 hero-image-container" style="padding-left: 65px; padding-right: 65px;">
         <img
             src="/static/images/cristina_mueller_dolmetschen2.jpg"
@@ -217,7 +217,7 @@
 
         <p>
             <?=t('interpreting.conferenceconsulting-services-contact1')?>: 
-            <a href="tel:‭+4915202312427‬" title="<?=t('tel.title')?>">01520 231 24 27‬</a>
+            <a href="tel:‭+4915202312427‬" title="<?=t('tel.title')?>">+49 (0) 1520 231 24 27‬</a>
         </p>
         <p><?=t('interpreting.conferenceconsulting-services-contact2')?></p>
     </div>
