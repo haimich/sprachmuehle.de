@@ -87,6 +87,6 @@
     <li><?=t('agb.translating.§11-8')?></li>
 </ol>
 
-<p style="font-size: .8rem; margin-top: 30px; margin-bottom: 90px;">
+<p style="font-size: .8rem; margin-top: 30px;">
     <?=t('agb.translating.credits')?>
 </p>

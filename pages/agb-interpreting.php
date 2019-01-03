@@ -60,7 +60,7 @@
 </ol>
 
 <h4><?=t('agb.interpreting.§9-heading')?></h4>
-<ol style="margin-bottom: 90px;">
+<ol>
     <li><?=t('agb.interpreting.§9-1')?> +49 (0) 1520 231 24 27.</li>
     <li>
         <p><?=t('agb.interpreting.§9-2-1')?>:</p>

@@ -3,11 +3,9 @@
     <div class="card">
         <div class="card-header" id="headingInterpreting" style="padding: 2px 9px;">
             <h2 class="mb-0">
-            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseInterpreting" aria-expanded="true" aria-controls="collapseInterpreting">
-                <h2>
-                    <?=t('agb.interpreting.heading')?> >
-                </h2>
-            </button>
+                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseInterpreting" aria-expanded="true" aria-controls="collapseInterpreting">
+                        <?=t('agb.interpreting.heading')?> >
+                </button>
             </h2>
         </div>
 
@@ -21,11 +19,9 @@
     <div class="card">
         <div class="card-header" id="headingTranslating" style="padding: 2px 9px;">
             <h2 class="mb-0">
-            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTranslating" aria-expanded="false" aria-controls="collapseTranslating">
-                <h2>
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTranslating" aria-expanded="false" aria-controls="collapseTranslating">
                     <?=t('agb.translating.heading')?> >
-                </h2>
-            </button>
+                </button>
             </h2>
         </div>
         <div id="collapseTranslating" class="collapse" aria-labelledby="headingTranslating" data-parent="#accordionAgb">
