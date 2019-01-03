@@ -1,8 +1,3 @@
-<h2 style="margin-top: 90px;">
-    <?=t('agb.interpreting.heading')?>
-</h2>
-<hr class="purple-line" style="margin-top: 11px; margin-bottom: 35px;">
-
 <h3><?=t('agb.interpreting.heading2')?></h3>
 
 <h4><?=t('agb.interpreting.§1-heading')?></h4>

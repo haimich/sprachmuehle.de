@@ -59,7 +59,7 @@
             $title = t("agb.title");
             $description = t("agb.description");
             $keywords = t("agb.keywords");
-            $content = "pages/agb-interpreting.php";
+            $content = "pages/agb.php";
             break;
         }
         case PAGE_404: {
