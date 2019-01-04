@@ -1,20 +1,20 @@
 <!-- Hero image -->
 <div class="row justify-content-around" style="position: relative">
-    <div class="welcome-gray-bg" style="height: 64%;">&nbsp;</div>
+    <div class="hero-gray-bg" style="height: 64%;">&nbsp;</div>
 
-    <div class="col-6" style="padding-left: 50px;">
-        <h1 style="margin-top: 100px; margin-bottom: 83px;">
+    <div class="hero-image-text col-12 col-md-6">
+        <h1 style="margin-bottom: 83px;">
             <?=t('translating.welcome-header1')?>
         </h1>
 
-        <h4 style="color: #194d60;  margin-bottom: 12px; line-height: 1.8rem;">
+        <h4 style="color: #194d60; margin-bottom: 12px; line-height: 1.8rem;">
             <?=t('translating.welcome-header2')?>
         </h4>
 
         <p style="margin-top: 15px;"><?=t('translating.welcome-header2-sub1')?></p>
     </div>
 
-    <div class="col-6" style="text-align: right; padding-left: 20px; padding-right: 45px;">
+    <div class="hero-image col-md-6 d-none d-md-block" >
         <img
             src="/static/images/cristina_mueller_uebersetzen.jpg"
             class="img-fluid"

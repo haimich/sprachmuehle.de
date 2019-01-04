@@ -1,16 +1,16 @@
 <!-- Hero image -->
 <div class="row justify-content-around" style="position: relative">
-    <div class="welcome-gray-bg" style="height: 62%;">&nbsp;</div>
+    <div class="hero-gray-bg" style="height: 62%;">&nbsp;</div>
 
-    <div class="col-6" style="padding-left: 50px;">
-        <h1 style="margin-top: 100px; margin-bottom: 95px; ">
+    <div class="hero-image-text col-12 col-md-6">
+        <h1 style="margin-bottom: 95px;">
             <?=t('profile.welcome-header')?>
         </h1>
 
         <p style="margin-top: 15px;"><?=t('profile.welcome-sub')?></p>
     </div>
 
-    <div class="col-6" style="text-align: right; padding-left: 20px; padding-right: 45px;">
+    <div class="hero-image col-md-6 d-none d-md-block">
         <img
             src="/static/images/cristina_mueller_stehend.jpg"
             class="img-fluid"
