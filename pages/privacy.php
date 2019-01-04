@@ -38,7 +38,7 @@
 <p><?=t('privacy.responsible-sub1')?>:</p>
 <p>
     Cristina M&uuml;ller<br />
-    <?=t('privacy.contact-tel')?>: +49 (0) 1520 231 24 27‬<br />
+    <?=t('privacy.contact-tel')?>: <a href="tel:‭+4915202312427‬" title="<?=t('tel.title')?>">+49 (0) 1520 231 24 27‬</a><br />
     <?=t('privacy.contact-mail')?>: <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
 </p>
 <p><?=t('privacy.responsible-sub2')?></p>

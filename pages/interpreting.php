@@ -1,5 +1,5 @@
 <!-- Hero image -->
-<div class="row justify-content-around" style="position: relative">
+<div class="row justify-content-around" style="position: relative"> <!-- Big Screen: Image with text -->
     <div class="hero-gray-bg" style="height: 72%;">&nbsp;</div>
 
     <div class="hero-image-text col-12 col-md-6">
@@ -23,6 +23,15 @@
             alt="<?=t('interpreting.welcome-alt')?>"
         />
     </div>
+</div>
+
+<div class="row justify-content-center d-md-none" style="margin-top: 45px;"> <!-- Small Screen: Image separate -->
+    <img
+        src="/static/images/cristina_mueller_mikrofon-sm.jpg"
+        class="hero-image-sm col-8"
+        style="max-width: 1000px; max-height: 1350px;"
+        alt="<?=t('interpreting.welcome-alt')?>"
+    />
 </div>
 
 <!-- Intro text -->
@@ -73,7 +82,7 @@
 
 <!-- Veranstaltungen & Dolmetscharten -->
 <div class="row events-box">
-    <div class="col-10 offset-sm-1">
+    <div class="col-12 col-md-10 offset-md-1">
         <h4 style="color: #194d60; margin-bottom: 20px;">
             <?=t('interpreting.events-heading1')?>
         </h4>
@@ -180,7 +189,7 @@
 </div>
 
 <div class="row last-item-on-page" style="margin-top: 45px;">
-    <div class="col-10 offset-sm-1">
+    <div class="col-12 col-md-10 offset-md-1">
         <h4 style="color: #194d60; margin-bottom: 20px;">
             <?=t('interpreting.conferenceconsulting-services-heading')?>
         </h4>
