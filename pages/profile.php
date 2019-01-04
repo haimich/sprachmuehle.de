@@ -169,7 +169,7 @@
     </div>
 </div>
 
-<div class="row" style="margin-top: 34px; margin-bottom: 90px;">
+<div class="row last-item-on-page" style="margin-top: 34px;">
     <div class="col-10 offset-sm-1 cv-entry" style="border: none;">
         <div class="row">
             <div class="col-10 offset-sm-2">

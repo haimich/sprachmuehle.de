@@ -39,4 +39,4 @@ DE286174447</p>
 <p><?=t('imprint.copyright-heading-sub1')?></p>
 <p><?=t('imprint.copyright-heading-sub2')?></p>
 
-<p><?=t('imprint.source')?>: <a href="https://www.e-recht24.de">e-recht24.de</a></p>
+<p class="last-item-on-page"><?=t('imprint.source')?>: <a href="https://www.e-recht24.de">e-recht24.de</a></p>

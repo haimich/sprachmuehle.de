@@ -142,7 +142,7 @@
 </div>
 
 <!-- Beglaubigungen -->
-<div class="row" style="margin-top: 45px; margin-bottom: 90px;">
+<div class="row last-item-on-page" style="margin-top: 45px;">
     <div class="col-10 offset-sm-1">
         <h4 style="color: #194d60; margin-bottom: 20px;">
             <?=t('translating.documents-heading')?>

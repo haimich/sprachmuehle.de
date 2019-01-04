@@ -128,7 +128,7 @@
 </div>
 
 <!-- Kontakt -->
-<div class="row justify-content-center" style="text-align: center; margin-top: 120px; margin-bottom: 100px">
+<div class="row justify-content-center last-item-on-page" style="text-align: center; margin-top: 120px;">
     <div class="col-sm-9">
         <h2>
             <?=t('home.contact-heading')?>

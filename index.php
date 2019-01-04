@@ -207,7 +207,7 @@
         <!-- FOOTER -->
         <footer class="row footer align-items-center">
             <!-- Copyright -->
-            <div class="col-3 footer-copyright">
+            <div class="footer-copyright col-12 col-sm-6 col-md-3 order-12 order-sm-1">
                 <span style="font-size: 18px;">&copy;</span>
                 <span>
                     <script>document.write((new Date()).getFullYear());</script> Cristina Müller
@@ -215,7 +215,7 @@
             </div>
 
             <!-- Links -->
-            <div class="col-6 footer-links d-print-none">
+            <div class="footer-links col-12 col-sm-6 col-md-6 d-print-none order-1">
                 <a href="/impressum"><?=t('footer.imprint')?></a>
                 
                 <span class="footer-link-separator"> - </span>
@@ -228,7 +228,7 @@
             </div>
 
             <!-- Mitgliedschaften -->
-            <div class="col-3 footer-memberships d-print-none">
+            <div class="footer-memberships col-3 d-print-none d-none d-sm-none d-md-flex order-md-12">
                 <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank">
                     <img src="/static/images/logos/bdue_vkd_logo.svg" alt="<?=t('footer.logo.title')?>" style="height: 30px;" />
                 </a>

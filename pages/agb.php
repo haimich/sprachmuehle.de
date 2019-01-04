@@ -1,4 +1,4 @@
-<div class="accordion" id="accordionAgb" style="margin-top: 45px; margin-bottom: 90px;">
+<div class="accordion last-item-on-page" id="accordionAgb" style="margin-top: 45px;">
 
     <div class="card">
         <div class="card-header" id="headingInterpreting" style="padding: 2px 9px;">

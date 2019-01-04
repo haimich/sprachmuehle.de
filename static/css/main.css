@@ -134,6 +134,12 @@ nav.menu {
     height: 24px;
 }
 
+@media all and (min-width: 768px) and (max-width: 852px) {
+    .header-phone-link {
+        display: none;
+    }
+}
+
 .highlighted-box {
     margin-left: 0;
     background-color: #F5F5F5;
@@ -144,6 +150,16 @@ nav.menu {
     border-left: 10px solid #9B225F;
     padding: 15px 42px;
     color: #121212;
+}
+
+.last-item-on-page {
+    margin-bottom: 90px;
+}
+
+@media all and (max-width: 768px) {
+    .last-item-on-page {
+        margin-bottom: 45px;
+    }    
 }
 
 /* MAIN */
@@ -348,10 +364,31 @@ nav.menu {
     padding-right: 45px;
 }
 
+@media all and (max-width: 768px) {
+    .footer {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
 .footer-links {
     display: flex;
     justify-content: center;
     letter-spacing: .9px;
+}
+
+/* @media all and (max-width: 768px) {
+    .footer-links {
+        justify-content: flex-end;
+    }    
+} */
+
+@media all and (max-width: 768px) {
+    .footer-copyright {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }    
 }
 
 .footer-copyright {

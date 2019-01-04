@@ -102,4 +102,4 @@
 <p><?=t('privacy.optout-sub2')?>: <a href="https://support.google.com/analytics/answer/6004245?hl=de" target="_blank">https://support.google.com/analytics/answer/6004245?hl=de</a></p>
 
 <h4><?=t('privacy.processing-heading')?></h4>
-<p><?=t('privacy.processing-sub')?></p>
+<p class="last-item-on-page"><?=t('privacy.processing-sub')?></p>

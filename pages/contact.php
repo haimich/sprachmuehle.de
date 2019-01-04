@@ -27,7 +27,7 @@
 </div>
 
 <!-- Kontaktdaten -->
-<div class="row contact-box" style="margin-bottom: 90px;">
+<div class="row contact-box last-item-on-page">
     <div class="col-6" style="padding: 6% 3% 0 7%;">
         <p style="margin-bottom: 4px;">
             <strong>Sprachmühle</strong>
