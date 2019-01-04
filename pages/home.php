@@ -21,7 +21,7 @@
 
 <!-- Intro text -->
 <div class="row justify-content-center">
-    <p class="centered-text-box col-8">
+    <p class="centered-text-box col-10 col-md-8">
         <?=t('home.intro')?>
     </p>
 </div>
@@ -33,12 +33,12 @@
 </div>
 
 <!-- Arbeitssprachen -->
-<div class="row justify-content-center" style="padding: 90px 0 100px 0">
-    <div class="col-6">
+<div class="row justify-content-center arbeitssprachen-box">
+    <div class="d-none d-md-block col-md-6">
         <img src="/static/images/cristina_mueller_dolmetschen1.jpg" style="width: 100%" alt="<?=t('home.languages-alt')?>" />
     </div>
 
-    <div class="col-5" style="padding-left: 60px">
+    <div class="col-12 col-md-5" style="padding-left: 60px">
         <p>
             <?=t('home.languages')?>
         </p>
@@ -59,41 +59,41 @@
         <hr class="purple-line">
     </div>
 
-    <div class="col-12" style="margin-top: 40px; margin-left: 10px; display: flex; justify-content: space-between">
-        <a href="/dolmetschen" class="call-to-action call-to-action-wide row justify-content-between">
+    <div class="col-12 row" style="margin-top: 40px; margin-left: 10px; display: flex; justify-content: space-between">
+        <a href="/dolmetschen" class="col-12 col-md-4 call-to-action call-to-action-wide row justify-content-between">
             <div class="col-8" style="padding-left: 0">
                 <?=t('home.services-cta1')?>
             </div>
 
             <div class="col-4 text-right" style="padding-right: 0">
-                >
+                &gt;
             </div>
         </a>
         
-        <a href="/dolmetschen#konferenzberatung" class="call-to-action call-to-action-wide row justify-content-between">
+        <a href="/dolmetschen#konferenzberatung" class="col-12 col-md-4 call-to-action call-to-action-wide row justify-content-between">
             <div class="col-8" style="padding-left: 0">
                 <?=t('home.services-cta2')?>
             </div>
 
             <div class="col-4 text-right" style="padding-right: 0">
-                >
+               &gt;
             </div>
         </a>
 
-        <a href="/uebersetzen" class="call-to-action call-to-action-wide row justify-content-between">
+        <a href="/uebersetzen" class="col-12 col-md-4 call-to-action call-to-action-wide row justify-content-between">
             <div class="col-8" style="padding-left: 0">
                 <?=t('home.services-cta3')?>
             </div>
 
             <div class="col-4 text-right" style="padding-right: 0">
-                >
+                &gt;
             </div>
         </a>
     </div>
 </div>
 
 <!-- Über mich -->
-<div class="row" style="margin-top: 100px;">
+<div class="row aboutme-box">
     <div class="col-12 hero-image-container" style="padding-left: 65px; padding-right: 65px;">
         <img
             src="/static/images/cristina_mueller_sitzend.jpg"
@@ -116,10 +116,10 @@
                 </div>
 
                 <div class="col-4 text-right" style="padding-right: 0">
-                    >
+                    &gt;
                 </div>
 
-                <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank" style="margin-left: 20px;">
+                <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank" style="margin-left: 40px;">
                     <img src="/static/images/logos/bdue_vkd_logo.svg" alt="<?=t('footer.logo.title')?>" style="height: 38px;" />
                 </a>
             </a>

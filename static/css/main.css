@@ -198,7 +198,7 @@ nav.menu {
     font-size: 0.9rem;
     color: #444;
     background-color: white;
-    width: 30%;
+    margin-top: 10px;
     height: 60px;
     justify-content: space-between;
     align-items: center;
@@ -228,6 +228,12 @@ nav.menu {
     padding: 90px 0 60px 0;
 }
 
+@media all and (max-width: 576px) {
+    .centered-text-box {
+        padding: 45px 0 30px 0;
+    }
+}
+
 .welcome-gray-bg {
     position: absolute;
     bottom: 0;
@@ -254,12 +260,39 @@ nav.menu {
     padding: 100px 102px 100px 115px;
 }
 
+@media all and (max-width: 768px) {
+    .services-box {
+        background-color: #f7f7f7;
+        padding: 30px 15px;
+    }
+}
+
+.arbeitssprachen-box {
+    padding: 90px 0 100px 0;
+}
+
+@media all and (max-width: 768px) {
+    .arbeitssprachen-box {
+        padding: 45px 0 50px 0;
+    }
+}
+
 .profile-box {
     background-color: #9B225F;
     color: white;
     padding: 60px 30px 9px 30px;
     opacity: 0.85;
     font-size: 0.65rem;
+}
+
+.aboutme-box {
+    margin-top: 100px;
+}
+
+@media all and (max-width: 768px) {
+    .aboutme-box {
+        margin-top: 50px;
+    }
 }
 
 .aboutme-image-text {
