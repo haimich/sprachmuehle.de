@@ -94,7 +94,6 @@
 
     <!-- Fonts & Icons -->
     <link href="https://fonts.googleapis.com/css?family=News+Cycle:400,700" rel="stylesheet">
-    <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
 
     <!-- CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
@@ -243,6 +242,16 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 
     <script src="/static/js/main.js"></script>
+
+    <!-- GA -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131758503-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-131758503-1');
+    </script>
     
     <!-- COOKIE CONSENT -->
     <script>

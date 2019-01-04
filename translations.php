@@ -796,6 +796,9 @@ Adlerstraße 4a<br />
     "agb.keywords" => [
         "de" => "dolmetschen,übersetzen",
     ],
+    "agb.toggleVisibility" => [
+        "de" => "Ein-/Ausblenden",
+    ],
     "agb.interpreting.heading" => [
         "de" => "AGB Dolmetschen",
     ],

@@ -386,6 +386,18 @@ nav.menu {
     background-color: #f7f7f7;
 }
 
+/* AGB */
+
+#headingInterpreting a, #headingTranslating a {
+    color: #007bff;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+#collapseInterpreting h4, #collapseTranslating h4 {
+    margin-top: 25px;
+}
+
 /* FOOTER */
 
 .footer {
