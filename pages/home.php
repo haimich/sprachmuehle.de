@@ -16,7 +16,7 @@
                 <?=t('home.welcome-header')?>
             </h1>
 
-            <h4 style="margin-top: 20px; font-size: 1.2rem; letter-spacing: .4px;">
+            <h4>
                 <?=t('home.welcome-subtitle')?>
             </h4>
         </div>

@@ -261,9 +261,58 @@ nav.menu {
     bottom: 24%;
 }
 
+.welcome-image-text h4 {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    letter-spacing: .4px;
+}
+
 @media all and (max-width: 745px) {
     .welcome-image-text {
         bottom: 10%;
+    }
+}
+
+@media all and (max-width: 448px) {
+    .welcome-image-text {
+        bottom: 4%;
+    }
+
+    .welcome-image-text h1 {
+        font-size: 1.4rem;
+    }
+
+    .welcome-image-text h4 {
+        font-size: .96rem;
+    }
+}
+
+@media all and (max-width: 347px) {
+    .welcome-image-text {
+        bottom: 2%;
+    }
+
+    .welcome-image-text h1 {
+        font-size: 1.2rem;
+    }
+
+    .welcome-image-text h4 {
+        margin-top: 10px;
+    }
+}
+
+@media all and (max-width: 230px) {
+    .welcome-image-text {
+        bottom: 0;
+    }
+
+    .welcome-image-text h1 {
+        font-size: 1rem;
+    }
+
+    .welcome-image-text h4 {
+        margin-top: 0px;
+        font-size: .75rem;
     }
 }
 
