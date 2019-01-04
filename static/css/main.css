@@ -611,20 +611,6 @@ nav.menu {
     margin-top: 34px;
 }
 
-@media all and (max-width: 768px) {
-    .werdegang-box {
-        margin-top: 45px;
-    }
-
-    .cv-box {
-        padding: 29px 12.5% 15px 16%;
-    }
-
-    .cv-box-last-heading {
-        margin-top: 15px;
-    }
-}
-
 .cv-entry {
     border-bottom: 1px solid #dadada;
     padding-bottom: 6px;
@@ -635,12 +621,53 @@ nav.menu {
     color: #194d60;
 }
 
+@media all and (max-width: 768px) {
+    .werdegang-box {
+        margin-top: 45px;
+    }
+
+    .cv-box {
+        padding: 29px 12.5% 15px 20px;
+    }
+
+    .cv-box-last-heading {
+        margin-top: 15px;
+    }
+
+    .cv-year {
+        padding-left: 10px;
+    }
+}
+
 /* KONTAKT */
 
+.contact-welcome-sub {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    letter-spacing: .4px;
+}
+
+@media all and (max-width: 768px) {
+    .contact-welcome-sub {
+        font-size: 1rem;
+    }
+}
+
 .contact-box {
-    margin-top: 85px;
+    margin-top: 22px;
     padding: 0;
     background-color: #f7f7f7;
+}
+
+.maps-box {
+    padding-right: 0;
+}
+
+@media all and (max-width: 768px) {
+    .maps-box {
+        padding-right: 14px;
+        padding-bottom: 14px;
+    }
 }
 
 /* AGB */

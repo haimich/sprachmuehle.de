@@ -39,7 +39,7 @@
 
 <!-- Werdegang -->
 <div class="row werdegang-box">
-    <div class="col-10 offset-1 cv-box">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-box">
         <h2>
             <?=t('profile.cv-header')?>
         </h2>
@@ -49,7 +49,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-1 cv-entry">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year1')?></p>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-1 cv-entry">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year2')?></p>
@@ -75,7 +75,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-1 cv-entry">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year3')?></p>
@@ -88,7 +88,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-1 cv-entry">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year4')?></p>
@@ -101,7 +101,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-1 cv-entry" style="border: none;">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry" style="border: none;">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year5')?></p>
@@ -114,7 +114,7 @@
 </div>
 
 <div class="row" style="margin-top: 34px;">
-    <div class="col-10 offset-1 cv-entry">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-10 offset-2">
                 <!-- New Heading -->
@@ -127,7 +127,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-1 cv-entry">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year6')?></p>
@@ -140,7 +140,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-1 cv-entry">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year7')?></p>
@@ -153,7 +153,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-1 cv-entry">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year8')?></p>
@@ -166,7 +166,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-1 cv-entry" style="border: none;">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry" style="border: none;">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year9')?></p>
@@ -179,7 +179,7 @@
 </div>
 
 <div class="row last-item-on-page cv-box-last-heading">
-    <div class="col-10 offset-1 cv-entry" style="border: none;">
+    <div class="col-12 col-sm-10 offset-sm-1 cv-entry" style="border: none;">
         <div class="row">
             <div class="col-10 offset-2">
                 <!-- New Heading -->

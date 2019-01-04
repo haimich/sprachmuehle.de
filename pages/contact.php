@@ -1,18 +1,21 @@
 <!-- Willkommensbild -->
 <div class="row justify-content-center">
     <div class="hero-image-container">
-        <img
-            src="/static/images/cristina_mueller_kontakt.jpg"
-            class="img-fluid"
-            alt="<?=t('home.welcome-alt')?>"
-        />
+        <picture>
+            <source srcset="/static/images/cristina_mueller_kontakt-sm.jpg" media="(max-width: 650px)">
+            <img
+                src="/static/images/cristina_mueller_kontakt.jpg"
+                class="img-fluid"
+                alt="<?=t('contact.welcome-alt')?>"
+            >
+        </picture>
 
         <div class="welcome-image-text">
             <h1>
                 <?=t('contact.welcome-header')?>
             </h1>
 
-            <h4 style="margin-top: 20px; font-size: 1.2rem; letter-spacing: .4px;">
+            <h4 class="contact-welcome-sub">
                 <?=t('contact.welcome-sub')?>
             </h4>
         </div>
@@ -20,15 +23,15 @@
 </div>
 
 <!-- Intro text -->
-<div class="row" style="margin-top: 90px;">
-    <div class="col-8 offset-sm-2">
-        <p><?=t('contact.intro')?></p>
-    </div>
+<div class="row justify-content-center">
+    <p class="centered-text-box col-10 col-md-8">
+        <?=t('contact.intro')?>
+    </p>
 </div>
 
 <!-- Kontaktdaten -->
 <div class="row contact-box last-item-on-page">
-    <div class="col-6" style="padding: 6% 3% 0 7%;">
+    <div class="col-10 offset-1 col-md-6 offset-md-0" style="padding: 6% 3% 0 7%;">
         <p style="margin-bottom: 4px;">
             <strong>Sprachmühle</strong>
         </p>
@@ -48,8 +51,8 @@
         </p>
     </div>
 
-    <div class="col-6" style="padding-right: 0;">
-        <div style="height: 403px" id="gmeg_map_canvas"></div>
+    <div class="maps-box col-12 col-md-6">
+        <div style="height: 403px" id="google-maps-canvas"></div>
     </div>
 </div>
 
@@ -61,7 +64,7 @@
     function initMap() {
         latLng = new google.maps.LatLng(48.97294, 8.30632);
 
-        gmegMap = new google.maps.Map(document.getElementById("gmeg_map_canvas"), {
+        gmegMap = new google.maps.Map(document.getElementById("google-maps-canvas"), {
             zoom: 11,
             center: latLng,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
