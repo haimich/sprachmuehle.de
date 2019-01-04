@@ -172,6 +172,12 @@ nav.menu {
     padding: 112px 0 0 0; /* padding-top is needed to appear below absolutely positioned header */
 }
 
+@media all and (max-width: 576px) {
+    .main {
+        padding: 96px 0 0 0;
+    }
+}
+
 .purple-line {
     background-color: #9B225F;
     width: 58px;
@@ -255,6 +261,12 @@ nav.menu {
     bottom: 24%;
 }
 
+@media all and (max-width: 745px) {
+    .welcome-image-text {
+        bottom: 10%;
+    }
+}
+
 .services-box {
     background-color: #f7f7f7;
     padding: 100px 102px 100px 115px;
@@ -271,9 +283,17 @@ nav.menu {
     padding: 90px 0 100px 0;
 }
 
+.arbeitssprachen-box-text {
+    padding-left: 60px;
+}
+
 @media all and (max-width: 768px) {
     .arbeitssprachen-box {
         padding: 45px 0 50px 0;
+    }
+    
+    .arbeitssprachen-box-text {
+        padding-left: 25px;
     }
 }
 
@@ -289,16 +309,37 @@ nav.menu {
     margin-top: 100px;
 }
 
+.aboutme-box-sm {
+    margin-top: 50px;
+}
+
+.aboutme-box .hero-image-container {
+    padding-left: 65px;
+    padding-right: 65px;
+}
+
 @media all and (max-width: 768px) {
     .aboutme-box {
         margin-top: 50px;
+    }
+
+    .aboutme-box .hero-image-container {
+        padding-left: 0;
+        padding-right: 0;
     }
 }
 
 .aboutme-image-text {
     position: absolute;
     left: 10%;
-    top: 16%;
+    top: 14%;
+}
+
+@media all and (max-width: 900px) {
+    .aboutme-image-text {
+        left: 11%;
+        top: 3%;
+    }
 }
 
 .aboutme-text {
@@ -306,6 +347,31 @@ nav.menu {
     font-size: 1.05rem;
     max-width: 47%;
     line-height: 1.4rem;
+}
+
+.aboutme-text-sm {
+    margin-top: 20px;
+    font-size: 1.05rem;
+    line-height: 1.4rem;
+}
+
+.home-contact-box {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.home-contact-box-addresss {
+    margin-top: 72px;
+}
+
+@media all and (max-width: 768px) {
+    .home-contact-box {
+        margin-top: 45px;
+    }
+
+    .home-contact-box-addresss {
+        margin-top: 40px;
+    }
 }
 
 /* DOLMETSCHEN */

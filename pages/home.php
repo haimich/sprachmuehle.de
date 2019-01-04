@@ -1,11 +1,15 @@
 <!-- Willkommensbild -->
 <div class="row justify-content-center">
     <div class="hero-image-container">
-        <img
-            src="/static/images/cristina_mueller_willkommen.jpg"
-            class="img-fluid"
-            alt="<?=t('home.welcome-alt')?>"
-        />
+        <picture>
+            <source srcset="/static/images/cristina_mueller_willkommen-xs.jpg" media="(max-width: 745px)">
+            <source srcset="/static/images/cristina_mueller_willkommen-sm.jpg" media="(max-width: 900px)">
+            <img
+                src="/static/images/cristina_mueller_willkommen.jpg"
+                class="img-fluid"
+                alt="<?=t('home.welcome-alt')?>"
+            >
+        </picture>
 
         <div class="welcome-image-text">
             <h1>
@@ -38,7 +42,7 @@
         <img src="/static/images/cristina_mueller_dolmetschen1.jpg" style="width: 100%" alt="<?=t('home.languages-alt')?>" />
     </div>
 
-    <div class="col-12 col-md-5" style="padding-left: 60px">
+    <div class="arbeitssprachen-box-text col-12 col-md-5">
         <p>
             <?=t('home.languages')?>
         </p>
@@ -93,15 +97,40 @@
 </div>
 
 <!-- Über mich -->
-<div class="row aboutme-box">
-    <div class="col-12 hero-image-container" style="padding-left: 65px; padding-right: 65px;">
-        <img
-            src="/static/images/cristina_mueller_sitzend.jpg"
-            class="img-fluid"
-            alt="<?=t('home.aboutme-alt')?>"
-        />
+<div class="row aboutme-box-sm d-sm-none"> <!-- Small screen: text above image -->
+    <h2 class="col-12">
+        Cristina M&uuml;ller
+    </h2>
 
-        <div class="aboutme-image-text">
+    <h4 class="aboutme-text-sm col-12">
+        <?=t('home.aboutme-text')?>
+    </h4>
+
+    <a href="/profil" class="call-to-action col-10 offset-1" style="width: 162px; background-color: white; margin-top: 18px; font-size: .87rem;">
+        <div class="col-8" style="padding-left: 0">
+            <?=t('home.aboutme-button')?>
+        </div>
+
+        <div class="col-4 text-right" style="padding-right: 0">
+            &gt;
+        </div>
+    </a>
+
+</div>
+
+<div class="row aboutme-box"> <!-- Big screen: text within image -->
+    <div class="col-12 hero-image-container">
+        <picture>
+            <source srcset="/static/images/cristina_mueller_sitzend-xs.jpg" media="(max-width: 638px)">
+            <source srcset="/static/images/cristina_mueller_sitzend-sm.jpg" media="(max-width: 900px)">
+            <img
+                src="/static/images/cristina_mueller_sitzend.jpg"
+                class="img-fluid"
+                alt="<?=t('home.aboutme-alt')?>"
+            >
+        </picture>
+
+        <div class="aboutme-image-text d-none d-sm-block">
             <h2>
                 Cristina M&uuml;ller
             </h2>
@@ -128,7 +157,7 @@
 </div>
 
 <!-- Kontakt -->
-<div class="row justify-content-center last-item-on-page" style="text-align: center; margin-top: 120px;">
+<div class="row justify-content-center home-contact-box last-item-on-page">
     <div class="col-sm-9">
         <h2>
             <?=t('home.contact-heading')?>
@@ -138,7 +167,7 @@
             <?=t('home.contact-text')?>
         </p>
 
-        <p style="margin-top: 72px;">
+        <p class="home-contact-box-addresss">
             Cristina Müller<br />
             Mobil: +49 (0) 1520 231 24 27‬<br />
             <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
