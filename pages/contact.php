@@ -10,7 +10,7 @@
             >
         </picture>
 
-        <div class="welcome-image-text">
+        <div class="contact-welcome-image-text">
             <h1>
                 <?=t('contact.welcome-header')?>
             </h1>

@@ -477,7 +477,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Gerne berate ich Sie auch persönlich.",
     ],
     "contact.intro" => [
-        "de" => "Benötigen Sie sprachliche Unterstützung für Ihre mehrsprachigen Veranstaltungen oder Übersetzungsprojekte? Ich erstelle zeitnah ein auf Ihre Bedürfnisse maßgeschneidertes Angebot, stelle auf Wunsch ein Dolmetscherteam sowie die Dolmetschtechnik zusammen und übersetze gerne Ihre Unterlagen. Nehmen Sie einfach Kontakt mit mir auf!",
+        "de" => "Benötigen Sie sprachliche Unterstützung für Ihre Veranstaltungen oder Übersetzungsprojekte? Ich erstelle zeitnah ein auf Ihre Bedürfnisse maßgeschneidertes Angebot, stelle auf Wunsch ein Dolmetscherteam sowie die Dolmetschtechnik zusammen und übersetze gerne Ihre Unterlagen. Nehmen Sie einfach Kontakt mit mir auf!",
     ],
     "contact-street" => [
         "de" => "Adlerstraße 4a, 76287 Rheinstetten",
