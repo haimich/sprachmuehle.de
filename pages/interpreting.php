@@ -27,13 +27,27 @@
 
 <!-- Intro text -->
 <div class="row justify-content-center">
-    <p class="centered-text-box col-8">
+    <p class="centered-text-box col-10 col-md-8">
         <?=t('interpreting.intro')?>
     </p>
 </div>
 
 <!-- Sprachkombinationen -->
-<div class="row justify-content-center">
+<div class="row d-md-none"> <!-- Small screen: text above image -->
+    <div class="languages-image-text-sm col-12">
+        <h2 style="margin-bottom: 30px;">
+            <?=t('interpreting.languages-heading')?>
+        </h2>
+
+        <ul class="languages-list-sm text-uppercase">
+            <li><?=t('interpreting.languages-list1')?></li>
+            <li><?=t('interpreting.languages-list2')?></li>
+            <li><?=t('interpreting.languages-list3')?></li>
+        </ul>
+    </div>
+</div>
+
+<div class="row justify-content-center d-none d-md-block"> <!-- Big screen: text within image -->
     <div class="col-12 hero-image-container" style="padding-left: 65px; padding-right: 65px;">
         <img
             src="/static/images/cristina_mueller_dolmetschen2.jpg"
@@ -58,7 +72,7 @@
 </div>
 
 <!-- Veranstaltungen & Dolmetscharten -->
-<div class="row" style="margin-top: 90px">
+<div class="row events-box">
     <div class="col-10 offset-sm-1">
         <h4 style="color: #194d60; margin-bottom: 20px;">
             <?=t('interpreting.events-heading1')?>
@@ -96,7 +110,7 @@
             </div>
         </div>
         
-        <h4 style="color: #194d60; margin-top: 90px; margin-bottom: 20px;">
+        <h4 class="event-teaser">
             <?=t('interpreting.events-heading2')?>
         </h4>
         
@@ -146,7 +160,7 @@
 
 <!-- Konferenzberatung -->
 <div class="row conferenceconsulting-box" id="konferenzberatung">
-    <div class="col-6" style="padding: 5% 3% 0 7%;">
+    <div class="col-12 col-lg-6" style="padding: 5% 3% 0 7%;">
         <h2>
             <?=t('interpreting.conferenceconsulting-heading')?>
         </h2>
@@ -156,7 +170,7 @@
         </p>
     </div>
 
-    <div class="col-6" style="padding-right: 0;">
+    <div class="col-10 offset-1 col-md-8 offset-md-2 col-lg-6 offset-lg-0" style="padding-right: 0;">
         <img
             src="/static/images/cristina_mueller_laptop.jpg"
             class="img-fluid"
@@ -165,7 +179,7 @@
     </div>
 </div>
 
-<div class="row" style="margin-top: 45px; margin-bottom: 90px;">
+<div class="row last-item-on-page" style="margin-top: 45px;">
     <div class="col-10 offset-sm-1">
         <h4 style="color: #194d60; margin-bottom: 20px;">
             <?=t('interpreting.conferenceconsulting-services-heading')?>

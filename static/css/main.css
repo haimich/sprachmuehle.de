@@ -453,6 +453,28 @@ nav.menu {
     color: #FFFFFF;
 }
 
+@media all and (min-width: 1104px) and (max-width: 1330px) {
+    .languages-image-text {
+        top: 15%;
+    }
+}
+
+@media all and (min-width: 919px) and (max-width: 1103px) {
+    .languages-image-text {
+        top: 11%;
+    }
+}
+
+@media all and (max-width: 918px) {
+    .languages-image-text {
+        top: 5%;
+    }
+}
+
+.languages-image-text-sm {
+    text-align: center;
+}
+
 .languages-text {
     line-height: 1.8rem;
 }
@@ -463,6 +485,34 @@ nav.menu {
     list-style: none;
     padding-left: 0;
     font-size: .94rem;
+}
+
+.languages-list-sm {
+    line-height: 2rem;
+    list-style: none;
+    padding-left: 0;
+}
+
+.events-box {
+    margin-top: 90px;
+}
+
+@media all and (max-width: 768px) {
+    .events-box {
+        margin-top: 45px;
+    }
+}
+
+.event-teaser {
+    color: #194d60;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+
+@media all and (max-width: 768px) {
+    .event-teaser {
+        margin-top: 45px;
+    }
 }
 
 .interpreting-types p {
@@ -494,6 +544,12 @@ nav.menu {
     margin-top: 85px;
     padding: 0;
     background-color: #f7f7f7;
+}
+
+@media all and (max-width: 768px) {
+    .conferenceconsulting-box {
+        margin-top: 45px;
+    }
 }
 
 /* PROFIL */
