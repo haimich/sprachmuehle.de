@@ -1,5 +1,5 @@
 <!-- Hero image -->
-<div class="row justify-content-around" style="position: relative">
+<div class="row justify-content-around" style="position: relative"> <!-- Big Screen: Image with text -->
     <div class="hero-gray-bg" style="height: 62%;">&nbsp;</div>
 
     <div class="hero-image-text col-12 col-md-6">
@@ -20,17 +20,26 @@
     </div>
 </div>
 
+<div class="row justify-content-center d-md-none" style="margin-top: 45px;"> <!-- Small Screen: Image separate -->
+    <img
+        src="/static/images/cristina_mueller_stehend-sm.jpg"
+        class="hero-image-sm col-8"
+        style="max-width: 933px; max-height: 1246px;"
+        alt="<?=t('interpreting.welcome-alt')?>"
+    />
+</div>
+
 <!-- Intro text -->
-<div class="row" style="margin-top: 90px;">
-    <div class="col-10 offset-sm-1">
+<div class="row profile-intro-box">
+    <div class="col-12 col-md-10 offset-md-1">
         <p><?=t('profile.intro1')?></p>
         <p><?=t('profile.intro2')?></p>
     </div>
 </div>
 
 <!-- Werdegang -->
-<div class="row" style="margin-top: 90px;">
-    <div class="col-10 offset-sm-1 cv-box">
+<div class="row werdegang-box">
+    <div class="col-10 offset-1 cv-box">
         <h2>
             <?=t('profile.cv-header')?>
         </h2>
@@ -40,7 +49,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-sm-1 cv-entry">
+    <div class="col-10 offset-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year1')?></p>
@@ -53,7 +62,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-sm-1 cv-entry">
+    <div class="col-10 offset-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year2')?></p>
@@ -66,7 +75,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-sm-1 cv-entry">
+    <div class="col-10 offset-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year3')?></p>
@@ -79,7 +88,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-sm-1 cv-entry">
+    <div class="col-10 offset-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year4')?></p>
@@ -92,7 +101,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-sm-1 cv-entry" style="border: none;">
+    <div class="col-10 offset-1 cv-entry" style="border: none;">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year5')?></p>
@@ -105,9 +114,9 @@
 </div>
 
 <div class="row" style="margin-top: 34px;">
-    <div class="col-10 offset-sm-1 cv-entry">
+    <div class="col-10 offset-1 cv-entry">
         <div class="row">
-            <div class="col-10 offset-sm-2">
+            <div class="col-10 offset-2">
                 <!-- New Heading -->
                 <h4 style="color: #194d60; padding-bottom: 25px;">
                     <?=t('profile.cv-interns-heading')?>
@@ -118,7 +127,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-sm-1 cv-entry">
+    <div class="col-10 offset-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year6')?></p>
@@ -131,7 +140,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-sm-1 cv-entry">
+    <div class="col-10 offset-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year7')?></p>
@@ -144,7 +153,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-sm-1 cv-entry">
+    <div class="col-10 offset-1 cv-entry">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year8')?></p>
@@ -157,7 +166,7 @@
 </div>
 
 <div class="row" style="margin-top: 25px;">
-    <div class="col-10 offset-sm-1 cv-entry" style="border: none;">
+    <div class="col-10 offset-1 cv-entry" style="border: none;">
         <div class="row">
             <div class="col-2 cv-year">
                 <p><?=t('profile.cv-year9')?></p>
@@ -169,10 +178,10 @@
     </div>
 </div>
 
-<div class="row last-item-on-page" style="margin-top: 34px;">
-    <div class="col-10 offset-sm-1 cv-entry" style="border: none;">
+<div class="row last-item-on-page cv-box-last-heading">
+    <div class="col-10 offset-1 cv-entry" style="border: none;">
         <div class="row">
-            <div class="col-10 offset-sm-2">
+            <div class="col-10 offset-2">
                 <!-- New Heading -->
                 <h4 style="color: #194d60; padding-bottom: 16px;">
                     <?=t('profile.cv-memberships-heading')?>

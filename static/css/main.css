@@ -588,9 +588,41 @@ nav.menu {
 
 /* PROFIL */
 
+.profile-intro-box {
+    margin-top: 90px;
+}
+
+@media all and (max-width: 768px) {
+    .profile-intro-box {
+        margin-top: 45px;
+    }    
+}
+
+.werdegang-box {
+    margin-top: 90px;
+}
+
 .cv-box {
     background-color: #f7f7f7;
-    padding: 70px 12.5% 70px 15%;
+    padding: 70px 12.5% 70px 15.5%;
+}
+
+.cv-box-last-heading {
+    margin-top: 34px;
+}
+
+@media all and (max-width: 768px) {
+    .werdegang-box {
+        margin-top: 45px;
+    }
+
+    .cv-box {
+        padding: 29px 12.5% 15px 16%;
+    }
+
+    .cv-box-last-heading {
+        margin-top: 15px;
+    }
 }
 
 .cv-entry {
