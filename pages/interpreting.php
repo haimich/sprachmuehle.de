@@ -1,18 +1,18 @@
 <!-- Hero image -->
 <div class="row justify-content-around" style="position: relative">
-    <div class="welcome-gray-bg" style="height: 63%;">&nbsp;</div>
+    <div class="welcome-gray-bg" style="height: 72%;">&nbsp;</div>
 
-    <div class="col-6 align-self-end">
-        <h1 style="margin-bottom: 68px; padding-left: 32px;">
+    <div class="col-6" style="padding-left: 50px;">
+        <h1 style="margin-top: 100px; margin-bottom: 68px;">
             <?=t('interpreting.welcome-header1')?>
         </h1>
 
-        <h4 style="color: #194d60; padding-left: 32px; margin-bottom: 12px;">
+        <h4 style="color: #194d60; margin-bottom: 12px;">
             <?=t('interpreting.welcome-header2')?>
         </h4>
 
-        <p style="padding-left: 32px;"><?=t('interpreting.welcome-header2-sub1')?></p>
-        <p style="padding-left: 32px;"><?=t('interpreting.welcome-header2-sub2')?></p>
+        <p><?=t('interpreting.welcome-header2-sub1')?></p>
+        <p><?=t('interpreting.welcome-header2-sub2')?></p>
     </div>
 
     <div class="col-6" style="text-align: right; padding-left: 20px; padding-right: 45px;">

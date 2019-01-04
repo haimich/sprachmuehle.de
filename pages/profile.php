@@ -2,12 +2,12 @@
 <div class="row justify-content-around" style="position: relative">
     <div class="welcome-gray-bg" style="height: 62%;">&nbsp;</div>
 
-    <div class="col-6 align-self-end">
-        <h1 style="margin-bottom: 95px; padding-left: 32px;">
+    <div class="col-6" style="padding-left: 50px;">
+        <h1 style="margin-top: 100px; margin-bottom: 95px; ">
             <?=t('profile.welcome-header')?>
         </h1>
 
-        <p style="padding-left: 32px; margin-top: 17px;"><?=t('profile.welcome-sub')?></p>
+        <p style="margin-top: 15px;"><?=t('profile.welcome-sub')?></p>
     </div>
 
     <div class="col-6" style="text-align: right; padding-left: 20px; padding-right: 45px;">
