@@ -562,6 +562,30 @@ nav.menu {
     }
 }
 
+/* ÜBERSETZEN */
+
+.languages-image-text-translating {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 5%;
+}
+
+@media all and (min-width: 727px) and (max-width: 768px) {
+    .languages-image-text-translating {
+        padding-right: 4%;
+    }
+}
+
+.documents-box {
+    margin-top: 90px;
+}
+
+@media all and (max-width: 768px) {
+    .documents-box {
+        margin-top: 45px;
+    }    
+}
+
 /* PROFIL */
 
 .cv-box {

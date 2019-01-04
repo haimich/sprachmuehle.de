@@ -1,5 +1,5 @@
 <!-- Hero image -->
-<div class="row justify-content-around" style="position: relative">
+<div class="row justify-content-around" style="position: relative"> <!-- Big Screen: Image with text -->
     <div class="hero-gray-bg" style="height: 64%;">&nbsp;</div>
 
     <div class="hero-image-text col-12 col-md-6">
@@ -24,6 +24,15 @@
     </div>
 </div>
 
+<div class="row justify-content-center d-md-none" style="margin-top: 45px;"> <!-- Small Screen: Image separate -->
+    <img
+        src="/static/images/cristina_mueller_uebersetzen.jpg"
+        class="hero-image-sm col-8"
+        style="max-width: 1000px; max-height: 1359px;"
+        alt="<?=t('interpreting.welcome-alt')?>"
+    />
+</div>
+
 <!-- Intro text -->
 <div class="row justify-content-center">
     <p class="centered-text-box col-8">
@@ -32,7 +41,21 @@
 </div>
 
 <!-- Sprachkombinationen -->
-<div class="row justify-content-center">
+<div class="row d-md-none"> <!-- Small screen: text above image -->
+    <div class="languages-image-text-sm col-12">
+        <h2 style="margin-bottom: 30px;">
+            <?=t('translating.languages-heading')?>
+        </h2>
+
+        <ul class="languages-list-sm text-uppercase" style="color: #161616;">
+            <li><?=t('translating.languages-list1')?></li>
+            <li><?=t('translating.languages-list2')?></li>
+            <li><?=t('translating.languages-list3')?></li>
+        </ul>
+    </div>
+</div>
+
+<div class="row justify-content-center d-none d-md-block">
     <div class="col-12 hero-image-container" style="padding-left: 65px; padding-right: 65px;">
         <img
             src="/static/images/cristina_mueller_uebersetzen2.jpg"
@@ -40,7 +63,7 @@
             alt="<?=t('translating.languages-alt')?>"
         />
 
-        <div class="languages-image-text" style="display: flex; justify-content: flex-end; padding-right: 5%;">
+        <div class="languages-image-text languages-image-text-translating">
             <div>
               <h4 class="languages-text" style="color: #161616">
                   <?=t('translating.languages-heading')?>
@@ -59,8 +82,8 @@
 </div>
 
 <!-- Arten von Dokumenten -->
-<div class="row" style="margin-top: 90px">
-    <div class="col-10 offset-sm-1">
+<div class="row documents-box">
+    <div class="col-12 col-md-10 offset-md-1">
         <h4 style="color: #194d60; margin-bottom: 20px;">
             <?=t('translating.types-heading')?>
         </h4>
@@ -102,7 +125,7 @@
 
 <!-- Branchenerfahrung -->
 <div class="row" style="margin-top: 45px">
-    <div class="col-10 offset-sm-1">
+    <div class="col-12 col-md-10 offset-md-1">
         <h4 style="color: #194d60; margin-bottom: 20px;">
             <?=t('translating.industries-heading')?>
         </h4>
@@ -143,7 +166,7 @@
 
 <!-- Beglaubigungen -->
 <div class="row last-item-on-page" style="margin-top: 45px;">
-    <div class="col-10 offset-sm-1">
+    <div class="col-12 col-md-10 offset-md-1">
         <h4 style="color: #194d60; margin-bottom: 20px;">
             <?=t('translating.documents-heading')?>
         </h4>
