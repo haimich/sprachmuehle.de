@@ -74,29 +74,33 @@ nav.menu {
 .menu {
     font-size: 1.04rem;
     letter-spacing: 0.4px;
+    padding-right: 20px;
     transition: all 0.12s ease-in-out;
     -webkit-transition: all 0.12s ease-in-out;
     -moz-transition: all 0.12s ease-in-out;
 }
 
 .menu-shrink {
-    font-size: .9.6rem;
-}
-/*
-
-.menu a {
-    color: #323232;
-    padding-bottom: 2px;
+    font-size: .96rem;
 }
 
-.menu a:hover {
-    color: #9B225F;
-    text-decoration: none;
-} */
+@media all and (max-width: 576px) {
+    .menu {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+}
 
 .menu .nav-item.active .nav-link {
     color: #9B225F;
     border-bottom: 2px solid #9B225F;
+}
+
+.menu .navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+    margin-left: .6rem;
+    margin-right: .6rem;
 }
 
 .header-phone {

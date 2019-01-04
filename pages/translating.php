@@ -67,7 +67,7 @@
         
         <p><?=t('translating.types-sub')?>:</p>
 
-        <div class="row highlighted-box">
+        <div class="row highlighted-box" style="margin-top: 25px;">
             <div class="col-12" style="border-color: #4BBAD4">
                 <?=t('translating.types-list1')?>
             </div>
@@ -109,7 +109,7 @@
         
         <p><?=t('translating.industries-sub')?></p>
 
-        <div class="row highlighted-box">
+        <div class="row highlighted-box" style="margin-top: 25px;">
             <div class="col-12" style="border-color: #4BBAD4">
                 <?=t('translating.industries-list1')?>
             </div>

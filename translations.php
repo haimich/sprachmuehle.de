@@ -153,7 +153,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Veranstaltungen mit internationaler Ausprägung",
     ],
     "interpreting.events-heading1-sub" => [
-        "de" => "Seit 2012 arbeite ich als freiberufliche Konferenzdolmetscherin für Unternehmen, Institutionen und Behörden in Politik und Wirtschaft – im Inland wie im Ausland. Zu folgenden Anlässen konnte ich meine Sprachkompetenz und Dolmetschexpertise bereits unter Beweis stellen.",
+        "de" => "Seit 2012 arbeite ich als freiberufliche Konferenzdolmetscherin für Unternehmen, Institutionen und Behörden in Politik und Wirtschaft – im Inland wie im Ausland. Zu folgenden Anlässen konnte ich meine Sprachkompetenz und Dolmetschexpertise bereits unter Beweis stellen:",
     ],
     "interpreting.events-heading1-list1" => [
         "de" => "Offizielle Anlässe, Ministertreffen, Staatsbesuche, Feierlichkeiten, Städtepartnerschaften, Begleitung von Delegationen, internationale Gästeprogramme, Informationsreisen, bilaterale Abkommen, Austausch auf politischer und kultureller Ebene, Ausstellungs- und Museumsführungen",

@@ -66,7 +66,7 @@
         
         <p><?=t('interpreting.events-heading1-sub')?></p>
 
-        <div class="row highlighted-box">
+        <div class="row highlighted-box" style="margin-top: 25px;">
             <div class="col-12">
                 <?=t('interpreting.events-heading1-list1')?>
             </div>
@@ -173,7 +173,7 @@
         
         <p><?=t('interpreting.conferenceconsulting-services-sub')?>:</p>
 
-        <div class="row highlighted-box">
+        <div class="row highlighted-box" style="margin-top: 25px;">
             <div class="col-12">
                 <?=t('interpreting.conferenceconsulting-services-list1')?>
             </div>
