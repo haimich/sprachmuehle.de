@@ -122,7 +122,7 @@
     <div class="col-12 hero-image-container">
         <picture>
             <source srcset="/static/images/cristina_mueller_sitzend-xs.jpg" media="(max-width: 638px)">
-            <source srcset="/static/images/cristina_mueller_sitzend-sm.jpg" media="(max-width: 900px)">
+            <source srcset="/static/images/cristina_mueller_sitzend-sm.jpg" media="(max-width: 1000px)">
             <img
                 src="/static/images/cristina_mueller_sitzend.jpg"
                 class="img-fluid"

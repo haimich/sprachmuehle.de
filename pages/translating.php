@@ -55,7 +55,7 @@
     </div>
 </div>
 
-<div class="row justify-content-center d-none d-md-block">
+<div class="row justify-content-center d-none d-md-block"> <!-- Big screen: text within image -->
     <div class="col-12 hero-image-container" style="padding-left: 65px; padding-right: 65px;">
         <img
             src="/static/images/cristina_mueller_uebersetzen2.jpg"
@@ -63,8 +63,8 @@
             alt="<?=t('translating.languages-alt')?>"
         />
 
-        <div class="languages-image-text languages-image-text-translating">
-            <div>
+        <div class="languages-image-text-translating">
+            <div> <!-- needed for positioning -->
               <h4 class="languages-text" style="color: #161616">
                   <?=t('translating.languages-heading')?>
               </h4>
