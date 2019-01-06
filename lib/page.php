@@ -18,7 +18,17 @@ const PAGE_404 = "PAGE_404";
 $page = PAGE_HOME;
 
 if (isset($_SERVER["REQUEST_URI"])) {
-    switch ($_SERVER["REQUEST_URI"]) {
+    if ($_SERVER["REQUEST_URI"] == null || $_SERVER["REQUEST_URI"] === "" || $_SERVER["REQUEST_URI"] === "/") {
+        $path = "/";
+    } else {
+        $parsed = parse_url($_SERVER["REQUEST_URI"]);
+    
+        if ($parsed != null && isset($parsed["path"])) {
+            $path = $parsed["path"];
+        }
+    }
+    
+    switch ($path) {
         case "": $page = PAGE_HOME; break;
         case "/": $page = PAGE_HOME; break;
         

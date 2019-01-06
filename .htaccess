@@ -1,9 +1,8 @@
 # Route all to index.php (if it does not match to a file or folder redirect to index.php)
 RewriteEngine On
-RewriteRule ^$                        index.php  [L]
 RewriteCond %{REQUEST_FILENAME}       !-f
 RewriteCond %{REQUEST_FILENAME}       !-d
-RewriteRule .*                        index.php?page=$1  [QSA,L]
+RewriteRule ^(.*)$                    /index.php?/$1 [QSA,L]
 
 # Rewrite to www
 RewriteEngine on

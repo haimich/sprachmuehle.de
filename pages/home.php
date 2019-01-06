@@ -148,7 +148,7 @@
                     &gt;
                 </div>
 
-                <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank" rel="noopener" style="margin-left: 40px;">
+                <a href="https://mitglieder.bdue.de/CristinaMueller" target="_blank" rel="noopener" style="margin-left: 40px;">
                     <img src="/static/images/logos/bdue_vkd_logo.svg" alt="<?=t('footer.logo.title')?>" style="height: 38px;" />
                 </a>
             </a>
