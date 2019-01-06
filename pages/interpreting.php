@@ -42,7 +42,7 @@
 </div>
 
 <!-- Sprachkombinationen -->
-<div class="row d-md-none"> <!-- Small screen: text above image -->
+<div class="row d-md-none"> <!-- Small screen: text without image -->
     <div class="languages-image-text-sm col-12">
         <h2 style="margin-bottom: 30px;">
             <?=t('interpreting.languages-heading')?>
