@@ -435,6 +435,12 @@ nav.menu {
     line-height: 1.4rem;
 }
 
+@media all and (max-width: 768px) {
+    .aboutme-text {
+        max-width: 61%;
+    }
+}
+
 .aboutme-text-sm {
     margin-top: 20px;
     font-size: 1.05rem;

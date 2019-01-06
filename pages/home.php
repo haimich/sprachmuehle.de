@@ -119,9 +119,9 @@
 </div>
 
 <div class="row aboutme-box"> <!-- Big screen: text within image -->
-    <div class="col-12 hero-image-container">
+    <div class="col-10 offset-1 col-sm-12 offset-sm-0 hero-image-container">
         <picture>
-            <source srcset="/static/images/cristina_mueller_sitzend-xs.jpg" media="(max-width: 638px)">
+            <source srcset="/static/images/cristina_mueller_sitzend-xs.jpg" media="(max-width: 576px)">
             <source srcset="/static/images/cristina_mueller_sitzend-sm.jpg" media="(max-width: 1000px)">
             <img
                 src="/static/images/cristina_mueller_sitzend.jpg"
