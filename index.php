@@ -115,7 +115,14 @@
         <nav class="menu navbar fixed-top navbar-expand-md navbar-light">
             <!-- Logo -->
             <a lass="navbar-brand" href="/" title="<?=t("logo.title")?>">
-                <img class="logo" src="/static/images/logos/sprachmuehle_logo.png" alt='<?=t("logo.alt")?>' />
+                <picture>
+                    <source srcset="/static/images/logos/sprachmuehle_logo-sm.png" media="(max-width: 650px)">
+                    <img
+                        src="/static/images/logos/sprachmuehle_logo.png"
+                        class="logo"
+                        alt="<?=t('logo.alt')?>"
+                    >
+                </picture>
             </a>
 
             <!-- Burger Button -->
@@ -227,7 +234,7 @@
 
             <!-- Mitgliedschaften -->
             <div class="footer-memberships col-3 d-print-none d-none d-sm-none d-md-flex order-md-12">
-                <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank">
+                <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank" rel="noopener">
                     <img src="/static/images/logos/bdue_vkd_logo.svg" alt="<?=t('footer.logo.title')?>" style="height: 30px;" />
                 </a>
             </div>

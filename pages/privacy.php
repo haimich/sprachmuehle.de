@@ -49,7 +49,7 @@
         <p><?=t('privacy.disclaimer-sub')?></p>
 
         <h4><?=t('privacy.complaint-heading')?></h4>
-        <p><?=t('privacy.complaint-sub')?>: <a href="https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html" target="_blank">https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html</a></p>
+        <p><?=t('privacy.complaint-sub')?>: <a href="https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html" target="_blank" rel="noopener">https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html</a></p>
 
         <h4><?=t('privacy.disclaimer-heading')?></h4>
         <p><?=t('privacy.disclaimer-sub')?></p>
@@ -97,11 +97,11 @@
         <p><?=t('privacy.ip-sub')?></p>
 
         <h4><?=t('privacy.plugin-heading')?></h4>
-        <p><?=t('privacy.plugin-sub')?>: <a href="https://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">https://tools.google.com/dlpage/gaoptout?hl=de</a></p>
+        <p><?=t('privacy.plugin-sub')?>: <a href="https://tools.google.com/dlpage/gaoptout?hl=de" target="_blank" rel="noopener">https://tools.google.com/dlpage/gaoptout?hl=de</a></p>
 
         <h4><?=t('privacy.optout-heading')?></h4>
         <p><?=t('privacy.optout-sub1')?>: <a href="#"><?=t('privacy.optout-deactivate')?></a></p>
-        <p><?=t('privacy.optout-sub2')?>: <a href="https://support.google.com/analytics/answer/6004245?hl=de" target="_blank">https://support.google.com/analytics/answer/6004245?hl=de</a></p>
+        <p><?=t('privacy.optout-sub2')?>: <a href="https://support.google.com/analytics/answer/6004245?hl=de" target="_blank" rel="noopener">https://support.google.com/analytics/answer/6004245?hl=de</a></p>
 
         <h4><?=t('privacy.processing-heading')?></h4>
         <p class="last-item-on-page"><?=t('privacy.processing-sub')?></p>

@@ -148,7 +148,7 @@
                     &gt;
                 </div>
 
-                <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank" style="margin-left: 40px;">
+                <a href="http://mitglieder.bdue.de/CristinaMueller" target="_blank" rel="noopener" style="margin-left: 40px;">
                     <img src="/static/images/logos/bdue_vkd_logo.svg" alt="<?=t('footer.logo.title')?>" style="height: 38px;" />
                 </a>
             </a>
@@ -167,10 +167,10 @@
             <?=t('home.contact-text')?>
         </p>
 
-        <p class="home-contact-box-addresss">
+        <address class="home-contact-box-addresss">
             Cristina Müller<br />
             <?=t('home.contact-mobile')?>: <a href="tel:‭+4915202312427‬">+49 (0) 1520 231 24 27‬</a><br />
             <?=t('home.contact-mail')?>: <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
-        </p>
+        </address>
     </div>
 </div>
