@@ -169,8 +169,8 @@
 
         <p class="home-contact-box-addresss">
             Cristina Müller<br />
-            Mobil: +49 (0) 1520 231 24 27‬<br />
-            <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
+            <?=t('home.contact-mobile')?>: <a href="tel:‭+4915202312427‬">+49 (0) 1520 231 24 27‬</a><br />
+            <?=t('home.contact-mail')?>: <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
         </p>
     </div>
 </div>

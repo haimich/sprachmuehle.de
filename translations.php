@@ -102,6 +102,12 @@ const TRANSLATIONS = [
         "de" => "Freundlich, zuverlässig und diskret bearbeite ich Ihre Anfragen und Aufträge. Ob persönlich oder virtuell, per Telefon, E-Mail oder WhatsApp – Sie erreichen mich über viele Kanäle. 
 Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratung? Ich bin gerne für Sie da. Sprechen Sie mich einfach an!",
     ],
+    "home.contact-mobile" => [
+        "de" => "Mobil",
+    ],
+    "home.contact-mail" => [
+        "de" => "E-Mail",
+    ],
 
     /* DOLMETSCHEN */
     "interpreting.title" => [
