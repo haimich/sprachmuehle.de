@@ -51,10 +51,7 @@ const TRANSLATIONS = [
         "de" => "Sprachmühle",
     ],
     "home.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "home.keywords" => [
-        "de" => "dolmetschen,übersetzen",
+        "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
     ],
     "home.welcome-alt" => [
         "de" => "Willkommen",
@@ -111,10 +108,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Sprachmühle",
     ],
     "interpreting.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "interpreting.keywords" => [
-        "de" => "dolmetschen,übersetzen",
+        "de" => "Als freiberufliche Konferenzdolmetscherin bin ich für Unternehmen und Institutionen weltweit im Einsatz – simultan und konsekutiv.",
     ],
     "interpreting.welcome-alt" => [
         "de" => "Dolmetschen",
@@ -269,10 +263,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Sprachmühle",
     ],
     "translating.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "translating.keywords" => [
-        "de" => "dolmetschen,übersetzen",
+        "de" => "Von Alltagstexten bis hin zu komplexen Fachpublikationen fertige ich für Sie schnell und zuverlässig hochwertige Übersetzungen ins Deutsche und Rumänische an.",
     ],
     "translating.welcome-alt" => [
         "de" => "Übersetzen",
@@ -361,10 +352,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Sprachmühle",
     ],
     "profile.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "profile.keywords" => [
-        "de" => "dolmetschen,übersetzen",
+        "de" => "Aufgewachsen im rumänischen Brașov, habe ich mir die sprachliche und kulturelle Vielfalt Europas erschlossen und in Deutschland eine zweite Heimat gefunden.",
     ],
     "profile.welcome-alt" => [
         "de" => "Profil",
@@ -462,10 +450,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Sprachmühle",
     ],
     "contact.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "contact.keywords" => [
-        "de" => "dolmetschen,übersetzen",
+        "de" => "Von meiner Sprachmühle aus berate ich Sie gerne persönlich, telefonisch oder per E-Mail und erstelle zeitnah ein auf Ihre Bedürfnisse maßgeschneidertes Angebot.",
     ],
     "contact.welcome-alt" => [
         "de" => "Kontakt",
@@ -497,10 +482,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Sprachmühle",
     ],
     "imprint.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "imprint.keywords" => [
-        "de" => "dolmetschen,übersetzen",
+        "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
     ],
     "imprint.heading" => [
         "de" => "Impressum",
@@ -576,10 +558,7 @@ Adlerstraße 4a<br />
         "de" => "Sprachmühle",
     ],
     "privacy.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "privacy.keywords" => [
-        "de" => "dolmetschen,übersetzen",
+        "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
     ],
     "privacy.heading" => [
         "de" => "Datenschutzerklärung",
@@ -791,10 +770,7 @@ Adlerstraße 4a<br />
         "de" => "Sprachmühle",
     ],
     "agb.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "agb.keywords" => [
-        "de" => "dolmetschen,übersetzen",
+        "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
     ],
     "agb.toggleVisibility" => [
         "de" => "Ein-/Ausblenden",
@@ -1136,19 +1112,13 @@ Adlerstraße 4a<br />
         "de" => "Sprachmühle",
     ],
     "404.description" => [
-        "de" => "Die Sprachmühle ist...",
-    ],
-    "404.keywords" => [
-        "de" => "dolmetschen,übersetzen",
+        "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
     ],
     "404.header" => [
         "de" => "Seite existiert nicht",
     ],
     "404.description" => [
         "de" => "Es tut uns leid, aber die von Ihnen aufgerufene Seite wurde nicht gefunden.",
-    ],
-    "404.keywords" => [
-        "de" => "dolmetschen,übersetzen",
     ],
 
     /* COOKIE CONSENT */
