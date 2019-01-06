@@ -38,162 +38,99 @@
 </div>
 
 <!-- Werdegang -->
-<div class="row werdegang-box">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-box">
-        <h2>
-            <?=t('profile.cv-header')?>
-        </h2>
-        
-        <p><?=t('profile.cv-sub')?></p>
-    </div>
-</div>
+<div class="row werdegang-container last-item-on-page">
+    <div class="col-12 col-sm-10 offset-sm-1 table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col" width="15%"></th> <!-- empty -->
+                    <th scope="col">
+                        <h2>
+                            <?=t('profile.cv-header')?>
+                        </h2>
+                        
+                        <p><?=t('profile.cv-sub')?></p>
+                    </th>
+                </tr>
+            </thead>
 
-<div class="row" style="margin-top: 25px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
-        <div class="row">
-            <div class="col-2 cv-year">
-                <p><?=t('profile.cv-year1')?></p>
-            </div>
-            <div class="col-10">
-                <p><?=t('profile.cv-text1')?>
-            </div>
-        </div>
-    </div>
-</div>
+            <tbody>
+                <tr>
+                    <th scope="row" class="cv-year" style="border-top: none;">
+                        <?=t('profile.cv-year1')?>
+                    </th>
+                    <td style="border-top: none;">
+                        <?=t('profile.cv-text1')?>
+                    </td>
+                </tr>
 
-<div class="row" style="margin-top: 25px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
-        <div class="row">
-            <div class="col-2 cv-year">
-                <p><?=t('profile.cv-year2')?></p>
-            </div>
-            <div class="col-10">
-                <p><?=t('profile.cv-text2')?>
-            </div>
-        </div>
-    </div>
-</div>
+                <tr>
+                    <th scope="row" class="cv-year"><?=t('profile.cv-year2')?></th>
+                    <td><?=t('profile.cv-text2')?></td>
+                </tr>
 
-<div class="row" style="margin-top: 25px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
-        <div class="row">
-            <div class="col-2 cv-year">
-                <p><?=t('profile.cv-year3')?></p>
-            </div>
-            <div class="col-10">
-                <p><?=t('profile.cv-text3')?>
-            </div>
-        </div>
-    </div>
-</div>
+                <tr>
+                    <th scope="row" class="cv-year"><?=t('profile.cv-year3')?></th>
+                    <td><?=t('profile.cv-text3')?></td>
+                </tr>
 
-<div class="row" style="margin-top: 25px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
-        <div class="row">
-            <div class="col-2 cv-year">
-                <p><?=t('profile.cv-year4')?></p>
-            </div>
-            <div class="col-10">
-                <p><?=t('profile.cv-text4')?>
-            </div>
-        </div>
-    </div>
-</div>
+                <tr>
+                    <th scope="row" class="cv-year"><?=t('profile.cv-year4')?></th>
+                    <td><?=t('profile.cv-text4')?></td>
+                </tr>
 
-<div class="row" style="margin-top: 25px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry" style="border: none;">
-        <div class="row">
-            <div class="col-2 cv-year">
-                <p><?=t('profile.cv-year5')?></p>
-            </div>
-            <div class="col-10">
-                <p><?=t('profile.cv-text5')?>
-            </div>
-        </div>
-    </div>
-</div>
+                <tr>
+                    <th scope="row" class="cv-year"><?=t('profile.cv-year5')?></th>
+                    <td><?=t('profile.cv-text5')?></td>
+                </tr>
 
-<div class="row" style="margin-top: 34px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
-        <div class="row">
-            <div class="col-10 offset-2">
-                <!-- New Heading -->
-                <h4 style="color: #194d60; padding-bottom: 25px;">
-                    <?=t('profile.cv-interns-heading')?>
-                </h4>
-            </div>
-        </div>
-    </div>
-</div>
+                <tr>
+                    <th scope="row" class="cv-year" style="border-top: none;"></th>
+                    <td style="border-top: none;">
+                        <!-- New Heading -->
+                        <h4 style="color: #194d60; margin-bottom: -5px;">
+                            <?=t('profile.cv-interns-heading')?>
+                        </h4>
+                    </td>
+                </tr>
 
-<div class="row" style="margin-top: 25px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
-        <div class="row">
-            <div class="col-2 cv-year">
-                <p><?=t('profile.cv-year6')?></p>
-            </div>
-            <div class="col-10">
-                <p><?=t('profile.cv-text6')?>
-            </div>
-        </div>
-    </div>
-</div>
+                <tr>
+                    <th scope="row" class="cv-year"><?=t('profile.cv-year6')?></th>
+                    <td><?=t('profile.cv-text6')?></td>
+                </tr>
 
-<div class="row" style="margin-top: 25px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
-        <div class="row">
-            <div class="col-2 cv-year">
-                <p><?=t('profile.cv-year7')?></p>
-            </div>
-            <div class="col-10">
-                <p><?=t('profile.cv-text7')?>
-            </div>
-        </div>
-    </div>
-</div>
+                <tr>
+                    <th scope="row" class="cv-year"><?=t('profile.cv-year7')?></th>
+                    <td><?=t('profile.cv-text7')?></td>
+                </tr>
 
-<div class="row" style="margin-top: 25px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry">
-        <div class="row">
-            <div class="col-2 cv-year">
-                <p><?=t('profile.cv-year8')?></p>
-            </div>
-            <div class="col-10">
-                <p><?=t('profile.cv-text8')?>
-            </div>
-        </div>
-    </div>
-</div>
+                <tr>
+                    <th scope="row" class="cv-year"><?=t('profile.cv-year8')?></th>
+                    <td><?=t('profile.cv-text8')?></td>
+                </tr>
 
-<div class="row" style="margin-top: 25px;">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry" style="border: none;">
-        <div class="row">
-            <div class="col-2 cv-year">
-                <p><?=t('profile.cv-year9')?></p>
-            </div>
-            <div class="col-10">
-                <p><?=t('profile.cv-text9')?>
-            </div>
-        </div>
-    </div>
-</div>
+                <tr>
+                    <th scope="row" class="cv-year"><?=t('profile.cv-year9')?></th>
+                    <td><?=t('profile.cv-text9')?></td>
+                </tr>
 
-<div class="row last-item-on-page cv-box-last-heading">
-    <div class="col-12 col-sm-10 offset-sm-1 cv-entry" style="border: none;">
-        <div class="row">
-            <div class="col-10 offset-2">
-                <!-- New Heading -->
-                <h4 style="color: #194d60; padding-bottom: 16px;">
-                    <?=t('profile.cv-memberships-heading')?>
-                </h4>
+                <tr>
+                    <th scope="row" class="cv-year" style="border-top: none; padding-bottom: 0;"></th>
+                    <td style="border-top: none; padding-top: 1.5rem; padding-bottom: 0;">
+                        <!-- New Heading -->
+                        <h4 style="color: #194d60; margin-bottom: 17px;">
+                            <?=t('profile.cv-memberships-heading')?>
+                        </h4>
 
-                <ul>
-                    <li><?=t('profile.cv-memberships-list1')?></li>
-                    <li><?=t('profile.cv-memberships-list2')?></li>
-                </ul>
-                
-                <?=t('profile.cv-memberships-list3')?>
-            </div>
-        </div>
+                        <ul>
+                            <li><?=t('profile.cv-memberships-list1')?></li>
+                            <li><?=t('profile.cv-memberships-list2')?></li>
+                        </ul>
+                        
+                        <?=t('profile.cv-memberships-list3')?>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 </div>

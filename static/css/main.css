@@ -80,7 +80,7 @@ nav.menu {
 }
 
 .menu {
-    font-size: .95rem;
+    font-size: .9rem;
     letter-spacing: 0.4px;
     padding-right: 20px;
     transition: all 0.12s ease-in-out;
@@ -620,7 +620,7 @@ nav.menu {
         margin-top: 45px;
     }    
 }
-
+/* 
 .werdegang-box {
     margin-top: 90px;
 }
@@ -637,28 +637,44 @@ nav.menu {
 .cv-entry {
     border-bottom: 1px solid #dadada;
     padding-bottom: 6px;
+} */
+
+.werdegang-container {
+    margin-top: 90px;
 }
 
-.cv-year {
+.werdegang-container thead {
+    background-color: #f3f3f3;
+}
+
+.werdegang-container thead tr {
+    border: none;
+}
+
+.werdegang-container thead p {
+    font-weight: normal;
+}
+
+.werdegang-container .table td, .werdegang-container .table th {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.werdegang-container .table thead th {
+    padding-top: 3.5rem;
+    padding-bottom: 2.5rem;
+    border: none;
+}
+
+.werdegang-container .cv-year {
     padding-left: 0;
     color: #194d60;
+    font-weight: normal;
 }
 
 @media all and (max-width: 768px) {
-    .werdegang-box {
+    .werdegang-container {
         margin-top: 45px;
-    }
-
-    .cv-box {
-        padding: 29px 12.5% 15px 20px;
-    }
-
-    .cv-box-last-heading {
-        margin-top: 15px;
-    }
-
-    .cv-year {
-        padding-left: 10px;
     }
 }
 
