@@ -63,7 +63,7 @@
             alt="<?=t('translating.languages-alt')?>"
         />
 
-        <div class="languages-image-text-translating">
+        <div class="languages-image-text-translating text-over-image">
             <div> <!-- needed for positioning -->
               <h4 class="languages-text" style="color: #161616">
                   <?=t('translating.languages-heading')?>

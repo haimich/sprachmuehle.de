@@ -11,7 +11,7 @@
             >
         </picture>
 
-        <div class="welcome-image-text">
+        <div class="welcome-image-text text-over-image">
             <h1>
                 <?=t('home.welcome-header')?>
             </h1>
@@ -130,7 +130,7 @@
             >
         </picture>
 
-        <div class="aboutme-image-text d-none d-sm-block">
+        <div class="aboutme-image-text d-none d-sm-block text-over-image">
             <h2>
                 Cristina M&uuml;ller
             </h2>

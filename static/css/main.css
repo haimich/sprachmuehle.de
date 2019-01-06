@@ -172,6 +172,10 @@ nav.menu {
     }    
 }
 
+.text-over-image {
+    text-shadow: 1px 1px #ececec;
+}
+
 /* MAIN */
 
 .main-container {

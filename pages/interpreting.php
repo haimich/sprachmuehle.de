@@ -64,7 +64,7 @@
             alt="<?=t('interpreting.languages-alt')?>"
         />
 
-        <div class="languages-image-text">
+        <div class="languages-image-text text-over-image" style="text-shadow: 1px 1px #737373">
             <h4 class="languages-text">
                 <?=t('interpreting.languages-heading')?>
             </h4>
