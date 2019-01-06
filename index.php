@@ -206,9 +206,9 @@
         <footer class="row footer align-items-center">
             <!-- Copyright -->
             <div class="footer-copyright col-12 col-sm-6 col-md-3 order-12 order-sm-1">
-                <span style="font-size: 18px;">&copy;</span>
+                <span class="footer-copyright-sign">&copy;</span>
                 <span>
-                    <script>document.write((new Date()).getFullYear());</script> Cristina Müller
+                    <?=date("Y")?> Cristina Müller
                 </span>
             </div>
 

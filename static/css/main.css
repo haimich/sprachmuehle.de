@@ -794,6 +794,16 @@ nav.menu {
     padding-left: 0;
 }
 
+.footer-copyright-sign {
+    font-size: 1.1rem;
+}
+
+@media all and (max-width: 768px) {
+    .footer-copyright-sign {
+        padding-right: 2px;
+    }    
+}
+
 .footer-links a {
     color: #000000;
 }
