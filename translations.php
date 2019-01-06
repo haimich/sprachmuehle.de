@@ -1132,7 +1132,7 @@ Adlerstraße 4a<br />
         "de" => "Wir verwenden Cookies, um unsere Webseite möglichst benutzerfreundlich zu gestalten. Wenn Sie fortfahren, stimmen Sie der Verwendung von Cookies zu.",
     ],
     "cookies.accept" => [
-        "de" => "Akzeptieren",
+        "de" => "Schließen",
     ],
     "cookies.moreInfo" => [
         "de" => "Weitere Informationen",
