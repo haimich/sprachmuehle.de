@@ -1,13 +1,18 @@
+# Redirect http => https
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,r=301]
+
+# Rewrite to www
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^sprachmuehle.de [nc]
+RewriteRule ^(.*)$ https://www.sprachmuehle.de/$1 [L,r=301]
+
 # Route all to index.php (if it does not match to a file or folder redirect to index.php)
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME}       !-f
 RewriteCond %{REQUEST_FILENAME}       !-d
 RewriteRule ^(.*)$                    /index.php?/$1 [QSA,L]
-
-# Rewrite to www
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^sprachmuehle.de[nc]
-RewriteRule ^(.*)$ https://www.sprachmuehle.de/$1 [r=301,nc]
 
 # Caching
 <FilesMatch "\.(jpg|png|svg)$">

@@ -94,7 +94,7 @@ nav.menu {
 
 @media all and (max-width: 576px) {
     .menu {
-        padding-bottom: 0;
+        padding-bottom: 11px;
         padding-top: 0;
     }
 }
