@@ -1,6 +1,6 @@
 <!-- Hero image -->
 <div class="row justify-content-around" style="position: relative"> <!-- Big Screen: Image with text -->
-    <div class="hero-gray-bg" style="height: 62%;">&nbsp;</div>
+    <div class="hero-gray-bg hero-gray-bg-profile">&nbsp;</div>
 
     <div class="hero-image-text col-12 col-md-6">
         <h1 style="margin-bottom: 95px;">
@@ -12,7 +12,7 @@
 
     <div class="hero-image col-md-6 d-none d-md-block">
         <img
-            src="/static/images/cristina_mueller_stehend.jpg"
+            src="/static/images/cristina_mueller_stehend-alt.jpg"
             class="img-fluid"
             style="max-width: 456px;"
             alt="<?=t('profile.welcome-alt')?>"

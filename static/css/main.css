@@ -463,6 +463,16 @@ nav.menu {
 
 /* DOLMETSCHEN */
 
+.hero-gray-bg-interpreting {
+    height: 72%;
+}
+
+@media all and (max-width: 700px) {
+    .hero-gray-bg-interpreting {
+        height: 80%;
+    }
+}
+
 .languages-image-text {
     position: absolute;
     left: 14%;
@@ -571,6 +581,16 @@ nav.menu {
 
 /* ÜBERSETZEN */
 
+.hero-gray-bg-translating {
+    height: 64%;
+}
+
+@media all and (max-width: 700px) {
+    .hero-gray-bg-translating {
+        height: 73%;
+    }
+}
+
 .languages-image-text-translating {
     position: absolute;
     right: 11%;
@@ -615,29 +635,19 @@ nav.menu {
     margin-top: 90px;
 }
 
+.hero-gray-bg-profile {
+    height: 62%;
+}
+
 @media all and (max-width: 768px) {
     .profile-intro-box {
         margin-top: 45px;
-    }    
-}
-/* 
-.werdegang-box {
-    margin-top: 90px;
-}
+    }
 
-.cv-box {
-    background-color: #f3f3f3;
-    padding: 70px 12.5% 70px 15.5%;
+    .hero-gray-bg-profile {
+        height: 70%;
+    }
 }
-
-.cv-box-last-heading {
-    margin-top: 34px;
-}
-
-.cv-entry {
-    border-bottom: 1px solid #dadada;
-    padding-bottom: 6px;
-} */
 
 .werdegang-container {
     margin-top: 90px;

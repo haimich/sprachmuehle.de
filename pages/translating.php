@@ -1,6 +1,6 @@
 <!-- Hero image -->
 <div class="row justify-content-around" style="position: relative"> <!-- Big Screen: Image with text -->
-    <div class="hero-gray-bg" style="height: 64%;">&nbsp;</div>
+    <div class="hero-gray-bg hero-gray-bg-translating">&nbsp;</div>
 
     <div class="hero-image-text col-12 col-md-6">
         <h1 style="margin-bottom: 83px;">
