@@ -104,7 +104,8 @@
     </h2>
 
     <div class="col-12" style="margin-top: 12px;">
-        <p style="margin-bottom: 20px"><?=t('home.aboutme-text')?></p>
+        <p><?=t('home.aboutme-text1')?></p>
+        <p style="margin-bottom: 20px"><?=t('home.aboutme-text2')?></p>
 
         <a href="/profil" class="call-to-action col-10 offset-1">
             <div class="col-8" style="padding-left: 0">
@@ -136,7 +137,8 @@
                 Cristina M&uuml;ller
             </h2>
 
-            <p class="aboutme-text"><?=t('home.aboutme-text')?></p>
+            <p class="aboutme-text"><?=t('home.aboutme-text1')?></p>
+            <p class="aboutme-text" style="margin-top: 0px;"><?=t('home.aboutme-text2')?></p>
 
             <a href="/profil" class="call-to-action" style="width: 180px; font-size: .87rem;">
                 <div class="col-8" style="padding-left: 0">

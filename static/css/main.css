@@ -411,6 +411,12 @@ nav.menu {
     }
 }
 
+@media all and (max-width: 576px) {
+    .services-box {
+        padding: 30px 0;
+    }
+}
+
 .arbeitssprachen-box {
     padding: 90px 0 100px 0;
 }

@@ -89,8 +89,11 @@ const TRANSLATIONS = [
     "home.aboutme-alt" => [
         "de" => "Über mich",
     ],
-    "home.aboutme-text" => [
-        "de" => "Ich bin ausgebildete Konferenzdolmetscherin und Übersetzerin für die Sprachen Deutsch, Rumänisch, Französisch und Italienisch. <br />Obwohl sich meine Sprachmühle am Rhein, in der Nähe von Karlsruhe befindet, bin ich für Sie weltweit im Einsatz. Faszination und Begeisterung für fremde Kulturen und Sprachen haben mich zu meinem Beruf geführt, den ich mit Leidenschaft und einem hohen Anspruch an meine Arbeit ausübe.",
+    "home.aboutme-text1" => [
+        "de" => "Ich bin ausgebildete Konferenzdolmetscherin und Übersetzerin für die Sprachen Deutsch, Rumänisch, Französisch und Italienisch.",
+    ],
+    "home.aboutme-text2" => [
+        "de" => "Obwohl sich meine Sprachmühle am Rhein, in der Nähe von Karlsruhe befindet, bin ich für Sie weltweit im Einsatz. Faszination und Begeisterung für fremde Kulturen und Sprachen haben mich zu meinem Beruf geführt, den ich mit Leidenschaft und einem hohen Anspruch an meine Arbeit ausübe.",
     ],
     "home.aboutme-button" => [
         "de" => "Profil",
