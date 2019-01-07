@@ -169,7 +169,7 @@
 
 <!-- Konferenzberatung -->
 <div class="row conferenceconsulting-box" id="konferenzberatung">
-    <div class="col-12 col-lg-6" style="padding: 5% 3% 0 7%;">
+    <div class="col-12 col-lg-6" style="padding: 4% 3% 0 7%">
         <h2>
             <?=t('interpreting.conferenceconsulting-heading')?>
         </h2>

@@ -225,7 +225,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Konferenzberatung",
     ],
     "interpreting.conferenceconsulting-sub" => [
-        "de" => "Als beratende Konferenzdolmetscherin unterstütze ich Sie nicht nur bei der Planung. Ich kümmere mich auch um die Technik, die Zusammenstellung und Betreuung der Dolmetschteams sowie um die Nachbereitung und Abrechnung. So bleiben Sie von bösen Überraschungen verschont und sparen Zeit und Geld durch routinierte Abläufe.",
+        "de" => "Als beratende Konferenzdolmetscherin unterstütze ich Sie nicht nur bei der Planung. Ich kümmere mich auch um die Technik, die Zusammenstellung und Betreuung der Dolmetschteams sowie um die Nachbereitung und Abrechnung. <br />So bleiben Sie von bösen Überraschungen verschont und sparen Zeit und Geld durch routinierte Abläufe.",
     ],
     "interpreting.conferenceconsulting-alt" => [
         "de" => "Konferenzberatung",
@@ -258,7 +258,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Nachbereitung der Veranstaltung und Abrechnung.",
     ],
     "interpreting.conferenceconsulting-services-contact1" => [
-        "de" => "Weitere Fragen beantworte ich Ihnen gerne telefonisch unter",
+        "de" => "Weitere Fragen beantworte ich Ihnen telefonisch unter",
     ],
     "interpreting.conferenceconsulting-services-contact2" => [
         "de" => "Ich berate Sie gerne und erstelle Ihnen ein unverbindliches Angebot.",
