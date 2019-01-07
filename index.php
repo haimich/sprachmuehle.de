@@ -97,6 +97,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+    <link rel="stylesheet" href="/static/css/hamburgers.min.css">
     <link rel="stylesheet" href="/static/css/main.css">
 
     <!-- Icons -->
@@ -124,6 +125,22 @@
                     >
                 </picture>
             </a>
+
+            <!-- Burger Button -->
+            <button
+                class="navbar-toggler hamburger hamburger--collapse"
+                type="button"
+                title="<?=t('menu.toggle-title')?>"
+                data-toggle="collapse"
+                data-target="#navbarContent"
+                aria-controls="navbarContent"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+            >
+                <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                </span>
+            </button>
 
             <!-- Burger Button -->
             <button

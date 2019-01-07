@@ -12,7 +12,7 @@
         </picture>
 
         <div class="welcome-image-text text-over-image">
-            <h1 style="text-shadow: 1px 1px #dedede;">
+            <h1 style="text-shadow: 1px 1px #dedede8c;">
                 <?=t('home.welcome-header')?>
             </h1>
 

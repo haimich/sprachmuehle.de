@@ -183,6 +183,23 @@ nav.menu {
     }
 }
 
+.navbar-toggler.hamburger {
+    border: 1px solid #e5e5e5;
+    padding: 0.8rem;
+    font-size: .4rem;
+}
+
+.navbar-toggler .hamburger-box {
+    width: 27px;
+    height: 19px;
+}
+
+.navbar-toggler .hamburger-inner, .navbar-toggler .hamburger-inner:after, .navbar-toggler .hamburger-inner:before {
+    width: 28px;
+    height: 2px;
+    background-color: #7f7f7f;
+}
+
 .highlighted-box {
     margin-right: 0;
     margin-left: 0;
