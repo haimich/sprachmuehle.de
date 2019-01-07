@@ -12,11 +12,11 @@
         </picture>
 
         <div class="welcome-image-text text-over-image">
-            <h1>
+            <h1 style="text-shadow: 1px 1px #dedede;">
                 <?=t('home.welcome-header')?>
             </h1>
 
-            <h4>
+            <h4 style="color: #424242">
                 <?=t('home.welcome-subtitle')?>
             </h4>
         </div>
@@ -56,13 +56,14 @@
     </h2>
 
     <div class="col-12" style="margin-top: 20px; margin-bottom: 24px;">
-        <?=t('home.services-text')?>
+        <p><?=t('home.services-text')?></p>
     </div>
 
     <div class="col-12">
         <hr class="purple-line">
     </div>
 
+    <!-- Buttons -->
     <div class="col-12 row" style="margin-top: 40px; margin-left: 10px; display: flex; justify-content: space-between">
         <a href="/dolmetschen" class="col-12 col-md-4 call-to-action call-to-action-wide row justify-content-between">
             <div class="col-8" style="padding-left: 0">
@@ -102,19 +103,19 @@
         Cristina M&uuml;ller
     </h2>
 
-    <h4 class="aboutme-text-sm col-12">
-        <?=t('home.aboutme-text')?>
-    </h4>
+    <div class="col-12" style="margin-top: 12px;">
+        <p style="margin-bottom: 20px"><?=t('home.aboutme-text')?></p>
 
-    <a href="/profil" class="call-to-action col-10 offset-1" style="width: 162px; background-color: white; margin-top: 18px; font-size: .87rem;">
-        <div class="col-8" style="padding-left: 0">
-            <?=t('home.aboutme-button')?>
-        </div>
+        <a href="/profil" class="call-to-action col-10 offset-1">
+            <div class="col-8" style="padding-left: 0">
+                <?=t('home.aboutme-button')?>
+            </div>
 
-        <div class="col-4 text-right" style="padding-right: 0">
-            &gt;
-        </div>
-    </a>
+            <div class="col-4 text-right" style="padding-right: 0">
+                &gt;
+            </div>
+        </a>
+    </div>
 
 </div>
 
@@ -135,11 +136,9 @@
                 Cristina M&uuml;ller
             </h2>
 
-            <h4 class="aboutme-text">
-                <?=t('home.aboutme-text')?>
-            </h4>
+            <p class="aboutme-text"><?=t('home.aboutme-text')?></p>
 
-            <a href="/profil" class="call-to-action" style="width: 162px; background-color: white; margin-top: 18px; font-size: .87rem;">
+            <a href="/profil" class="call-to-action" style="width: 180px; font-size: .87rem;">
                 <div class="col-8" style="padding-left: 0">
                     <?=t('home.aboutme-button')?>
                 </div>
@@ -163,7 +162,7 @@
             <?=t('home.contact-heading')?>
         </h2>
 
-        <p style="margin-top: 16px">
+        <p style="margin-top: 20px;">
             <?=t('home.contact-text')?>
         </p>
 

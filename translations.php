@@ -48,7 +48,7 @@ const TRANSLATIONS = [
 
     /* STARTSEITE */
     "home.title" => [
-        "de" => "Sprachmühle",
+        "de" => "Sprachmühle - Dolmetscherin und Übersetzerin für Rumänisch, Französisch und Italienisch in Karlsruhe",
     ],
     "home.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
@@ -69,13 +69,13 @@ const TRANSLATIONS = [
         "de" => "Dolmetschen",
     ],
     "home.languages" => [
-        "de" => "Mit mir können Sie auf Französisch, Rumänisch und Italienisch genauso selbstsicher und kompetent kommunizieren wie auf Deutsch. Wenn Sie für Ihre internationalen Veranstaltungen weitere Sprachen benötigen, stelle ich für Sie aus meinem Kollegennetzwerk ein erstklassiges Team zusammen und organisiere die erforderliche Technik. So können Sie sich auf Ihre eigentlichen Aufgaben konzentrieren und darauf vertrauen, dass Ihre Veranstaltung ein voller Erfolg wird.",
+        "de" => "Mit mir können Sie auf Französisch, Rumänisch und Italienisch genauso selbstsicher und kompetent kommunizieren wie auf Deutsch. <br /><br />Wenn Sie für Ihre internationalen Veranstaltungen weitere Sprachen benötigen, stelle ich für Sie aus meinem Kollegennetzwerk ein erstklassiges Team zusammen und organisiere die erforderliche Technik. So können Sie sich auf Ihre eigentlichen Aufgaben konzentrieren und darauf vertrauen, dass Ihre Veranstaltung ein voller Erfolg wird.",
     ],
     "home.services-header" => [
         "de" => "Leistungen",
     ],
     "home.services-text" => [
-        "de" => "Mit Übersetzungen und Verdolmetschungen sorge ich für eine effiziente und zuverlässige Kommunikation über Ländergrenzen hinweg. Alltagstexte, amtliche Dokumente aber auch komplizierte Fachtexte von A wie Automobiltechnik bis Z wie Zivilrecht sind bei mir in guten Händen. Bei bilateralen Gesprächen, in Verhandlungen und auf internationalen Fachtagungen begleite ich Sie als Konferenzdolmetscherin. Im Vorfeld solcher Veranstaltungen unterstütze ich Sie bei der Planung und berate Sie zu Dolmetscharten und Dolmetschtechnik.",
+        "de" => "Mit Übersetzungen und Verdolmetschungen sorge ich für eine effiziente und zuverlässige Kommunikation über Ländergrenzen hinweg. Alltagstexte, amtliche Dokumente aber auch komplizierte Fachtexte von A wie Automobiltechnik bis Z wie Zivilrecht sind bei mir in guten Händen. <br />Bei bilateralen Gesprächen, in Verhandlungen und auf internationalen Fachtagungen begleite ich Sie als Konferenzdolmetscherin. Im Vorfeld solcher Veranstaltungen unterstütze ich Sie bei der Planung und berate Sie zu Dolmetscharten und Dolmetschtechnik.",
     ],
     "home.services-cta1" => [
         "de" => "Dolmetschen",
@@ -111,7 +111,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
 
     /* DOLMETSCHEN */
     "interpreting.title" => [
-        "de" => "Sprachmühle",
+        "de" => "Sprachmühle - Simultan- &amp; Konsekutivdolmetscherin",
     ],
     "interpreting.description" => [
         "de" => "Als freiberufliche Konferenzdolmetscherin bin ich für Unternehmen und Institutionen weltweit im Einsatz – simultan und konsekutiv.",

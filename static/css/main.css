@@ -23,7 +23,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
     color: #194d60;
 }
 
@@ -41,16 +41,21 @@ h5 {
     font-size: 1.1rem;
 }
 
+p, address {
+    font-size: 1.12rem;
+    line-height: 1.92rem;
+}
+
 ol li {
     padding-left: 5px;
 }
 
 a {
-    color: #007bff;
+    color: #42bbd6;
 }
 
 a:hover {
-    color: #007bff;
+    color: #42bbd6;
 }
 
 @media all and (max-width: 975px) {
@@ -82,7 +87,8 @@ nav.menu {
 .menu {
     font-size: 1.15rem;
     letter-spacing: 0.4px;
-    padding-right: 20px;
+    padding-left: 45px;
+    padding-right: 45px;
     transition: all 0.12s ease-in-out;
     -webkit-transition: all 0.12s ease-in-out;
     -moz-transition: all 0.12s ease-in-out;
@@ -96,6 +102,8 @@ nav.menu {
     .menu {
         padding-bottom: 11px;
         padding-top: 0;
+        padding-left: 12px;
+        padding-right: 12px;
     }
 }
 
@@ -143,7 +151,7 @@ nav.menu {
     height: 24px;
 }
 
-@media all and (min-width: 768px) and (max-width: 882px) {
+@media all and (min-width: 768px) and (max-width: 1025px) {
     .header-phone-link {
         display: none;
     }
@@ -201,6 +209,7 @@ nav.menu {
 
 .call-to-action {
     color: #333333;
+    background-color: white;
     cursor: pointer;
     display: inline-flex;
     justify-content: center;
@@ -209,20 +218,23 @@ nav.menu {
     border-radius: 30px;
     letter-spacing: .6px;
     font-weight: bold;
-    font-size: 0.7rem;
-    box-shadow: 2px 2px 28px 1px rgba(0, 0, 0, 0.14);
+    font-size: 0.95rem;
+    box-shadow: 2px 2px 11px 1px rgba(0, 0, 0, 0.14);
 }
 
 .call-to-action-wide {
-    font-size: 0.9rem;
-    color: #444;
-    background-color: white;
     margin-top: 10px;
     height: 60px;
-    justify-content: space-between;
+    max-width: 31%;
     align-items: center;
     border: none;
     box-shadow: none;
+}
+
+@media all and (max-width: 800px) {
+    .call-to-action-wide {
+        max-width: 100%;
+    }
 }
 
 .call-to-action:hover {
@@ -242,7 +254,6 @@ nav.menu {
 
 .centered-text-box {
     text-align: center;
-    font-size: 1.12rem;
     color: #121212;
     padding: 90px 0 60px 0;
 }
@@ -380,6 +391,7 @@ nav.menu {
 @media all and (max-width: 768px) {
     .arbeitssprachen-box {
         padding: 45px 0 50px 0;
+        text-align: center;
     }
     
     .arbeitssprachen-box-text {
@@ -410,7 +422,7 @@ nav.menu {
 
 @media all and (max-width: 768px) {
     .aboutme-box {
-        margin-top: 50px;
+        margin-top: 40px;
     }
 
     .aboutme-box .hero-image-container {
@@ -422,7 +434,7 @@ nav.menu {
 .aboutme-image-text {
     position: absolute;
     left: 10%;
-    top: 14%;
+    top: 9%;
 }
 
 @media all and (max-width: 900px) {
@@ -434,9 +446,7 @@ nav.menu {
 
 .aboutme-text {
     margin-top: 20px;
-    font-size: 1.05rem;
     max-width: 45%;
-    line-height: 1.4rem;
 }
 
 @media all and (max-width: 768px) {
@@ -765,7 +775,7 @@ nav.menu {
 }
 
 #headingInterpreting a, #headingTranslating a {
-    color: #007bff;
+    color: #42bbd6;
     font-size: 1.2rem;
     cursor: pointer;
 }
