@@ -48,7 +48,7 @@ const TRANSLATIONS = [
 
     /* STARTSEITE */
     "home.title" => [
-        "de" => "Sprachmühle - Dolmetscherin und Übersetzerin für Rumänisch, Französisch und Italienisch in Karlsruhe",
+        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
     ],
     "home.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
@@ -114,7 +114,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
 
     /* DOLMETSCHEN */
     "interpreting.title" => [
-        "de" => "Sprachmühle - Simultan- &amp; Konsekutivdolmetscherin",
+        "de" => "Konferenzdolmetscherin für Deutsch, Rumänisch, Französisch | Sprachmühle",
     ],
     "interpreting.description" => [
         "de" => "Als freiberufliche Konferenzdolmetscherin bin ich für Unternehmen und Institutionen weltweit im Einsatz – simultan und konsekutiv.",
@@ -269,7 +269,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
 
     /* ÜBERSETZEN */
     "translating.title" => [
-        "de" => "Sprachmühle",
+        "de" => "Professionelle Übersetzungen ins Rumänische und Deutsche | Sprachmühle",
     ],
     "translating.description" => [
         "de" => "Von Alltagstexten bis hin zu komplexen Fachpublikationen fertige ich für Sie schnell und zuverlässig hochwertige Übersetzungen ins Deutsche und Rumänische an.",
@@ -358,7 +358,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
 
     /* PROFIL */
     "profile.title" => [
-        "de" => "Sprachmühle",
+        "de" => "Dolmetscherin & Übersetzerin Cristina Müller | Sprachmühle",
     ],
     "profile.description" => [
         "de" => "Aufgewachsen im rumänischen Brașov, habe ich mir die sprachliche und kulturelle Vielfalt Europas erschlossen und in Deutschland eine zweite Heimat gefunden.",
@@ -456,7 +456,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
 
     /* KONTAKT */
     "contact.title" => [
-        "de" => "Sprachmühle",
+        "de" => "Dolmetsch- und Übersetzungsbüro in der Region Karlsruhe | Sprachmühle",
     ],
     "contact.description" => [
         "de" => "Von meiner Sprachmühle aus berate ich Sie gerne persönlich, telefonisch oder per E-Mail und erstelle zeitnah ein auf Ihre Bedürfnisse maßgeschneidertes Angebot.",
@@ -488,7 +488,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
 
     /* IMPRESSUM */
     "imprint.title" => [
-        "de" => "Sprachmühle",
+        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
     ],
     "imprint.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
@@ -564,7 +564,7 @@ Adlerstraße 4a<br />
 
     /* DATENSCHUTZERKLÄRUNG */
     "privacy.title" => [
-        "de" => "Sprachmühle",
+        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
     ],
     "privacy.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
@@ -776,7 +776,7 @@ Adlerstraße 4a<br />
 
     /* AGB */
     "agb.title" => [
-        "de" => "Sprachmühle",
+        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
     ],
     "agb.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
@@ -1118,7 +1118,7 @@ Adlerstraße 4a<br />
 
     /* 404 */
     "404.title" => [
-        "de" => "Sprachmühle",
+        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
     ],
     "404.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",

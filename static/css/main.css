@@ -503,13 +503,25 @@ nav.menu {
 .aboutme-image-text {
     position: absolute;
     left: 10%;
-    top: 9%;
 }
 
 @media all and (max-width: 900px) {
     .aboutme-image-text {
         left: 11%;
         top: 3%;
+    }
+}
+
+@media all and (min-width: 900px) and (max-width: 1400px) {
+    .aboutme-image-text {
+        top: 9%;
+    }
+}
+
+@media all and (min-width: 1400px) {
+    .aboutme-image-text {
+        left: 11%;
+        top: 15%;
     }
 }
 
