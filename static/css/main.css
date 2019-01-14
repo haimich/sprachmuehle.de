@@ -164,6 +164,7 @@ nav.menu {
 }
 
 .header-phone-link {
+    margin-left: 25px;
     color: #323232;
 }
 
@@ -180,6 +181,20 @@ nav.menu {
 @media all and (min-width: 768px) and (max-width: 1025px) {
     .header-phone-link {
         display: none;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .header-phone-link {
+        margin-left: 0;
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .header-phone {
+        padding: 12px 36px;
+        font-size: 1rem;
     }
 }
 
@@ -773,12 +788,17 @@ nav.menu {
 .contact-welcome-image-text {
     position: absolute;
     left: 4%;
-    bottom: 20%;
+    bottom: 12%;
+    max-width: 45%;
 }
 
 @media all and (max-width: 500px) {
     .contact-welcome-image-text h1 {
         font-size: 1.6rem;
+    }
+
+    .contact-welcome-image-text {
+        bottom: 4%;
     }
 }
 

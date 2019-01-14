@@ -12,7 +12,7 @@
 
     <div class="hero-image col-md-6 d-none d-md-block">
         <img
-            src="/static/images/cristina_mueller_stehend-alt.jpg"
+            src="/static/images/cristina_mueller_stehend.jpg"
             class="img-fluid"
             style="max-width: 456px;"
             alt="<?=t('profile.welcome-alt')?>"

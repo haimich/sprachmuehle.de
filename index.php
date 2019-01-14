@@ -178,7 +178,7 @@
                     ?>
 
                     <!-- Telefonnummer-->
-                    <a href="tel:‭+4915202312427‬" class="header-phone-link" style="margin-left: 25px;" title="<?=t('tel.title')?>">
+                    <a href="tel:‭+4915202312427‬" class="header-phone-link" title="<?=t('tel.title')?>">
                         <div class="header-phone">
                             <img src="/static/images/icons/phone.svg" class="header-phone-icon" alt="<?=t('phone.alt')?>" />01520 231 24 27‬
                         </div>
