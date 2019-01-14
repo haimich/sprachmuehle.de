@@ -144,10 +144,10 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Meine Sprachkombinationen",
     ],
     "interpreting.languages-list1" => [
-        "de" => "Rumänisch <> Deutsch",
+        "de" => "Rumänisch > Deutsch < Rumänisch",
     ],
     "interpreting.languages-list2" => [
-        "de" => "Französisch <> Deutsch",
+        "de" => "Französisch > Deutsch < Französisch",
     ],
     "interpreting.languages-list3" => [
         "de" => "Italienisch > Deutsch",
@@ -415,7 +415,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Studium der Romanistik und der Theater-, Film- und Medienwissenschaft, Johann-Wolfgang-Goethe-Universität, Frankfurt am Main, Abschluss als Magistra Artium in Romanistik und Theater-, Film- und Medienwissenschaft.",
     ],
     "profile.cv-interns-heading" => [
-        "de" => "Auslandssemster und Praxiserfahrung während des Studiums"
+        "de" => "Auslandssemester und Praxiserfahrung während des Studiums"
     ],
     "profile.cv-year6" => [
         "de" => "2011",
@@ -471,7 +471,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Gerne berate ich Sie auch persönlich.",
     ],
     "contact.intro" => [
-        "de" => "Benötigen Sie sprachliche Unterstützung für Ihre Veranstaltungen oder Übersetzungsprojekte? Ich erstelle zeitnah ein auf Ihre Bedürfnisse maßgeschneidertes Angebot, stelle auf Wunsch ein Dolmetscherteam sowie die Dolmetschtechnik zusammen und übersetze gerne Ihre Unterlagen. Nehmen Sie einfach Kontakt mit mir auf!",
+        "de" => "Benötigen Sie Unterstützung für Ihre mehrsprachige Veranstaltungen oder Übersetzungsprojekte? Ich erstelle zeitnah ein auf Ihre Bedürfnisse maßgeschneidertes Angebot, stelle auf Wunsch ein Dolmetschteam sowie die Dolmetschtechnik zusammen und übersetze gerne Ihre Unterlagen. Nehmen Sie einfach Kontakt mit mir auf!",
     ],
     "contact-street" => [
         "de" => "Adlerstraße 4a, 76287 Rheinstetten",

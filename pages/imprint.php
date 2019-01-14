@@ -7,7 +7,7 @@
 
         <p><?=t('imprint.heading-sub')?></p>
         <p>
-            Cristina M&uuml;ller<br />
+            Cristina M&uuml;ller, geb. Lică<br />
             <?=t('imprint.address')?>
         </p>
 
