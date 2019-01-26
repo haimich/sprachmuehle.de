@@ -3,7 +3,7 @@
     <div class="hero-gray-bg hero-gray-bg-profile">&nbsp;</div>
 
     <div class="hero-image-text col-12 col-md-6">
-        <h1 style="margin-bottom: 95px;">
+        <h1 style="margin-bottom: 116px;">
             <?=t('profile.welcome-header')?>
         </h1>
 
