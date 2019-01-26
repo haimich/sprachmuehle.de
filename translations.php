@@ -326,7 +326,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Auf der sicheren Seite – Übersetzungen mit Sachverstand",
     ],
     "translating.industries-sub" => [
-        "de" => "Texte haben immer auch ein Thema und berichten über Sachverhalte. Daher ist es wichtig, sich mit diesen Sachverhalten auszukennen. Sonst kann es zu Verzögerungen oder auch zu Sach- und Personenschäden bei der Inbetriebnahme technischer Anlagen kommen. Und auf politischer Ebene können Missverständnisse zum Abbruch von Verhandlungen oder auch handfesten Konflikten führen. Daher gilt es, das Geschriebene richtig zu verstehen und stilistisch angemessen in einem gepflegten Ton zu übertragen.<p>Fachkenntnisse, Verständnis für komplexe Zusammenhänge und Hintergrundwissen bringe ich in folgenden Bereichen mit:</p>",
+        "de" => "Texte haben immer auch ein Thema und berichten über Sachverhalte. Daher ist es wichtig, sich mit diesen Sachverhalten auszukennen. Sonst kann es zu Verzögerungen oder auch zu Sach- und Personenschäden bei der Inbetriebnahme technischer Anlagen kommen. Und auf politischer Ebene können Missverständnisse zum Abbruch von Verhandlungen oder auch zu handfesten Konflikten führen. Daher gilt es, das Geschriebene richtig zu verstehen und stilistisch angemessen in einem gepflegten Ton zu übertragen.<p>Fachkenntnisse, Verständnis für komplexe Zusammenhänge und Hintergrundwissen bringe ich in folgenden Bereichen mit:</p>",
     ],
     "translating.industries-list1" => [
         "de" => "Politik und Gremienarbeit",
@@ -445,10 +445,10 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Mitgliedschaften"
     ],
     "profile.cv-memberships-list1" => [
-        "de" => "Verband der Konferenzdolmetscher (VKD) im BDÜ e.V."
+        "de" => "Verband der Konferenzdolmetscher (VKD) im BDÜ e. V."
     ],
     "profile.cv-memberships-list2" => [
-        "de" => "Bundesverband der Dolmetscher und Übersetzer (BDÜ) e.V."
+        "de" => "Bundesverband der Dolmetscher und Übersetzer (BDÜ) e. V."
     ],
     "profile.cv-memberships-list3" => [
         "de" => "Im BDÜ engagiere ich mich seit 2015 für ein vielfältiges berufsspezifisches Weiterbildungsangebot und bin als Koordinatorin für den Weiterbildungsverbund Südwest tätig."
@@ -468,10 +468,10 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Kontakt",
     ],
     "contact.welcome-sub" => [
-        "de" => "Benötigen Sie Unterstützung für Ihre mehrsprachige Veranstaltungen oder Übersetzungsprojekte?<br /><br />Gerne berate ich Sie auch persönlich.",
+        "de" => "Benötigen Sie Unterstützung für Ihre mehrsprachigen Veranstaltungen oder Übersetzungsprojekte?<br /><br />Gerne berate ich Sie auch persönlich.",
     ],
     "contact.intro" => [
-        "de" => "Ich erstelle zeitnah ein auf Ihre Bedürfnisse maßgeschneidertes Angebot, stelle auf Wunsch ein Dolmetschteam sowie die Dolmetschtechnik zusammen und übersetze gerne Ihre Unterlagen. Nehmen Sie einfach Kontakt mit mir auf!",
+        "de" => "Ich erstelle zeitnah ein genau auf Ihre Bedürfnisse zugeschnittenes Angebot, stelle auf Wunsch ein Dolmetschteam sowie die Dolmetschtechnik zusammen und übersetze gerne Ihre Unterlagen. Nehmen Sie einfach Kontakt mit mir auf!",
     ],
     "contact-street" => [
         "de" => "Adlerstraße 4a, 76287 Rheinstetten",

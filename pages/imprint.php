@@ -13,7 +13,7 @@
 
         <h4><?=t('imprint.contact-heading')?></h4>
         <p>
-            <?=t('imprint.contact-tel')?>: +49 (0) 1520 231 24 27‬<br />
+            <?=t('imprint.contact-tel')?>: <a href="tel:‭+4915202312427‬">+49 (0) 1520 231 24 27‬</a><br />
             <?=t('imprint.contact-mail')?>: <a href="mailto:mail@sprachmuehle.de">mail@sprachmuehle.de</a>
         </p>
 
