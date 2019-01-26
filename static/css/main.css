@@ -745,13 +745,23 @@ nav.menu {
     height: 63%;
 }
 
-@media all and (max-width: 768px) {
+@media all and (min-width: 360px) and (max-width: 768px) {
     .profile-intro-box {
         margin-top: 45px;
     }
 
     .hero-gray-bg-profile {
-        height: 73%;
+        height: 70%;
+    }
+}
+
+@media all and (max-width: 360px) {
+    .profile-intro-box {
+        margin-top: 45px;
+    }
+
+    .hero-gray-bg-profile {
+        height: 76%;
     }
 }
 
