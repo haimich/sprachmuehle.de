@@ -820,7 +820,7 @@ nav.menu {
     }
 
     .contact-welcome-image-text {
-        bottom: 4%;
+        bottom: 15%;
     }
 }
 
@@ -833,6 +833,12 @@ nav.menu {
 @media all and (max-width: 768px) {
     .contact-welcome-sub {
         font-size: 1rem;
+    }
+}
+
+@media all and (max-width: 440px) {
+    .contact-welcome-sub-detail {
+        display: none;
     }
 }
 

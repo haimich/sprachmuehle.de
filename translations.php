@@ -467,8 +467,11 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     "contact.welcome-header" => [
         "de" => "Kontakt",
     ],
-    "contact.welcome-sub" => [
-        "de" => "Benötigen Sie Unterstützung für Ihre mehrsprachigen Veranstaltungen oder Übersetzungsprojekte?<br /><br />Gerne berate ich Sie auch persönlich.",
+    "contact.welcome-sub1" => [
+        "de" => "Benötigen Sie Unterstützung für Ihre mehrsprachigen Veranstaltungen oder Übersetzungsprojekte?",
+    ],
+    "contact.welcome-sub2" => [
+        "de" => "Gerne berate ich Sie auch persönlich.",
     ],
     "contact.intro" => [
         "de" => "Ich erstelle zeitnah ein genau auf Ihre Bedürfnisse zugeschnittenes Angebot, stelle auf Wunsch ein Dolmetschteam sowie die Dolmetschtechnik zusammen und übersetze gerne Ihre Unterlagen. Nehmen Sie einfach Kontakt mit mir auf!",

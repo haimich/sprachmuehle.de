@@ -16,7 +16,8 @@
             </h1>
 
             <h4 class="contact-welcome-sub">
-                <?=t('contact.welcome-sub')?>
+            <span class="contact-welcome-sub-detail"><?=t('contact.welcome-sub1')?><br /><br /></span>
+                <?=t('contact.welcome-sub2')?>
             </h4>
         </div>
     </div>
