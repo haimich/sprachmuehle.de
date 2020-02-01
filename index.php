@@ -245,42 +245,8 @@
     <!-- SCRIPTS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 
     <script src="/static/js/main.js"></script>
-
-    <!-- GA -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131758503-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-131758503-1');
-    </script>
-    
-    <!-- COOKIE CONSENT -->
-    <script>
-        window.addEventListener("load", function() {
-            window.cookieconsent.initialise({
-                "palette": {
-                    "popup": {
-                        "background": "#1d8a8a",
-                    },
-                    "button": {
-                        "background": "#194d60",
-                    }
-                },
-                "theme": "classic",
-                "content": {
-                    "message": "<?=t('cookies.text')?>",
-                    "dismiss": "<?=t('cookies.accept')?>",
-                    "link": "<?=t('cookies.moreInfo')?>",
-                    "href": "/datenschutz"
-                },
-            });
-        });
-    </script>
     
 </body>
 </html>
