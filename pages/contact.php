@@ -55,36 +55,7 @@
 
     </div>
 
-    <div class="maps-box col-12 col-md-6">
-        <div style="height: 403px" id="google-maps-canvas"></div>
+    <div id="maps" class="maps-box col-12 col-md-6">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2618.980032249262!2d8.3066139!3d48.9729045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4797037ed618a70b%3A0x196af9cc53043946!2sSprachm%C3%BChle%20%7C%20Cristina%20M%C3%BCller%20%7C%20Konferenzdolmetscherin%20%26%20%C3%9Cbersetzerin!5e0!3m2!1sde!2sde!4v1711316777296!5m2!1sde!2sde" width="85%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>
-
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAeIbdV0NH4vwSyZl57mEohSAuA6R2vCQ"></script>
-
-<script>
-    let gmegMap, gmegMarker, gmegInfoWindow, latLng;
-    
-    function initMap() {
-        latLng = new google.maps.LatLng(48.97294, 8.30632);
-
-        gmegMap = new google.maps.Map(document.getElementById("google-maps-canvas"), {
-            zoom: 11,
-            center: latLng,
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
-            mapTypeControl: false,
-        });
-
-        gmegMarker = new google.maps.Marker({
-            map: gmegMap,
-            position: latLng,
-        });
-        gmegInfoWindow = new google.maps.InfoWindow({
-            content: "<b>Sprachmühle</b><br>Adlerstraße 4a<br>76287 Rheinstetten",
-        });
-
-        gmegInfoWindow.open(gmegMap, gmegMarker);
-    }
-    
-    google.maps.event.addDomListener(window, "load", initMap);
-</script>

@@ -18,6 +18,8 @@ const PAGE_404 = "PAGE_404";
 $page = PAGE_HOME;
 
 if (isset($_SERVER["REQUEST_URI"])) {
+    $path = "";
+
     if ($_SERVER["REQUEST_URI"] == null || $_SERVER["REQUEST_URI"] === "" || $_SERVER["REQUEST_URI"] === "/") {
         $path = "/";
     } else {
