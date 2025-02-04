@@ -1,4 +1,4 @@
-<div class="privacy-container row">
+<div class="row">
     <div class="col-12 col-md-10 offset-md-1">
         <h2>
             <?=t('privacy.heading')?>

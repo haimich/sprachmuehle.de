@@ -1,26 +1,3 @@
-CookieConsent.run({
-    categories: {
-        necessary: {
-            enabled: true,  // this category is enabled by default
-            readOnly: true  // this category cannot be disabled
-        },
-        analytics: {}
-    },
-
-    language: {
-        default: 'de',
-        translations: {
-            de: {
-                consentModal: {
-                    title: 'Wir nutzen Cookies, um die Zugriffe auf unsere Website zu analysieren',
-                    acceptAllBtn: 'Alle akzeptieren',
-                    acceptNecessaryBtn: 'Alle ablehnen',
-                },
-            }
-        }
-    }
-});
-
 // make header shrink on scroll
 $(document).on("scroll", function () {
     if ($(document).scrollTop() > 100) {
