@@ -477,7 +477,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Ich erstelle zeitnah ein genau auf Ihre Bedürfnisse zugeschnittenes Angebot, stelle auf Wunsch ein Dolmetschteam sowie die Dolmetschtechnik zusammen und übersetze gerne Ihre Unterlagen. Nehmen Sie einfach Kontakt mit mir auf!",
     ],
     "contact-street" => [
-        "de" => "Adlerstraße 4a, 76287 Rheinstetten",
+        "de" => "Frankenstr. 7, 67373 Dudenhofen",
     ],
     "contact-tel-heading" => [
         "de" => "Tel",
@@ -504,8 +504,8 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
     ],
     "imprint.address" => [
         "de" => "Dolmetscherin und Übersetzerin<br />
-Adlerstraße 4a<br />
-76287 Rheinstetten",
+Frankenstr. 7<br />
+67373 Dudenhofen",
     ],
     "imprint.contact-heading" => [
         "de" => "Kontakt",
@@ -908,7 +908,7 @@ Adlerstraße 4a<br />
         "de" => "§ 9&nbsp;&nbsp;Datenschutzbestimmungen",
     ],
     "agb.interpreting.§9-1" => [
-        "de" => "Diese Datenschutzhinweise gelten für die Datenverarbeitung durch die Dolmetscherin. Verantwortliche: Frau Cristina Müller, Adlerstraße 4a, 76287 Rheinstetten, Deutschland, E-Mail: mail@sprachmuehle.de, Telefonnummer:",
+        "de" => "Diese Datenschutzhinweise gelten für die Datenverarbeitung durch die Dolmetscherin. Verantwortliche: Frau Cristina Müller, Frankenstr. 7, 67373 Dudenhofen, Deutschland, E-Mail: mail@sprachmuehle.de, Telefonnummer:",
     ],
     "agb.interpreting.§9-2-1" => [
         "de" => "Der Auftraggeber der Dolmetscherin kann eine reibungslose Abwicklung des Auftrages erwarten. Dabei lässt es sich nicht vermeiden, dass bestimmte Daten des Auftraggebers unter Verwendung technischer Hilfsmittel gespeichert werden. Bei Auftragsannahme erhebt die Dolmetscherin eine Reihe personenbezogener Daten als sogenannte Basisdaten, die benötigt werden, um den erteilten Auftrag reibungslos ausführen zu können. Dabei werden nur solche Daten gespeichert, die für die Vertragserfüllung zwingend notwendig sind. Die Dolmetscherin erhebt und verwendet personenbezogenen Daten des Auftraggebers ausschließlich im Rahmen der Bestimmungen des geltenden Datenschutzrechts der BRD. Die Dolmetscherin erhebt, verarbeitet und nutzt folgende Informationen",
@@ -1078,7 +1078,7 @@ Adlerstraße 4a<br />
         "de" => "§ 11&nbsp;&nbsp;Datenschutzbestimmung",
     ],
     "agb.translating.§11-1" => [
-        "de" => "Diese Datenschutzhinweise gelten für die Datenverarbeitung durch die Übersetzerin. Verantwortliche: <strong>Frau Cristina Müller</strong>, Adlerstr. 4a, 76287 Rheinstetten,  Deutschland, E-Mail: <a href='mailto:mail@sprachmuehle.de'>mail@sprachmuehle.de</a>, Tel.",
+        "de" => "Diese Datenschutzhinweise gelten für die Datenverarbeitung durch die Übersetzerin. Verantwortliche: <strong>Frau Cristina Müller</strong>, Frankenstr. 7, 67373 Dudenhofen,  Deutschland, E-Mail: <a href='mailto:mail@sprachmuehle.de'>mail@sprachmuehle.de</a>, Tel.",
     ],
     "agb.translating.§11-2-1" => [
         "de" => "Der Auftraggeber der Übersetzerin kann eine reibungslose Abwicklung des Auftrages erwarten. Dabei lässt es sich nicht vermeiden, dass bestimmte Daten des Auftraggebers unter Verwendung technischer Hilfsmittel gespeichert werden. Bei Auftragsannahme erhebt die Übersetzerin eine Reihe personenbezogener Daten als sogenannte Basisdaten, die benötigt werden, um den erteilten Auftrag reibungslos ausführen zu können. Dabei werden nur solche Daten gespeichert, die für die Vertragserfüllung zwingend notwendig sind. Die Übersetzerin erhebt und verwendet personenbezogene Daten des Auftraggebers ausschließlich im Rahmen der Bestimmungen des geltenden Datenschutzrechts der BRD. Die Übersetzerin erhebt, verarbeitet und nutzt folgende Informationen",
