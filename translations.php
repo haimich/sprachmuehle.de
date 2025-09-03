@@ -48,7 +48,7 @@ const TRANSLATIONS = [
 
     /* STARTSEITE */
     "home.title" => [
-        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
+        "de" => "Dolmetscherin und Übersetzerin in Speyer | Sprachmühle",
     ],
     "home.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
@@ -75,7 +75,7 @@ const TRANSLATIONS = [
         "de" => "Leistungen",
     ],
     "home.services-text" => [
-        "de" => "Mit Übersetzungen und Verdolmetschungen sorge ich für eine effiziente und zuverlässige Kommunikation über Ländergrenzen hinweg. Alltagstexte, amtliche Dokumente aber auch komplizierte Fachtexte von A wie Automobiltechnik bis Z wie Zivilrecht sind bei mir in guten Händen. <br />Bei bilateralen Gesprächen, in Verhandlungen und auf internationalen Fachtagungen begleite ich Sie als Konferenzdolmetscherin. Im Vorfeld solcher Veranstaltungen unterstütze ich Sie bei der Planung und berate Sie zu Dolmetscharten und Dolmetschtechnik.",
+        "de" => "Mit Übersetzungen und Verdolmetschungen sorge ich für eine effiziente und zuverlässige Kommunikation über Ländergrenzen hinweg. Alltagstexte, amtliche Dokumente, aber auch komplizierte Fachtexte von A wie Automobiltechnik bis Z wie Zivilrecht sind bei mir in guten Händen. <br />Bei bilateralen Gesprächen, in Verhandlungen und auf internationalen Fachtagungen begleite ich Sie als Konferenzdolmetscherin. Im Vorfeld solcher Veranstaltungen unterstütze ich Sie bei der Planung und berate Sie zu Dolmetscharten und Dolmetschtechnik.",
     ],
     "home.services-cta1" => [
         "de" => "Dolmetschen",
@@ -93,7 +93,7 @@ const TRANSLATIONS = [
         "de" => "Ich bin ausgebildete Konferenzdolmetscherin und Übersetzerin für die Sprachen Deutsch, Rumänisch, Französisch und Italienisch.",
     ],
     "home.aboutme-text2" => [
-        "de" => "Obwohl sich meine Sprachmühle am Rhein, in der Nähe von Karlsruhe befindet, bin ich für Sie weltweit im Einsatz. Faszination und Begeisterung für fremde Kulturen und Sprachen haben mich zu meinem Beruf geführt, den ich mit Leidenschaft und einem hohen Anspruch an meine Arbeit ausübe.",
+        "de" => "Obwohl sich meine Sprachmühle am Rhein, in der Nähe von Speyer befindet, bin ich für Sie weltweit im Einsatz. Faszination und Begeisterung für fremde Kulturen und Sprachen haben mich zu meinem Beruf geführt, den ich mit Leidenschaft und einem hohen Anspruch an meine Arbeit ausübe.",
     ],
     "home.aboutme-button" => [
         "de" => "Profil",
@@ -370,7 +370,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
         "de" => "Profil",
     ],
     "profile.welcome-sub" => [
-        "de" => "Die Sprachmühle ist ein Dolmetsch- und Übersetzungsbüro für die Sprachen Rumänisch, Deutsch, Französisch und Italienisch. Sie steht am Rhein, unweit von Karlsruhe, und nutzt mein Wissen und meine Leidenschaft, um Gesagtes und Geschriebenes aus einer Sprache in eine andere zu übertragen. Als „Müllerin“ sorge ich dafür, dass Verständigung über kulturelle Barrieren und Ländergrenzen hinweg gelingt und die Kommunikation nicht abreißt. Dabei sind Handwerk und Tradition genau wie Technik und Know-how gefragt, um fachgerecht die passenden Worte zu produzieren und die gewünschte Resonanz zu erzeugen.",
+        "de" => "Die Sprachmühle ist ein Dolmetsch- und Übersetzungsbüro für die Sprachen Rumänisch, Deutsch, Französisch und Italienisch. Sie steht am Rhein, unweit von Speyer, und nutzt mein Wissen und meine Leidenschaft, um Gesagtes und Geschriebenes aus einer Sprache in eine andere zu übertragen. Als „Müllerin“ sorge ich dafür, dass Verständigung über kulturelle Barrieren und Ländergrenzen hinweg gelingt und die Kommunikation nicht abreißt. Dabei sind Handwerk und Tradition genau wie Technik und Know-how gefragt, um fachgerecht die passenden Worte zu produzieren und die gewünschte Resonanz zu erzeugen.",
     ],
     "profile.intro1" => [
         "de" => "Die Müllerin bin ich, Cristina Müller, geboren und aufgewachsen im rumänischen Brașov. Als Kind war ich ungeheuer neugierig und entwickelte eine Faszination für alles Fremde und Exotische. Auf Entdeckungsreise machte ich mich, nachdem die Grenzen in Europa gefallen waren. Deutschland wurde für mich zur zweiten Heimat. Hier konnte ich mir meinen Traum erfüllen: Romanistik in Frankfurt studieren und in Germersheim Konferenzdolmetscherin werden. Von hier aus konnte ich mir die sprachliche und kulturelle Vielfalt Europas erschließen, indem ich Auslandssemester in Frankreich, Italien und Belgien absolvierte.",
@@ -456,7 +456,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
 
     /* KONTAKT */
     "contact.title" => [
-        "de" => "Dolmetsch- und Übersetzungsbüro in der Region Karlsruhe | Sprachmühle",
+        "de" => "Dolmetsch- und Übersetzungsbüro in der Region Speyer | Sprachmühle",
     ],
     "contact.description" => [
         "de" => "Von meiner Sprachmühle aus berate ich Sie gerne persönlich, telefonisch oder per E-Mail und erstelle zeitnah ein auf Ihre Bedürfnisse maßgeschneidertes Angebot.",
@@ -491,7 +491,7 @@ Sie haben noch Fragen? Sie wünschen ein Angebot oder eine unverbindliche Beratu
 
     /* IMPRESSUM */
     "imprint.title" => [
-        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
+        "de" => "Dolmetscherin und Übersetzerin in Speyer | Sprachmühle",
     ],
     "imprint.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
@@ -567,7 +567,7 @@ Frankenstr. 7<br />
 
     /* DATENSCHUTZERKLÄRUNG */
     "privacy.title" => [
-        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
+        "de" => "Dolmetscherin und Übersetzerin in Speyer | Sprachmühle",
     ],
     "privacy.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
@@ -779,7 +779,7 @@ Frankenstr. 7<br />
 
     /* AGB */
     "agb.title" => [
-        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
+        "de" => "Dolmetscherin und Übersetzerin in Speyer | Sprachmühle",
     ],
     "agb.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
@@ -1121,7 +1121,7 @@ Frankenstr. 7<br />
 
     /* 404 */
     "404.title" => [
-        "de" => "Dolmetscherin und Übersetzerin in Karlsruhe | Sprachmühle",
+        "de" => "Dolmetscherin und Übersetzerin in Speyer | Sprachmühle",
     ],
     "404.description" => [
         "de" => "Als professionelle Dolmetscherin und Übersetzerin bin ich Ihre Expertin für mehrsprachige Kommunikation in Deutsch, Rumänisch, Französisch und Italienisch.",
